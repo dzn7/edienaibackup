@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "03pRqKnFq1qVVTIVCobk",
+    "data": {
+      "tableNumber": 39,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "0xXAkBmOrRjiaecjiQjq",
+    "data": {
+      "tableNumber": 85,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "1BzgrInddvUuuXvUWArt",
+    "data": {
+      "tableNumber": 28,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1754442650,
+        "_nanoseconds": 638000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "1KJ5NAcakYrY4TITWMUr",
+    "data": {
+      "tableNumber": 65,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "1U1MywjPE81M3GpKW6je",
+    "data": {
+      "tableNumber": 27,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1752460476,
+        "_nanoseconds": 988000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "5aXr5okCJy0qrK4wDSgP",
+    "data": {
+      "tableNumber": 14,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1757157745,
+        "_nanoseconds": 799000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "6HMsavWCYOKGeospaWg6",
+    "data": {
+      "tableNumber": 2,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "PF-17572053306913HBI39",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757205330,
+        "_nanoseconds": 395000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "6ces0KlABunn7VnmpdWU",
+    "data": {
+      "tableNumber": 82,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "6vyCgzYOjldevgqBEmz1",
+    "data": {
+      "tableNumber": 40,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849208,
+        "_nanoseconds": 910000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "6zQhykiqeJD26FGw8Ej7",
+    "data": {
+      "tableNumber": 16,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756501924,
+        "_nanoseconds": 836000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "8f3csC1qxQL4AAsfK4Uh",
+    "data": {
+      "tableNumber": 70,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "90xhQv62oJDKdGdFg4Ws",
+    "data": {
+      "tableNumber": 78,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "9v2wZNsshh4Blgknnlzm",
+    "data": {
+      "tableNumber": 19,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "PF-1757197665172SEW6U6",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757197664,
+        "_nanoseconds": 968000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "AIzHkMOtzwS5gfQ8YLqx",
+    "data": {
+      "tableNumber": 94,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "AlxEcXdsoOvg4XnTrfra",
+    "data": {
+      "tableNumber": 73,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "B3aI6aTb7l7nvlEFIaLW",
+    "data": {
+      "tableNumber": 48,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849208,
+        "_nanoseconds": 554000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "CRzzj3QY7crz3A7yRi6G",
+    "data": {
+      "tableNumber": 92,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "CcCS9YZF1A2TKYQyoavd",
+    "data": {
+      "tableNumber": 43,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "DeFkQAxlu3ROb63bGBJe",
+    "data": {
+      "tableNumber": 96,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Df8xZCr8ylQKMvucCy5S",
+    "data": {
+      "tableNumber": 81,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "DjTYIITNCSOczQ04X1cJ",
+    "data": {
+      "tableNumber": 18,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756612684,
+        "_nanoseconds": 268000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "EGLSxfTaFb3sx3v3hNCE",
+    "data": {
+      "tableNumber": 47,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849212,
+        "_nanoseconds": 704000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Er8uW6dGMfF5BkqwA6i1",
+    "data": {
+      "tableNumber": 72,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Ew22gFl6HtexmCzVaFTp",
+    "data": {
+      "tableNumber": 51,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1755815829,
+        "_nanoseconds": 338000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "F7QhGWQWEBGZCApO3UR8",
+    "data": {
+      "tableNumber": 13,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1757157749,
+        "_nanoseconds": 308000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "HGae94rZemxJTpmK7HBR",
+    "data": {
+      "tableNumber": 32,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Iluf6B5jwJ6oKfOXdXc3",
+    "data": {
+      "tableNumber": 35,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753498322,
+        "_nanoseconds": 789000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Ip5icMrYjG2aIHZqiEmx",
+    "data": {
+      "tableNumber": 89,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "JUafUYrNnMg7ZynjURgg",
+    "data": {
+      "tableNumber": 11,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1757157742,
+        "_nanoseconds": 601000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "K45livfAhQImXyaMXEwd",
+    "data": {
+      "tableNumber": 58,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "KBk4KUvjnLcrhOB9Z5HF",
+    "data": {
+      "tableNumber": 54,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "KP6SlEL7HMxYjrFdfzzB",
+    "data": {
+      "tableNumber": 93,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Ls2XkHl1hf76RMdMZe4R",
+    "data": {
+      "tableNumber": 87,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "MDkNU9QsvsJuM3vGqPac",
+    "data": {
+      "tableNumber": 50,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849211,
+        "_nanoseconds": 526000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Md2nfwbJ8JFt4fhRgLCz",
+    "data": {
+      "tableNumber": 22,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1755303350,
+        "_nanoseconds": 731000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "PJJML9htCCwv1ifWBsMt",
+    "data": {
+      "tableNumber": 1,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "1757194593761alrl1w",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757194594,
+        "_nanoseconds": 121000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "QJMQ4b6tYUpTtD3sruEN",
+    "data": {
+      "tableNumber": 26,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753200175,
+        "_nanoseconds": 448000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "RsC6ThQld6ZwRFuGUEub",
+    "data": {
+      "tableNumber": 49,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "S1aYuwJ20M5m7CPjrv2q",
+    "data": {
+      "tableNumber": 61,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849209,
+        "_nanoseconds": 208000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "SU65G2SI9l1wB2wFOMQ1",
+    "data": {
+      "tableNumber": 75,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "TtXdN14TyRgpqCEIGQsX",
+    "data": {
+      "tableNumber": 77,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "VvcW5NEHISzjuCEdJ8QX",
+    "data": {
+      "tableNumber": 5,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756907370,
+        "_nanoseconds": 117000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "WR3zLForJT7mEvtxlt0t",
+    "data": {
+      "tableNumber": 3,
+      "createdAt": {
+        "_seconds": 1755815932,
+        "_nanoseconds": 516000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756227159,
+        "_nanoseconds": 97000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "WYFcVg5FQjWb7Tjojv8B",
+    "data": {
+      "tableNumber": 67,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "WhJtC2swcDJx7LD3ouhK",
+    "data": {
+      "tableNumber": 63,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1754442285,
+        "_nanoseconds": 211000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Wm9IvQcjBeAXIeUzeEJq",
+    "data": {
+      "tableNumber": 20,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "PF-175719422821171PCVI",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757194227,
+        "_nanoseconds": 972000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "WsFruLgBTcYSGZ5585vL",
+    "data": {
+      "tableNumber": 37,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753498338,
+        "_nanoseconds": 972000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "XPVbqmdRcxVW7gJHl77w",
+    "data": {
+      "tableNumber": 33,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "XvgFLeGoI6zykKB8PXMH",
+    "data": {
+      "tableNumber": 24,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756907393,
+        "_nanoseconds": 401000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "YRJvGSRs3YprWvZ2FIGu",
+    "data": {
+      "tableNumber": 66,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "YymGviAhriJoqqOa1gPv",
+    "data": {
+      "tableNumber": 62,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849208,
+        "_nanoseconds": 419000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ZVR27TCy3vrPHTLo7m4v",
+    "data": {
+      "tableNumber": 10,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1757157734,
+        "_nanoseconds": 224000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "aFJjKK8i8DZHA1Da2Map",
+    "data": {
+      "tableNumber": 4,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "PF-1757205377964B8E3E7",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757205377,
+        "_nanoseconds": 587000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bCIrE8thnVxdcX3EoBoR",
+    "data": {
+      "tableNumber": 88,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bEAUDhn5town4qzIGUUB",
+    "data": {
+      "tableNumber": 53,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bkW9EDxMH3tpQ2vYQOQT",
+    "data": {
+      "tableNumber": 99,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849208,
+        "_nanoseconds": 180000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "blN2WwidDwdWZApDme2n",
+    "data": {
+      "tableNumber": 38,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "chBTTzLj26EdQQPaTaxk",
+    "data": {
+      "tableNumber": 71,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "dZkUwFvmb7qSUBnreEqx",
+    "data": {
+      "tableNumber": 57,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ejupFokxxyUbbKnA7ZZt",
+    "data": {
+      "tableNumber": 17,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1757108774,
+        "_nanoseconds": 714000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "evFHukWc9B6TKhULcq4t",
+    "data": {
+      "tableNumber": 31,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849211,
+        "_nanoseconds": 547000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ezUMrTlA9kYmw0VE7Ssv",
+    "data": {
+      "tableNumber": 100,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1757108792,
+        "_nanoseconds": 117000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "f2Xdm1gekwSSid7f1N9q",
+    "data": {
+      "tableNumber": 79,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1752899728,
+        "_nanoseconds": 673000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "gNbBzAHSNIA1eJOlDMm7",
+    "data": {
+      "tableNumber": 46,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849212,
+        "_nanoseconds": 721000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "gjSff9Ls9X66j6FIkZ6i",
+    "data": {
+      "tableNumber": 69,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hGrCXkW5FGp9MGzmIF9T",
+    "data": {
+      "tableNumber": 97,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hPvcvcAswyLg5J0HyDgM",
+    "data": {
+      "tableNumber": 45,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849208,
+        "_nanoseconds": 625000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hoGwNMtC6AN5qSFfJt2J",
+    "data": {
+      "tableNumber": 90,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hoIUurey7RYU5M09Sjbq",
+    "data": {
+      "tableNumber": 8,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1757157726,
+        "_nanoseconds": 813000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hqz6Tco49B6bjZPNkYEH",
+    "data": {
+      "tableNumber": 34,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849210,
+        "_nanoseconds": 981000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "irlZxCkMDVXTkCJq0kON",
+    "data": {
+      "tableNumber": 52,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1755480688,
+        "_nanoseconds": 807000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "jLg7zca86UFyUuxCMmkP",
+    "data": {
+      "tableNumber": 30,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756501608,
+        "_nanoseconds": 466000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "jYrqrk9Xj3nAbH8mHvvi",
+    "data": {
+      "tableNumber": 12,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1755379141,
+        "_nanoseconds": 863000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "khXF0zs0BwCKJajRZZkI",
+    "data": {
+      "tableNumber": 83,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1754583963,
+        "_nanoseconds": 135000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "kltLer2Ghz2d08VkiCr4",
+    "data": {
+      "tableNumber": 84,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "lapediwXmToVipw0AVQa",
+    "data": {
+      "tableNumber": 59,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mOH3vTJ2eWDZ6qZggw2X",
+    "data": {
+      "tableNumber": 68,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849209,
+        "_nanoseconds": 107000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mzCUPDy4Q7p1641ugseO",
+    "data": {
+      "tableNumber": 60,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849208,
+        "_nanoseconds": 367000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "oRmlo7Akk1nYqEjzBEF9",
+    "data": {
+      "tableNumber": 9,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "PF-17572105461906YJR16",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757210546,
+        "_nanoseconds": 168000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "oelwuXEzWHQccYzaIMRQ",
+    "data": {
+      "tableNumber": 29,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "PF-1757203648358FV87ZJ",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757203648,
+        "_nanoseconds": 71000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "otuRP1eUiQGfY1uAT6P4",
+    "data": {
+      "tableNumber": 6,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756907389,
+        "_nanoseconds": 500000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "pndBPO9ecfPvdwQE1MUo",
+    "data": {
+      "tableNumber": 95,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "qFn9NJY1YY655ouLUYIV",
+    "data": {
+      "tableNumber": 7,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "status": "ocupada",
+      "currentOrderId": "PF-1757204033624NKH0Y2",
+      "updatedAt": {
+        "_seconds": 1757204033,
+        "_nanoseconds": 445000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "qMA3xw3ymN6QO8uis3hh",
+    "data": {
+      "tableNumber": 98,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "rjXqiizYnbN3qxQHjiDI",
+    "data": {
+      "tableNumber": 91,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "s6xKLJdP2jjMA4uuCUSJ",
+    "data": {
+      "tableNumber": 55,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "sOqQk9ikVN3jQoEdTbeF",
+    "data": {
+      "tableNumber": 41,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753200582,
+        "_nanoseconds": 523000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "t3MfMAb1fqBmFpi4T2QV",
+    "data": {
+      "tableNumber": 80,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "tXDCyqnPxX72IGIGsejH",
+    "data": {
+      "tableNumber": 56,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "uJi2a3uBVYIq2UICnWBi",
+    "data": {
+      "tableNumber": 36,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ueRWTRB0V4QBxFqKyCY7",
+    "data": {
+      "tableNumber": 42,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1753849211,
+        "_nanoseconds": 677000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "uiZiqEbb5bq1PKzpl4HC",
+    "data": {
+      "tableNumber": 25,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756673213,
+        "_nanoseconds": 998000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "vA7ZHVSTM6VPERfgtGEo",
+    "data": {
+      "tableNumber": 44,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "wHOg4y0Ec7fjUKiqtxJT",
+    "data": {
+      "tableNumber": 15,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": "M-17571933668762N3JOR",
+      "status": "ocupada",
+      "updatedAt": {
+        "_seconds": 1757193280,
+        "_nanoseconds": 73000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "x3w81MYNvHD4n9gI4PZi",
+    "data": {
+      "tableNumber": 64,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "xQShPWHjKSE0vn61SyyK",
+    "data": {
+      "tableNumber": 74,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "xSQFMf1B11J87uKZ3i8m",
+    "data": {
+      "tableNumber": 76,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "zQvkxz7HEFdKM3kYsWO3",
+    "data": {
+      "tableNumber": 21,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "currentOrderId": null,
+      "status": "livre",
+      "updatedAt": {
+        "_seconds": 1756227601,
+        "_nanoseconds": 499000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "zmzeN3lByTULIRLUrSHw",
+    "data": {
+      "tableNumber": 86,
+      "status": "livre",
+      "currentOrderId": null,
+      "createdAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      },
+      "updatedAt": {
+        "_seconds": 1752208562,
+        "_nanoseconds": 450000000
+      }
+    },
+    "subcollections": {}
+  }
+]

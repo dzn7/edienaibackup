@@ -1,0 +1,92 @@
+[
+  {
+    "id": "alface",
+    "data": {
+      "nome": "Alface",
+      "preco": "0.00",
+      "categoria": "gratis"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bacon_extra",
+    "data": {
+      "nome": "Bacon Extra",
+      "categoria": "adicional_pago",
+      "preco": 4
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cebola",
+    "data": {
+      "categoria": "adicional_pago",
+      "nome": "Carne Extra",
+      "preco": "5.00"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cheddar",
+    "data": {
+      "nome": "Cheddar",
+      "categoria": "adicional_pago",
+      "preco": 4
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ketchup",
+    "data": {
+      "nome": "Ketchup",
+      "preco": "0.00",
+      "categoria": "gratis"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "maionese_verde",
+    "data": {
+      "nome": "Maionese Verde",
+      "preco": "0.00",
+      "categoria": "gratis"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mostarda",
+    "data": {
+      "nome": "Mostarda",
+      "preco": "0.00",
+      "categoria": "gratis"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ovo",
+    "data": {
+      "nome": "Ovo",
+      "categoria": "adicional_pago",
+      "preco": 2
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "queijo_extra",
+    "data": {
+      "nome": "Queijo Extra",
+      "categoria": "adicional_pago",
+      "preco": 3
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "tomate",
+    "data": {
+      "nome": "Tomate",
+      "preco": "0.00",
+      "categoria": "gratis"
+    },
+    "subcollections": {}
+  }
+]

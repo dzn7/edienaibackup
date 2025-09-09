@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0Pj6haAKNatIbByc2S23",
+    "data": {
+      "amount": 700,
+      "category": "Salários",
+      "description": "Pagamento da Ithauana",
+      "expenseDate": {
+        "_seconds": 1756857600,
+        "_nanoseconds": 0
+      },
+      "createdAt": {
+        "_seconds": 1756695093,
+        "_nanoseconds": 845000000
+      },
+      "updatedAt": {
+        "_seconds": 1756695093,
+        "_nanoseconds": 845000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "TWU9Z1mOOszOToaYMpFo",
+    "data": {
+      "category": "Salários",
+      "description": "Dia de pagar dona Francisca",
+      "expenseDate": {
+        "_seconds": 1752451200,
+        "_nanoseconds": 0
+      },
+      "createdAt": {
+        "_seconds": 1752525786,
+        "_nanoseconds": 298000000
+      },
+      "amount": 800,
+      "updatedAt": {
+        "_seconds": 1756301533,
+        "_nanoseconds": 185000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "VHIsKEPfmnoKRH7vBcDd",
+    "data": {
+      "amount": 700,
+      "category": "Salários",
+      "description": "Ithauana",
+      "expenseDate": {
+        "_seconds": 1752883200,
+        "_nanoseconds": 0
+      },
+      "createdAt": {
+        "_seconds": 1752942464,
+        "_nanoseconds": 22000000
+      },
+      "updatedAt": {
+        "_seconds": 1752942464,
+        "_nanoseconds": 22000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "YZ3NtuF3rgIvoWyqe8Uw",
+    "data": {
+      "amount": 750,
+      "category": "Salários",
+      "description": "Pagamento da Bom parto",
+      "expenseDate": {
+        "_seconds": 1753574400,
+        "_nanoseconds": 0
+      },
+      "createdAt": {
+        "_seconds": 1752942348,
+        "_nanoseconds": 792000000
+      },
+      "updatedAt": {
+        "_seconds": 1752942348,
+        "_nanoseconds": 792000000
+      }
+    },
+    "subcollections": {}
+  }
+]

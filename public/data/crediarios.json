@@ -1,0 +1,4999 @@
+[
+  {
+    "id": "07qxf4sUzo0VmisrHQBj",
+    "data": {
+      "customerName": "Maria das dores",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756731793,
+        "_nanoseconds": 883000000
+      },
+      "updatedAt": {
+        "_seconds": 1756731793,
+        "_nanoseconds": 883000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "lTZV9snepgZOFRhcljC4",
+          "data": {
+            "type": "consumption",
+            "amount": 28,
+            "description": "Valor inicial do Pedido #PF-1756674543310HF6F29",
+            "date": {
+              "_seconds": 1756731793,
+              "_nanoseconds": 982000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "1JQcXE1Z7y0GZoHWy1QF",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1755872181,
+        "_nanoseconds": 178000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755873191,
+        "_nanoseconds": 563000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "oWC8VmSKdTmF1mDqgD1t",
+          "data": {
+            "type": "consumption",
+            "amount": 8,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755872181,
+              "_nanoseconds": 235000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "27FzJHeAWB5DEzlGiNIF",
+    "data": {
+      "customerName": "Aristide",
+      "createdAt": {
+        "_seconds": 1754534056,
+        "_nanoseconds": 240000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1756606315,
+        "_nanoseconds": 310000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "p57sHdOnnamMtw7IMfgh",
+          "data": {
+            "type": "consumption",
+            "amount": 11,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754534056,
+              "_nanoseconds": 272000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "2RPGhhN7NJ0c3S5VyVzd",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1755874209,
+        "_nanoseconds": 934000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755994021,
+        "_nanoseconds": 302000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "5UqoBlNH27o9UkyjnrDN",
+          "data": {
+            "type": "payment",
+            "amount": 50,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1755993995,
+              "_nanoseconds": 75000000
+            }
+          }
+        },
+        {
+          "id": "EinANlO9L9gwxqVIGegV",
+          "data": {
+            "type": "consumption",
+            "amount": 100,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755874209,
+              "_nanoseconds": 991000000
+            }
+          }
+        },
+        {
+          "id": "gRTB7sNEKAnHzfq4wDLW",
+          "data": {
+            "type": "consumption",
+            "amount": 7.4,
+            "description": "Juros de 10.00% sobre o saldo devedor",
+            "date": {
+              "_seconds": 1755994007,
+              "_nanoseconds": 69000000
+            }
+          }
+        },
+        {
+          "id": "i9ivHYPuUWHDJvL7AYp8",
+          "data": {
+            "type": "consumption",
+            "amount": 24,
+            "description": "Itens adicionados na criação (já existia)",
+            "date": {
+              "_seconds": 1755993984,
+              "_nanoseconds": 166000000
+            }
+          }
+        },
+        {
+          "id": "kZnwCF4ATiaTncr3gCqR",
+          "data": {
+            "type": "payment",
+            "amount": 81.4,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1755994014,
+              "_nanoseconds": 596000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "2RTc4s4JGWgCT6URDYUS",
+    "data": {
+      "customerName": "José da Leide",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753732911,
+        "_nanoseconds": 616000000
+      },
+      "updatedAt": {
+        "_seconds": 1753732911,
+        "_nanoseconds": 616000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "SjrVq2try8CvBr9tqX1z",
+          "data": {
+            "type": "consumption",
+            "amount": 150,
+            "description": "Valor inicial do Pedido #PF-1753584777636F8Q2QU",
+            "date": {
+              "_seconds": 1753732911,
+              "_nanoseconds": 663000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "2jUgFn5cWVW0xlTmgPMO",
+    "data": {
+      "customerName": "Fernando som",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756341339,
+        "_nanoseconds": 876000000
+      },
+      "updatedAt": {
+        "_seconds": 1756341339,
+        "_nanoseconds": 876000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "igq4WxwIkU8rRsBxp2R9",
+          "data": {
+            "type": "consumption",
+            "amount": 23,
+            "description": "Valor inicial do Pedido #PF-1756336820681WYZCVE",
+            "date": {
+              "_seconds": 1756341339,
+              "_nanoseconds": 963000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "2yNc87iHXqcP42Uy3FAI",
+    "data": {
+      "customerName": "Lenildo",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756732743,
+        "_nanoseconds": 607000000
+      },
+      "updatedAt": {
+        "_seconds": 1756732743,
+        "_nanoseconds": 607000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "Q9WIiOpl3QbMP99r8BmJ",
+          "data": {
+            "type": "consumption",
+            "amount": 13,
+            "description": "Valor inicial do Pedido #PF-1755385025175J0NLUC",
+            "date": {
+              "_seconds": 1756732743,
+              "_nanoseconds": 672000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "349IEQeD1gBNXZFW878J",
+    "data": {
+      "customerName": "Julianna",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756011609,
+        "_nanoseconds": 597000000
+      },
+      "updatedAt": {
+        "_seconds": 1756011609,
+        "_nanoseconds": 597000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "jvlEqUU5OIeVwPItG3uz",
+          "data": {
+            "type": "consumption",
+            "amount": 50,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756011609,
+              "_nanoseconds": 630000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "3B53HcAXvShru9AJ1gzC",
+    "data": {
+      "customerName": "Fran",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754016948,
+        "_nanoseconds": 345000000
+      },
+      "updatedAt": {
+        "_seconds": 1755216818,
+        "_nanoseconds": 963000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "0YURt1pZs2Y5BnpcGWNY",
+          "data": {
+            "type": "consumption",
+            "amount": 7,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755216818,
+              "_nanoseconds": 921000000
+            }
+          }
+        },
+        {
+          "id": "EeRQJYvz890IaSO65Hsl",
+          "data": {
+            "type": "consumption",
+            "amount": 13,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754016948,
+              "_nanoseconds": 404000000
+            }
+          }
+        },
+        {
+          "id": "VVO5RERwMMmggHmbp4Ks",
+          "data": {
+            "type": "consumption",
+            "amount": 18,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1754256260,
+              "_nanoseconds": 71000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "3XGXU05Cuy2NqmbfqNux",
+    "data": {
+      "customerName": "Lucas Malote",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754602625,
+        "_nanoseconds": 349000000
+      },
+      "updatedAt": {
+        "_seconds": 1754602625,
+        "_nanoseconds": 349000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "VttyWmbovtZnpnT2K8p8",
+          "data": {
+            "type": "consumption",
+            "amount": 58,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754602625,
+              "_nanoseconds": 387000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "3fHGASHGKuOqBbHEp9CQ",
+    "data": {
+      "customerName": "DISTERRO",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754621249,
+        "_nanoseconds": 543000000
+      },
+      "updatedAt": {
+        "_seconds": 1755310685,
+        "_nanoseconds": 726000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "G6Awi5IKieDwYHN1k9R5",
+          "data": {
+            "type": "consumption",
+            "amount": 123,
+            "description": "Valor inicial do Pedido #M-1754613595196RNB55H",
+            "date": {
+              "_seconds": 1754621249,
+              "_nanoseconds": 584000000
+            }
+          }
+        },
+        {
+          "id": "z0RYNgJwe4cMNfM8xHfE",
+          "data": {
+            "type": "consumption",
+            "amount": 245,
+            "description": "Consumo do Pedido #U2PKQK",
+            "date": {
+              "_seconds": 1755310685,
+              "_nanoseconds": 684000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "46YKGdLkjRvglZv28N2j",
+    "data": {
+      "customerName": "Fran marques",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755741607,
+        "_nanoseconds": 586000000
+      },
+      "updatedAt": {
+        "_seconds": 1755741607,
+        "_nanoseconds": 586000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "RkWNJjmtTKFSAKkbEkVn",
+          "data": {
+            "type": "consumption",
+            "amount": 21,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755741607,
+              "_nanoseconds": 675000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "4Nw1X214FlPf170bSpO3",
+    "data": {
+      "customerName": "Ilan",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756732388,
+        "_nanoseconds": 713000000
+      },
+      "updatedAt": {
+        "_seconds": 1756732388,
+        "_nanoseconds": 713000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "EI0iLftjeu9hyv2JpIGh",
+          "data": {
+            "type": "consumption",
+            "amount": 12,
+            "description": "Valor inicial do Pedido #PF-1755384566469D429DL",
+            "date": {
+              "_seconds": 1756732388,
+              "_nanoseconds": 772000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "61h0gMVBfMwwj68k3F5D",
+    "data": {
+      "customerName": "Tafarel",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754530942,
+        "_nanoseconds": 471000000
+      },
+      "updatedAt": {
+        "_seconds": 1754530942,
+        "_nanoseconds": 471000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "FQLPudwVCZ5pODWKWvMD",
+          "data": {
+            "type": "consumption",
+            "amount": 5,
+            "description": "Valor inicial do Pedido #PF-1754175721630HLOCAR",
+            "date": {
+              "_seconds": 1754530942,
+              "_nanoseconds": 547000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "6J4sALTDkgaA4OdFUOnX",
+    "data": {
+      "customerName": "Helena",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754776402,
+        "_nanoseconds": 815000000
+      },
+      "updatedAt": {
+        "_seconds": 1756521731,
+        "_nanoseconds": 420000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "0lhPePNVSghROibmdTzS",
+          "data": {
+            "type": "consumption",
+            "amount": 19,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1756333010,
+              "_nanoseconds": 391000000
+            }
+          }
+        },
+        {
+          "id": "1qwxuYdNCDkpK6oL6tAU",
+          "data": {
+            "type": "consumption",
+            "amount": 13,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754776402,
+              "_nanoseconds": 851000000
+            }
+          }
+        },
+        {
+          "id": "saILv07kAEGu0yTi3ixG",
+          "data": {
+            "type": "consumption",
+            "amount": 24,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1756521731,
+              "_nanoseconds": 344000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "7IDTelf04tTHhYsOhj2m",
+    "data": {
+      "customerName": "Francisca Soares",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754535964,
+        "_nanoseconds": 835000000
+      },
+      "updatedAt": {
+        "_seconds": 1754535964,
+        "_nanoseconds": 835000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "iOM9DCpFY5NeqSK6h8cf",
+          "data": {
+            "type": "consumption",
+            "amount": 30,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754535964,
+              "_nanoseconds": 868000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "7iEy90lLMVg7BRNp8gFs",
+    "data": {
+      "customerName": "Elesbao",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754617319,
+        "_nanoseconds": 543000000
+      },
+      "updatedAt": {
+        "_seconds": 1754617319,
+        "_nanoseconds": 543000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "3SM2GKXYPvFrDob40EAZ",
+          "data": {
+            "type": "consumption",
+            "amount": 62,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754617319,
+              "_nanoseconds": 588000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "8Sp6WyDBsipjA1kiiTWs",
+    "data": {
+      "customerName": "Francisca Lorival",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755476703,
+        "_nanoseconds": 929000000
+      },
+      "updatedAt": {
+        "_seconds": 1755476703,
+        "_nanoseconds": 929000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "6Fn3QhjNRwsOICj9qi1O",
+          "data": {
+            "type": "consumption",
+            "amount": 10,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755476703,
+              "_nanoseconds": 969000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "8wenIepraoElBwLIAYra",
+    "data": {
+      "customerName": "Aristide",
+      "createdAt": {
+        "_seconds": 1754195599,
+        "_nanoseconds": 38000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1754447363,
+        "_nanoseconds": 729000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "sSlWLMaUCRRiTNsonLJI",
+          "data": {
+            "type": "consumption",
+            "amount": 40,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754195599,
+              "_nanoseconds": 75000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "9wkAS29n0FYAb7xAlnWI",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1752458243,
+        "_nanoseconds": 680000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752458267,
+        "_nanoseconds": 237000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "A1Xz6XwMeTqzEcyKtkNS",
+    "data": {
+      "customerName": "bernardo",
+      "createdAt": {
+        "_seconds": 1755873121,
+        "_nanoseconds": 74000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755873188,
+        "_nanoseconds": 183000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "7S7H1fW6Faq0Y2QqnfUW",
+          "data": {
+            "type": "payment",
+            "amount": 24,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1755873134,
+              "_nanoseconds": 907000000
+            }
+          }
+        },
+        {
+          "id": "or2o0tT110niKeGs3mt5",
+          "data": {
+            "type": "consumption",
+            "amount": 24,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755873121,
+              "_nanoseconds": 126000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "AFWwkAGqwInuLxDlGYOA",
+    "data": {
+      "customerName": "Layanne",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754782457,
+        "_nanoseconds": 815000000
+      },
+      "updatedAt": {
+        "_seconds": 1754782457,
+        "_nanoseconds": 815000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "lID4Ype3bl2bxQaR9ZKN",
+          "data": {
+            "type": "consumption",
+            "amount": 30,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754782457,
+              "_nanoseconds": 851000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "AaC0h4Y8rdPW59Ef61B3",
+    "data": {
+      "customerName": "dddd",
+      "createdAt": {
+        "_seconds": 1752644614,
+        "_nanoseconds": 822000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752683030,
+        "_nanoseconds": 859000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "WT4EqpnQWgBKb0NBSl2G",
+          "data": {
+            "type": "consumption",
+            "amount": 10,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1752644614,
+              "_nanoseconds": 870000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "Aq7mVLvqdcrmsTGuw840",
+    "data": {
+      "customerName": "Aldilene",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753732841,
+        "_nanoseconds": 721000000
+      },
+      "updatedAt": {
+        "_seconds": 1753732841,
+        "_nanoseconds": 721000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "zAzLMT09ObkXbdD9We1i",
+          "data": {
+            "type": "consumption",
+            "amount": 53,
+            "description": "Valor inicial do Pedido #PF-1753587824679VQ0NY4",
+            "date": {
+              "_seconds": 1753732841,
+              "_nanoseconds": 826000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "CLNuAvyBhoQifTALUgvQ",
+    "data": {
+      "customerName": "Dierry",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753490577,
+        "_nanoseconds": 280000000
+      },
+      "updatedAt": {
+        "_seconds": 1753675900,
+        "_nanoseconds": 307000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "OQctbakA3N1M0vnCcTjO",
+          "data": {
+            "type": "consumption",
+            "amount": 15,
+            "description": "Consumo do Pedido #SQNM59",
+            "date": {
+              "_seconds": 1753675900,
+              "_nanoseconds": 224000000
+            }
+          }
+        },
+        {
+          "id": "pOV1MMwwdbMvrYq8E8fg",
+          "data": {
+            "type": "consumption",
+            "amount": 12,
+            "description": "Valor inicial do Pedido #PF-1753482176080IHCZ5W",
+            "date": {
+              "_seconds": 1753490577,
+              "_nanoseconds": 381000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "CqhQI7Y8YTAU8NgiUh8c",
+    "data": {
+      "customerName": "Sabaiba No Marcelo",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1757128499,
+        "_nanoseconds": 507000000
+      },
+      "updatedAt": {
+        "_seconds": 1757128499,
+        "_nanoseconds": 507000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "a8VcAM1fYCL47goS0nId",
+          "data": {
+            "type": "consumption",
+            "amount": 49,
+            "description": "Valor inicial do Pedido #PF-1757027027185KXSNSL",
+            "date": {
+              "_seconds": 1757128499,
+              "_nanoseconds": 557000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "DJMGcuQHD751BpvPtFWD",
+    "data": {
+      "customerName": "dddd",
+      "createdAt": {
+        "_seconds": 1752642266,
+        "_nanoseconds": 434000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752642555,
+        "_nanoseconds": 983000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Df9lrvz5Jwm6p81kz8Sl",
+    "data": {
+      "customerName": "Sonia",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756732244,
+        "_nanoseconds": 679000000
+      },
+      "updatedAt": {
+        "_seconds": 1756732244,
+        "_nanoseconds": 679000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "FYHIeh5840svCTEwkrdf",
+          "data": {
+            "type": "consumption",
+            "amount": 6,
+            "description": "Valor inicial do Pedido #PF-1755816885221KP2L9O",
+            "date": {
+              "_seconds": 1756732244,
+              "_nanoseconds": 812000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "EKGkRXImtQWoY3XBhsIB",
+    "data": {
+      "customerName": "Ana leuda",
+      "createdAt": {
+        "_seconds": 1755991161,
+        "_nanoseconds": 573000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1756514961,
+        "_nanoseconds": 994000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "5zZe20qlzFZvVq1BHpaU",
+          "data": {
+            "type": "consumption",
+            "amount": 66,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755991161,
+              "_nanoseconds": 608000000
+            }
+          }
+        },
+        {
+          "id": "BFAmnVGYm4GazdNyL0N2",
+          "data": {
+            "type": "payment",
+            "amount": 66,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1756514957,
+              "_nanoseconds": 339000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "ESSAtIqNeMjCGFdrZC9C",
+    "data": {
+      "customerName": "dddd",
+      "createdAt": {
+        "_seconds": 1752508032,
+        "_nanoseconds": 345000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752508636,
+        "_nanoseconds": 657000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "EiWen1QI6vqHqyezIdWP",
+    "data": {
+      "customerName": "Yasmin lorival",
+      "createdAt": {
+        "_seconds": 1753578043,
+        "_nanoseconds": 592000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1756909264,
+        "_nanoseconds": 441000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "NV3rkH5S1viizX0yPVUe",
+          "data": {
+            "type": "payment",
+            "amount": 30,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1756909256,
+              "_nanoseconds": 992000000
+            }
+          }
+        },
+        {
+          "id": "WkBXFEOlvlOWoxr8r7kx",
+          "data": {
+            "type": "consumption",
+            "amount": 30,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1753578043,
+              "_nanoseconds": 634000000
+            }
+          }
+        },
+        {
+          "id": "bKDN0poRntepne89DEBv",
+          "data": {
+            "type": "payment",
+            "amount": 30,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1756909258,
+              "_nanoseconds": 637000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "FLkFGWWyZ2FMMKc2fs10",
+    "data": {
+      "customerName": "Auricélia secretária",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756732296,
+        "_nanoseconds": 350000000
+      },
+      "updatedAt": {
+        "_seconds": 1756732296,
+        "_nanoseconds": 350000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "1hP8Z9pQIJjcuXYVaUMx",
+          "data": {
+            "type": "consumption",
+            "amount": 13,
+            "description": "Valor inicial do Pedido #1755820763339q3gmrc",
+            "date": {
+              "_seconds": 1756732296,
+              "_nanoseconds": 393000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "FqJJLmebOQJk7Z9bne6l",
+    "data": {
+      "customerName": "bernardo",
+      "createdAt": {
+        "_seconds": 1755873317,
+        "_nanoseconds": 466000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1756646103,
+        "_nanoseconds": 424000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "OzrYv9cCfNXrsXEbaqst",
+          "data": {
+            "type": "consumption",
+            "amount": 10,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755873317,
+              "_nanoseconds": 515000000
+            }
+          }
+        },
+        {
+          "id": "R7RoFScuTFF9p2i59G3i",
+          "data": {
+            "type": "consumption",
+            "amount": 96,
+            "description": "Itens adicionados na criação (já existia)",
+            "date": {
+              "_seconds": 1755873840,
+              "_nanoseconds": 3000000
+            }
+          }
+        },
+        {
+          "id": "UaN5oGAfdku7E4n3lMFu",
+          "data": {
+            "type": "consumption",
+            "amount": 20,
+            "description": "Itens adicionados na criação (já existia)",
+            "date": {
+              "_seconds": 1755873658,
+              "_nanoseconds": 730000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "G2vspCNzs7xCxUk7qz3j",
+    "data": {
+      "customerName": "Anderson da neta",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754750451,
+        "_nanoseconds": 338000000
+      },
+      "updatedAt": {
+        "_seconds": 1754750451,
+        "_nanoseconds": 338000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "NJL1YHJAyC6fCJY0LjdT",
+          "data": {
+            "type": "consumption",
+            "amount": 50,
+            "description": "Valor inicial do Pedido #1754705655787ve4tks",
+            "date": {
+              "_seconds": 1754750451,
+              "_nanoseconds": 368000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "G6EN75nK6GviwJS07Xxg",
+    "data": {
+      "customerName": "Maria das  Dores",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756817852,
+        "_nanoseconds": 480000000
+      },
+      "updatedAt": {
+        "_seconds": 1756819827,
+        "_nanoseconds": 251000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "zyXejPLicgJ88bl4Q4zA",
+          "data": {
+            "type": "consumption",
+            "amount": 27.5,
+            "description": "Itens adicionados na criação (já existia)",
+            "date": {
+              "_seconds": 1756818072,
+              "_nanoseconds": 443000000
+            },
+            "timestamps": {
+              "localTimestamp": {
+                "_seconds": 1756818068,
+                "_nanoseconds": 622000000
+              },
+              "timestampString": "2025-09-02T13:01:08.622Z",
+              "localDateString": "02/09/2025",
+              "localTimeString": "13:01:08",
+              "serverTimestamp": {
+                "_seconds": 1756818072,
+                "_nanoseconds": 443000000
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "HMp050Pd9Fx1YtEARFRU",
+    "data": {
+      "customerName": "YASMIN",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1752899557,
+        "_nanoseconds": 527000000
+      },
+      "updatedAt": {
+        "_seconds": 1756909307,
+        "_nanoseconds": 44000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "HafC3mVSZEoRnQbbxqal",
+    "data": {
+      "customerName": "Sozinha",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754090654,
+        "_nanoseconds": 946000000
+      },
+      "updatedAt": {
+        "_seconds": 1754090654,
+        "_nanoseconds": 946000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "wt4IlU3uIYRbsnoKALr8",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754090655,
+              "_nanoseconds": 41000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "Hl76tsYlkA6leGWEQfZZ",
+    "data": {
+      "customerName": "Jéssica Priscila",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755712088,
+        "_nanoseconds": 477000000
+      },
+      "updatedAt": {
+        "_seconds": 1756246090,
+        "_nanoseconds": 978000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "0R047X3EiFeX9qlRFwJF",
+          "data": {
+            "type": "consumption",
+            "amount": 12,
+            "description": "Valor inicial do Pedido #PF-1755390877887829AFO",
+            "date": {
+              "_seconds": 1755712088,
+              "_nanoseconds": 566000000
+            }
+          }
+        },
+        {
+          "id": "8TgMuYThnPpMohU0cw6s",
+          "data": {
+            "type": "consumption",
+            "amount": 28,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1756246090,
+              "_nanoseconds": 883000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "HxttKeEoOyOw8oEJvIn0",
+    "data": {
+      "customerName": "Carol no Marcelo",
+      "createdAt": {
+        "_seconds": 1753676396,
+        "_nanoseconds": 991000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755870743,
+        "_nanoseconds": 101000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "FMldDojruP75IESeXhyQ",
+          "data": {
+            "type": "consumption",
+            "amount": 40,
+            "description": "Valor inicial do Pedido #PF-1753661918025NH9FTG",
+            "date": {
+              "_seconds": 1753676397,
+              "_nanoseconds": 79000000
+            }
+          }
+        },
+        {
+          "id": "j4zGV0w9Ix4mBeq9ChCy",
+          "data": {
+            "type": "payment",
+            "amount": 40,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1754617899,
+              "_nanoseconds": 563000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "JKiDTr3d3CiCCXvECPkR",
+    "data": {
+      "customerName": "Zé",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756426106,
+        "_nanoseconds": 188000000
+      },
+      "updatedAt": {
+        "_seconds": 1756426106,
+        "_nanoseconds": 188000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "LneXElur1DSeyqEiqJFL",
+          "data": {
+            "type": "consumption",
+            "amount": 53,
+            "description": "Valor inicial do Pedido #1756423399211kiqkua",
+            "date": {
+              "_seconds": 1756426106,
+              "_nanoseconds": 232000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "K4wQiMnZYXzX4SPoPCvq",
+    "data": {
+      "customerName": "Elisangela Patricia",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755832093,
+        "_nanoseconds": 971000000
+      },
+      "updatedAt": {
+        "_seconds": 1756469168,
+        "_nanoseconds": 504000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "KhPKRERaXqSVbWS8XSP5",
+    "data": {
+      "customerName": "TEste",
+      "createdAt": {
+        "_seconds": 1752098385,
+        "_nanoseconds": 227000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752098403,
+        "_nanoseconds": 983000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "JdFSgD1tWnrh56tPhHqw",
+          "data": {
+            "type": "consumption",
+            "amount": 8,
+            "description": "Valor inicial do Pedido #FISICO-1752098379641",
+            "date": {
+              "_seconds": 1752098385,
+              "_nanoseconds": 313000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "KqLurVkwF1mAaMX3T4E3",
+    "data": {
+      "customerName": "Lenildo no soior",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756732172,
+        "_nanoseconds": 280000000
+      },
+      "updatedAt": {
+        "_seconds": 1756732172,
+        "_nanoseconds": 280000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "4WpvFqD0FkgNFOneSpN9",
+          "data": {
+            "type": "consumption",
+            "amount": 6,
+            "description": "Valor inicial do Pedido #PF-1755988687953ISWFT6",
+            "date": {
+              "_seconds": 1756732172,
+              "_nanoseconds": 324000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "L3tCAqAwOcj1GlUELG56",
+    "data": {
+      "customerName": "Dhellando",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754430375,
+        "_nanoseconds": 233000000
+      },
+      "updatedAt": {
+        "_seconds": 1754430375,
+        "_nanoseconds": 233000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "zXiWC0YG2ysvQBTpCCcv",
+          "data": {
+            "type": "consumption",
+            "amount": 23,
+            "description": "Valor inicial do Pedido #PF-17544303370189NW6PQ",
+            "date": {
+              "_seconds": 1754430375,
+              "_nanoseconds": 267000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "L70OFNuzDINk3MfxM4rh",
+    "data": {
+      "customerName": "Chico Filho da Ivone",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754172946,
+        "_nanoseconds": 549000000
+      },
+      "updatedAt": {
+        "_seconds": 1754778866,
+        "_nanoseconds": 731000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "94li3rpD3KlgzOopwVKv",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754172946,
+              "_nanoseconds": 638000000
+            }
+          }
+        },
+        {
+          "id": "lLKsUqeM5OF428vDtxrs",
+          "data": {
+            "type": "consumption",
+            "amount": 26,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1754778866,
+              "_nanoseconds": 700000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "LpHkkYBnHexTkHom0JhJ",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1753923509,
+        "_nanoseconds": 344000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1753923876,
+        "_nanoseconds": 764000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "2F2aMZ6Ovv4J4aZLwUzX",
+          "data": {
+            "type": "consumption",
+            "amount": 200,
+            "description": "Cerveja",
+            "date": {
+              "_seconds": 1753923848,
+              "_nanoseconds": 648000000
+            }
+          }
+        },
+        {
+          "id": "Fd0YLKQOc5ZDESL8vzCT",
+          "data": {
+            "type": "payment",
+            "amount": 100,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1753923829,
+              "_nanoseconds": 140000000
+            }
+          }
+        },
+        {
+          "id": "Oasfmv4o2g2XrCRsWDIF",
+          "data": {
+            "type": "payment",
+            "amount": 50,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1753923602,
+              "_nanoseconds": 703000000
+            }
+          }
+        },
+        {
+          "id": "Uoq0fTLBLxYhcCj7D27I",
+          "data": {
+            "description": "Valor inicial do Pedido #PF-17539234862434HWAO1",
+            "date": {
+              "_seconds": 1753923589,
+              "_nanoseconds": 768000000
+            },
+            "amount": 100,
+            "type": "consumption"
+          }
+        },
+        {
+          "id": "cof6QoeuTi79oPQH9m6L",
+          "data": {
+            "type": "payment",
+            "amount": 473,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1753923867,
+              "_nanoseconds": 905000000
+            }
+          }
+        },
+        {
+          "id": "gMZ1yjDbCNjpCWzucQyF",
+          "data": {
+            "type": "consumption",
+            "amount": 43,
+            "description": "Juros de 10.00% sobre o saldo devedor",
+            "date": {
+              "_seconds": 1753923858,
+              "_nanoseconds": 157000000
+            }
+          }
+        },
+        {
+          "id": "tVIiSItSOuRmx8X2Czg4",
+          "data": {
+            "type": "consumption",
+            "amount": 130,
+            "description": "Novo consumo",
+            "date": {
+              "_seconds": 1753923631,
+              "_nanoseconds": 377000000
+            }
+          }
+        },
+        {
+          "id": "vzdpC2LS9pm5OzgY1QL1",
+          "data": {
+            "type": "consumption",
+            "amount": 150,
+            "description": "Teste",
+            "date": {
+              "_seconds": 1753923616,
+              "_nanoseconds": 865000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "MHCPco9GbUgZClD86BRo",
+    "data": {
+      "customerName": "Zé da leide",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754530934,
+        "_nanoseconds": 436000000
+      },
+      "updatedAt": {
+        "_seconds": 1754790507,
+        "_nanoseconds": 188000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "I5nIRzhU8QK529YCArl4",
+          "data": {
+            "type": "consumption",
+            "amount": 43,
+            "description": "Valor inicial do Pedido #1754177176144xt0wb5",
+            "date": {
+              "_seconds": 1754530934,
+              "_nanoseconds": 480000000
+            }
+          }
+        },
+        {
+          "id": "lZ0Il3p3IuKGmceH2beb",
+          "data": {
+            "type": "consumption",
+            "amount": 33,
+            "description": "Consumo do Pedido #cmayvq",
+            "date": {
+              "_seconds": 1754790507,
+              "_nanoseconds": 99000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "MI9sE5fNHSBVl8dCQgqQ",
+    "data": {
+      "customerName": "Cliente Balcão",
+      "createdAt": {
+        "_seconds": 1753150634,
+        "_nanoseconds": 99000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1753150656,
+        "_nanoseconds": 464000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "7qQqJYR73hx3BoE7XQ40",
+          "data": {
+            "type": "consumption",
+            "amount": 50,
+            "description": "Valor inicial do Pedido #PF-1753150608189HLF8BB",
+            "date": {
+              "_seconds": 1753150634,
+              "_nanoseconds": 194000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "MQv6J5FER1xQgS5hRxuz",
+    "data": {
+      "customerName": "Preta",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756583146,
+        "_nanoseconds": 726000000
+      },
+      "updatedAt": {
+        "_seconds": 1756583146,
+        "_nanoseconds": 726000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "8AiQOysDBDSz1VTByzga",
+          "data": {
+            "type": "consumption",
+            "amount": 24,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756583146,
+              "_nanoseconds": 822000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "NHoAe63jtmmSRqNNsJT5",
+    "data": {
+      "customerName": "Gabi esperando",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756089057,
+        "_nanoseconds": 703000000
+      },
+      "updatedAt": {
+        "_seconds": 1756089057,
+        "_nanoseconds": 703000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "LE5I5ptUo8HlE23wd2Hj",
+          "data": {
+            "type": "consumption",
+            "amount": 70,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756089057,
+              "_nanoseconds": 749000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "OH40v2SOW7lrNaFwBxFY",
+    "data": {
+      "customerName": "derick",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756657962,
+        "_nanoseconds": 181000000
+      },
+      "updatedAt": {
+        "_seconds": 1757265139,
+        "_nanoseconds": 120000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "BvGTpVkSHDdjbXFQUzwO",
+          "data": {
+            "type": "consumption",
+            "amount": 30,
+            "description": "Itens adicionados na criação (já existia)",
+            "date": {
+              "_seconds": 1756824444,
+              "_nanoseconds": 166000000
+            },
+            "timestamps": {
+              "localTimestamp": {
+                "_seconds": 1756824440,
+                "_nanoseconds": 218000000
+              },
+              "timestampString": "2025-09-02T14:47:20.218Z",
+              "localDateString": "02/09/2025",
+              "localTimeString": "14:47:20",
+              "serverTimestamp": {
+                "_seconds": 1756824444,
+                "_nanoseconds": 166000000
+              }
+            }
+          }
+        },
+        {
+          "id": "Q7T1SwZK5wMjJktF1XQe",
+          "data": {
+            "type": "consumption",
+            "amount": 100,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756657962,
+              "_nanoseconds": 227000000
+            }
+          }
+        },
+        {
+          "id": "j5i5DIxccEeTnAyJxKYx",
+          "data": {
+            "type": "payment",
+            "amount": 10,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1757265139,
+              "_nanoseconds": 25000000
+            },
+            "timestamps": {
+              "localTimestamp": {
+                "_seconds": 1757265135,
+                "_nanoseconds": 184000000
+              },
+              "timestampString": "2025-09-07T17:12:15.184Z",
+              "localDateString": "07/09/2025",
+              "localTimeString": "17:12:15",
+              "serverTimestamp": {
+                "_seconds": 1757265139,
+                "_nanoseconds": 25000000
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "OYXSTWwTVVoRRhF9Vik3",
+    "data": {
+      "customerName": "Fatinha",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755741762,
+        "_nanoseconds": 198000000
+      },
+      "updatedAt": {
+        "_seconds": 1755741762,
+        "_nanoseconds": 198000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "w3pNjJcaXRBdSIeRssic",
+          "data": {
+            "type": "consumption",
+            "amount": 20,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755741762,
+              "_nanoseconds": 271000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "OauUwDZ5TvFoTK2Kt3cw",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1754370977,
+        "_nanoseconds": 959000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1754371210,
+        "_nanoseconds": 824000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "RaIH1aIeuXA9SXJmKR32",
+          "data": {
+            "type": "consumption",
+            "amount": 15,
+            "description": "Consumo avulso",
+            "date": {
+              "_seconds": 1754370999,
+              "_nanoseconds": 616000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "OmWIEIz7yDmEGdzjiJT3",
+    "data": {
+      "customerName": "FRANCISCO FÊNIX",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754441815,
+        "_nanoseconds": 649000000
+      },
+      "updatedAt": {
+        "_seconds": 1757026007,
+        "_nanoseconds": 881000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "EkXGNJAaRIflX9oor0ZR",
+          "data": {
+            "type": "consumption",
+            "amount": 71.5,
+            "description": "Valor inicial do Pedido #1754436151175wkpzsf",
+            "date": {
+              "_seconds": 1754441815,
+              "_nanoseconds": 742000000
+            }
+          }
+        },
+        {
+          "id": "cjK4I9YwRi2GWUHtlclB",
+          "data": {
+            "type": "consumption",
+            "amount": 75,
+            "description": "Consumo do Pedido #chnbzn",
+            "date": {
+              "_seconds": 1756953386,
+              "_nanoseconds": 332000000
+            }
+          }
+        },
+        {
+          "id": "nu7k1yOzCCknyHWumAa5",
+          "data": {
+            "type": "consumption",
+            "amount": 56,
+            "description": "Consumo do Pedido #3h8jfn",
+            "date": {
+              "_seconds": 1757026007,
+              "_nanoseconds": 833000000
+            }
+          }
+        },
+        {
+          "id": "vAwU2aEQ7RIVK6bCTJTi",
+          "data": {
+            "type": "consumption",
+            "amount": 74,
+            "description": "Consumo do Pedido #2j4uil",
+            "date": {
+              "_seconds": 1756341566,
+              "_nanoseconds": 785000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "PQrXelwH3Q4hMEHwmLBT",
+    "data": {
+      "customerName": "Cliente Balcão",
+      "createdAt": {
+        "_seconds": 1752112649,
+        "_nanoseconds": 813000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752113452,
+        "_nanoseconds": 811000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "pRgVOZASsW55l89CKzRm",
+          "data": {
+            "type": "consumption",
+            "amount": 24,
+            "description": "Valor inicial do Pedido #FISICO-1752112608093",
+            "date": {
+              "_seconds": 1752112649,
+              "_nanoseconds": 909000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "QS2SS1h7VeVWYQbsvF4W",
+    "data": {
+      "customerName": "Cliente Balcão",
+      "createdAt": {
+        "_seconds": 1752076341,
+        "_nanoseconds": 619000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752077897,
+        "_nanoseconds": 884000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "ELmS2t3J3akFjZvxlfUR",
+          "data": {
+            "type": "consumption",
+            "amount": 7.5,
+            "description": "Valor inicial do Pedido #FISICO-1752076323894",
+            "date": {
+              "_seconds": 1752076341,
+              "_nanoseconds": 664000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "QzYZXaTtQZ8pixCPhtNv",
+    "data": {
+      "customerName": "Mario",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753491538,
+        "_nanoseconds": 397000000
+      },
+      "updatedAt": {
+        "_seconds": 1753733044,
+        "_nanoseconds": 298000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "Xc7fm1rVrlrNkjvzK6s7",
+          "data": {
+            "type": "consumption",
+            "amount": 12,
+            "description": "Valor inicial do Pedido #1753319865277l5hj5d",
+            "date": {
+              "_seconds": 1753491538,
+              "_nanoseconds": 481000000
+            }
+          }
+        },
+        {
+          "id": "eaFVWhgGe8Tq8y2KF9c3",
+          "data": {
+            "type": "consumption",
+            "amount": 12,
+            "description": "Consumo do Pedido #df1vjq",
+            "date": {
+              "_seconds": 1753733044,
+              "_nanoseconds": 253000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "RAQ6VYQPfs4GLA4cOgno",
+    "data": {
+      "customerName": "Joseani Filha Do Jose Vais",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754694469,
+        "_nanoseconds": 743000000
+      },
+      "updatedAt": {
+        "_seconds": 1754694469,
+        "_nanoseconds": 743000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "njhHI7lCnnQpPjsag9yu",
+          "data": {
+            "type": "consumption",
+            "amount": 26,
+            "description": "Valor inicial do Pedido #PF-1754688979569PTXZO8",
+            "date": {
+              "_seconds": 1754694469,
+              "_nanoseconds": 839000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "RrYsgQzAMAMr7VgbRopk",
+    "data": {
+      "customerName": "Derick Mackenzie",
+      "createdAt": {
+        "_seconds": 1751937970,
+        "_nanoseconds": 747000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1751938313,
+        "_nanoseconds": 413000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "CtIigPqbwBTmvASJgC3a",
+          "data": {
+            "type": "consumption",
+            "amount": 250,
+            "description": "Consumo do Pedido #5nystz",
+            "date": {
+              "_seconds": 1751938264,
+              "_nanoseconds": 402000000
+            }
+          }
+        },
+        {
+          "id": "NngwOav1eRvmHdt9UhAB",
+          "data": {
+            "type": "payment",
+            "amount": 150,
+            "description": "150 av",
+            "date": {
+              "_seconds": 1751938300,
+              "_nanoseconds": 310000000
+            }
+          }
+        },
+        {
+          "id": "gl0iKir18YYeTRvwbGIF",
+          "data": {
+            "type": "payment",
+            "amount": 20,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1751938305,
+              "_nanoseconds": 533000000
+            }
+          }
+        },
+        {
+          "id": "gmRJ5UVmz5gJ7F3AdXtI",
+          "data": {
+            "type": "payment",
+            "amount": 20,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1751938205,
+              "_nanoseconds": 499000000
+            }
+          }
+        },
+        {
+          "id": "hGLOUghUwWqTTIuodTTe",
+          "data": {
+            "type": "payment",
+            "amount": 100,
+            "description": "100 de av",
+            "date": {
+              "_seconds": 1751938288,
+              "_nanoseconds": 146000000
+            }
+          }
+        },
+        {
+          "id": "rnitjfhkNZW9jtJQdwai",
+          "data": {
+            "type": "consumption",
+            "amount": 40,
+            "description": "Valor inicial do Pedido #1751848817483a2u2v7",
+            "date": {
+              "_seconds": 1751937970,
+              "_nanoseconds": 823000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "SW87keDIOthS4SZLWLm1",
+    "data": {
+      "customerName": "ddd",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756658156,
+        "_nanoseconds": 778000000
+      },
+      "updatedAt": {
+        "_seconds": 1756658156,
+        "_nanoseconds": 778000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "mpjVdEguHz8hELuhyQ1Y",
+          "data": {
+            "type": "consumption",
+            "amount": 100,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756658156,
+              "_nanoseconds": 835000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "TrC5nIO5mFaL7TG0NZt4",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1752099179,
+        "_nanoseconds": 812000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752099204,
+        "_nanoseconds": 44000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "1pUTqWTqEE4Nc328YJ7V",
+          "data": {
+            "type": "consumption",
+            "amount": 156,
+            "description": "Valor inicial do Pedido #FISICO-1752099178180",
+            "date": {
+              "_seconds": 1752099179,
+              "_nanoseconds": 854000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "UZLVSL4TlMkiWH62LpKD",
+    "data": {
+      "customerName": "dddd",
+      "createdAt": {
+        "_seconds": 1752644034,
+        "_nanoseconds": 142000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752644057,
+        "_nanoseconds": 964000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "UdZ14a4P9CgBBqwKDMS1",
+    "data": {
+      "customerName": "Francinaldo",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756732422,
+        "_nanoseconds": 577000000
+      },
+      "updatedAt": {
+        "_seconds": 1756732422,
+        "_nanoseconds": 577000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "OAFAmvknnJLbQTM7ZJPp",
+          "data": {
+            "type": "consumption",
+            "amount": 14,
+            "description": "Valor inicial do Pedido #1755387774606wfc54t",
+            "date": {
+              "_seconds": 1756732422,
+              "_nanoseconds": 624000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "UlHmERTghGOuXRGkL8uu",
+    "data": {
+      "customerName": "Carminha",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753572025,
+        "_nanoseconds": 175000000
+      },
+      "updatedAt": {
+        "_seconds": 1753572025,
+        "_nanoseconds": 175000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "iDJjjCB16ijaEF82GTRE",
+          "data": {
+            "type": "consumption",
+            "amount": 40,
+            "description": "Valor inicial do Pedido #PF-1753486110523L8A3F2",
+            "date": {
+              "_seconds": 1753572025,
+              "_nanoseconds": 218000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "W0lbnycdRPCP74GfUvvo",
+    "data": {
+      "customerName": "Eri",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1757128512,
+        "_nanoseconds": 630000000
+      },
+      "updatedAt": {
+        "_seconds": 1757128512,
+        "_nanoseconds": 630000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "387VvrMIa1thUAQ86lkG",
+          "data": {
+            "type": "consumption",
+            "amount": 20,
+            "description": "Valor inicial do Pedido #PF-175712104462072P5G7",
+            "date": {
+              "_seconds": 1757128512,
+              "_nanoseconds": 663000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "WD92aihOtsV5siCnJ3qB",
+    "data": {
+      "customerName": "Cain",
+      "createdAt": {
+        "_seconds": 1752961701,
+        "_nanoseconds": 115000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755643357,
+        "_nanoseconds": 918000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "WViYUm5MSG2ibSF0kqRs",
+    "data": {
+      "customerName": "Mario Magno",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754105337,
+        "_nanoseconds": 640000000
+      },
+      "updatedAt": {
+        "_seconds": 1754105337,
+        "_nanoseconds": 640000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "qQQZ1EzWEO7uiMG8tnWH",
+          "data": {
+            "type": "consumption",
+            "amount": 33,
+            "description": "Valor inicial do Pedido #1754103480006lsjv90",
+            "date": {
+              "_seconds": 1754105337,
+              "_nanoseconds": 673000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wfs2PEHC4EWV9L4dcbkY",
+    "data": {
+      "customerName": "Vanilson do papacai",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753658719,
+        "_nanoseconds": 497000000
+      },
+      "updatedAt": {
+        "_seconds": 1753658719,
+        "_nanoseconds": 497000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "YLdWi1rcvkbuElBwcKBw",
+          "data": {
+            "type": "consumption",
+            "amount": 20,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1753658719,
+              "_nanoseconds": 587000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "WhiMUuQqKFHbNY2OcTPT",
+    "data": {
+      "customerName": "Ithauana Maria",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756953364,
+        "_nanoseconds": 911000000
+      },
+      "updatedAt": {
+        "_seconds": 1756953364,
+        "_nanoseconds": 911000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "OJap56L2LNvWvaPHFtEu",
+          "data": {
+            "type": "consumption",
+            "amount": 21,
+            "description": "Valor inicial do Pedido #1756939314434h4bxgj",
+            "date": {
+              "_seconds": 1756953365,
+              "_nanoseconds": 7000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "X7CCRsFyuUuz55jkfbNL",
+    "data": {
+      "customerName": "bernardo",
+      "createdAt": {
+        "_seconds": 1755873248,
+        "_nanoseconds": 818000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755873294,
+        "_nanoseconds": 668000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "53v2Jqyle13bCHs6Kbl6",
+          "data": {
+            "type": "consumption",
+            "amount": 148,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755873248,
+              "_nanoseconds": 868000000
+            }
+          }
+        },
+        {
+          "id": "Nicn4YWkEjcg4a5hxc9w",
+          "data": {
+            "type": "payment",
+            "amount": 148,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1755873286,
+              "_nanoseconds": 701000000
+            }
+          }
+        },
+        {
+          "id": "sNE2HaxZwskwQjxlZJqH",
+          "data": {
+            "type": "payment",
+            "amount": 25,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1755873277,
+              "_nanoseconds": 940000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "XH3DF2d2Omo9L5ZAgqHq",
+    "data": {
+      "customerName": "Derick Mackenzie",
+      "createdAt": {
+        "_seconds": 1751951023,
+        "_nanoseconds": 249000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1751988268,
+        "_nanoseconds": 403000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "DNFjI5FlBst85Za4LQ5C",
+          "data": {
+            "type": "consumption",
+            "amount": 9,
+            "description": "Valor inicial do Pedido #17519504476493w0o4q",
+            "date": {
+              "_seconds": 1751951023,
+              "_nanoseconds": 303000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "Xz24xGEvhgTgUhmn4lj2",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1756469123,
+        "_nanoseconds": 392000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1757198935,
+        "_nanoseconds": 46000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "cWC0p0kojyImNcUsdoeU",
+          "data": {
+            "type": "consumption",
+            "amount": 16,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756469123,
+              "_nanoseconds": 489000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "YLhU7ZKwBXwfybjZfllE",
+    "data": {
+      "customerName": "111derc",
+      "createdAt": {
+        "_seconds": 1752642577,
+        "_nanoseconds": 785000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752642986,
+        "_nanoseconds": 554000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "FXR2Z48Kg1wggHUR0jB7",
+          "data": {
+            "type": "consumption",
+            "amount": 110,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1752642577,
+              "_nanoseconds": 829000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "YkpisiWgHti9kymkob4D",
+    "data": {
+      "customerName": "Maick",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1757214380,
+        "_nanoseconds": 212000000
+      },
+      "updatedAt": {
+        "_seconds": 1757214380,
+        "_nanoseconds": 212000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "fZb62hUn3b7cMsyt0BjO",
+          "data": {
+            "type": "consumption",
+            "amount": 32,
+            "description": "Valor inicial do Pedido #PF-175721069382243NC1G",
+            "date": {
+              "_seconds": 1757214380,
+              "_nanoseconds": 254000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "Z4Yaj8W0eT3QeQYDgZaO",
+    "data": {
+      "customerName": "Ana Leuda",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1757031208,
+        "_nanoseconds": 9000000
+      },
+      "updatedAt": {
+        "_seconds": 1757214346,
+        "_nanoseconds": 333000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "Dr5VK1dX7npqXQDONMam",
+          "data": {
+            "type": "consumption",
+            "amount": 91,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1757031208,
+              "_nanoseconds": 53000000
+            }
+          }
+        },
+        {
+          "id": "hYq29GEP29UrITNqMp7m",
+          "data": {
+            "type": "consumption",
+            "amount": 20,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1757127895,
+              "_nanoseconds": 335000000
+            }
+          }
+        },
+        {
+          "id": "vbOAmz0y59C05J2bNijo",
+          "data": {
+            "type": "consumption",
+            "amount": 20,
+            "description": "Consumo do Pedido #6YJR16",
+            "date": {
+              "_seconds": 1757214346,
+              "_nanoseconds": 243000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "ZaitGxyw36az7ClGpMro",
+    "data": {
+      "customerName": "Cain",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756344946,
+        "_nanoseconds": 482000000
+      },
+      "updatedAt": {
+        "_seconds": 1757038002,
+        "_nanoseconds": 336000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "5TV2rmkhcnL3FU93FPdf",
+          "data": {
+            "type": "consumption",
+            "amount": 9,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756344946,
+              "_nanoseconds": 519000000
+            }
+          }
+        },
+        {
+          "id": "V2lc60ah86xwbemXc9dz",
+          "data": {
+            "type": "consumption",
+            "amount": 9,
+            "description": "Consumo do Pedido #O682DU",
+            "date": {
+              "_seconds": 1756345082,
+              "_nanoseconds": 879000000
+            }
+          }
+        },
+        {
+          "id": "pw3y49oyOpPgOAzLkAzV",
+          "data": {
+            "type": "consumption",
+            "amount": 10,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1757038002,
+              "_nanoseconds": 238000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "ZkaaGf8fNiq79JxKTIoI",
+    "data": {
+      "customerName": "Dilma Santana",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754093541,
+        "_nanoseconds": 644000000
+      },
+      "updatedAt": {
+        "_seconds": 1754617946,
+        "_nanoseconds": 303000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "B7kMnfAUCm0nCvC8hjRA",
+          "data": {
+            "type": "payment",
+            "amount": 24,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1754617946,
+              "_nanoseconds": 250000000
+            }
+          }
+        },
+        {
+          "id": "m7pNdEtF5mMDf1LUDvSM",
+          "data": {
+            "type": "consumption",
+            "amount": 24,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754093541,
+              "_nanoseconds": 685000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "ZkuiwnMhX9sDPxnqFxxx",
+    "data": {
+      "customerName": "Aristidi",
+      "createdAt": {
+        "_seconds": 1754709406,
+        "_nanoseconds": 738000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1756606302,
+        "_nanoseconds": 718000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "I1r9y9sf78Qi0mRKOCzQ",
+          "data": {
+            "type": "consumption",
+            "amount": 33,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754709406,
+              "_nanoseconds": 836000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "Ztgs839rQZfbVXfaRNiF",
+    "data": {
+      "customerName": "Cleice",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756516289,
+        "_nanoseconds": 682000000
+      },
+      "updatedAt": {
+        "_seconds": 1756516289,
+        "_nanoseconds": 682000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "EyUoWSO0t0UJFKyBiI6H",
+          "data": {
+            "type": "consumption",
+            "amount": 6,
+            "description": "Valor inicial do Pedido #PF-1756513206906UOW9N3",
+            "date": {
+              "_seconds": 1756516289,
+              "_nanoseconds": 778000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "a2exivUgblSR52BD3rjz",
+    "data": {
+      "customerName": "Geane",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754170206,
+        "_nanoseconds": 550000000
+      },
+      "updatedAt": {
+        "_seconds": 1756247058,
+        "_nanoseconds": 590000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "Xx09pFFOO4noQjNLkxMF",
+          "data": {
+            "type": "consumption",
+            "amount": 29,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754170206,
+              "_nanoseconds": 645000000
+            }
+          }
+        },
+        {
+          "id": "v3xSmhLiHBNnVLJTO56n",
+          "data": {
+            "type": "consumption",
+            "amount": 6,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1756247058,
+              "_nanoseconds": 502000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "a62BF8OR8SItMZRIZrM5",
+    "data": {
+      "customerName": "Derick Mackenzie",
+      "createdAt": {
+        "_seconds": 1751947458,
+        "_nanoseconds": 291000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1751949237,
+        "_nanoseconds": 603000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "BdqKc49eQY5pWS3dN2AQ",
+          "data": {
+            "type": "consumption",
+            "amount": 200,
+            "description": "Consumo do Pedido #uzf2v6",
+            "date": {
+              "_seconds": 1751948657,
+              "_nanoseconds": 424000000
+            }
+          }
+        },
+        {
+          "id": "neB5Fw7CJN97eyvye8Zc",
+          "data": {
+            "type": "consumption",
+            "amount": 200,
+            "description": "Valor inicial do Pedido #1751833642894uzf2v6",
+            "date": {
+              "_seconds": 1751947458,
+              "_nanoseconds": 381000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "aGd8K9xAbDJv7orD9H1w",
+    "data": {
+      "customerName": "edienai",
+      "createdAt": {
+        "_seconds": 1752591396,
+        "_nanoseconds": 815000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752813048,
+        "_nanoseconds": 306000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "aQSrCECZLkZMjHYSjPbG",
+    "data": {
+      "customerName": "Cliente da Ivoni Mesa 8",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756516804,
+        "_nanoseconds": 531000000
+      },
+      "updatedAt": {
+        "_seconds": 1756516804,
+        "_nanoseconds": 531000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "JKnfFMC8XERNk7jEhuST",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Valor inicial do Pedido #M-17565165127961V8RK7",
+            "date": {
+              "_seconds": 1756516804,
+              "_nanoseconds": 589000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "anFADLEVTvmisnWVakSY",
+    "data": {
+      "customerName": "Derick Mackenzie",
+      "createdAt": {
+        "_seconds": 1752072816,
+        "_nanoseconds": 219000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752075106,
+        "_nanoseconds": 216000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "ZGmFqOvre0uBbJeEEBKX",
+          "data": {
+            "type": "payment",
+            "amount": 100,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1752072838,
+              "_nanoseconds": 803000000
+            }
+          }
+        },
+        {
+          "id": "lP8Q7W9EE527g1YeEFTg",
+          "data": {
+            "type": "consumption",
+            "amount": 282.5,
+            "description": "Valor inicial do Pedido #1752072657463bo9hhk",
+            "date": {
+              "_seconds": 1752072816,
+              "_nanoseconds": 274000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "azzbMp5Xv358FnbyQisG",
+    "data": {
+      "customerName": "sales",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756001342,
+        "_nanoseconds": 699000000
+      },
+      "updatedAt": {
+        "_seconds": 1756001342,
+        "_nanoseconds": 699000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "iEtRSnBuDn1RrTcSE78V",
+          "data": {
+            "type": "consumption",
+            "amount": 42,
+            "description": "Valor inicial do Pedido #PF-1755980784411CMP7Y0",
+            "date": {
+              "_seconds": 1756001342,
+              "_nanoseconds": 732000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "bkX2oNgOOnC4KIIvRcfX",
+    "data": {
+      "customerName": "LIEDSON",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756427634,
+        "_nanoseconds": 394000000
+      },
+      "updatedAt": {
+        "_seconds": 1756427634,
+        "_nanoseconds": 394000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "BzRfKNvk6t1R1TdsDdwP",
+          "data": {
+            "type": "consumption",
+            "amount": 25,
+            "description": "Valor inicial do Pedido #175642492421864y500",
+            "date": {
+              "_seconds": 1756427634,
+              "_nanoseconds": 489000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "blmLzMMuRyKniDrY8RmG",
+    "data": {
+      "customerName": "Ithauana",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756341372,
+        "_nanoseconds": 62000000
+      },
+      "updatedAt": {
+        "_seconds": 1756341372,
+        "_nanoseconds": 62000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "kydt6m3Km9PXb2LzTmsr",
+          "data": {
+            "type": "consumption",
+            "amount": 63,
+            "description": "Valor inicial do Pedido #1756334106594yyij9w",
+            "date": {
+              "_seconds": 1756341372,
+              "_nanoseconds": 91000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "cCVhgwx1mRI7clChUx9w",
+    "data": {
+      "customerName": "Elesbão",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754619820,
+        "_nanoseconds": 248000000
+      },
+      "updatedAt": {
+        "_seconds": 1754619820,
+        "_nanoseconds": 248000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "CwukwYwGtZI6QgeQTgoT",
+          "data": {
+            "type": "consumption",
+            "amount": 62,
+            "description": "Valor inicial do Pedido #PF-17546173178958W9DZI",
+            "date": {
+              "_seconds": 1754619820,
+              "_nanoseconds": 300000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "d74M3D1gFUDn1RjHhlVc",
+    "data": {
+      "customerName": "Elisangela Patricia",
+      "createdAt": {
+        "_seconds": 1753832783,
+        "_nanoseconds": 753000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1753987799,
+        "_nanoseconds": 740000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "yB4cQ7hMyiVOBtgaZgs2",
+          "data": {
+            "type": "consumption",
+            "amount": 6,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1753832783,
+              "_nanoseconds": 844000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "dwFtL6kPHLYUdZB7HxY7",
+    "data": {
+      "customerName": "Francisco fenix",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755785477,
+        "_nanoseconds": 790000000
+      },
+      "updatedAt": {
+        "_seconds": 1755801674,
+        "_nanoseconds": 188000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "5m4PgcEQmFEdudP8LH98",
+          "data": {
+            "type": "consumption",
+            "amount": 28,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755801585,
+              "_nanoseconds": 408000000
+            }
+          }
+        },
+        {
+          "id": "ovwW48bLLUmurtmRfw2o",
+          "data": {
+            "type": "consumption",
+            "amount": 142,
+            "description": "Consumo do Pedido #yczo1g",
+            "date": {
+              "_seconds": 1755801674,
+              "_nanoseconds": 157000000
+            }
+          }
+        },
+        {
+          "id": "vFcgPsD7j2O9swiWVHzr",
+          "data": {
+            "type": "consumption",
+            "amount": 27,
+            "description": "Valor inicial do Pedido #PF-17557854435571XZFJW",
+            "date": {
+              "_seconds": 1755785477,
+              "_nanoseconds": 874000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "dwhzkCe3c7VnnV3vqsmt",
+    "data": {
+      "customerName": "Francisca Do Lorival",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1752812889,
+        "_nanoseconds": 255000000
+      },
+      "updatedAt": {
+        "_seconds": 1752812889,
+        "_nanoseconds": 255000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "roRfMgBoYkqQnpJW80Km",
+          "data": {
+            "type": "consumption",
+            "amount": 60,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1752812889,
+              "_nanoseconds": 346000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "eg3Cs07I529HCCj1oNZa",
+    "data": {
+      "customerName": "Natalia Rodrigues da Silva",
+      "createdAt": {
+        "_seconds": 1752102728,
+        "_nanoseconds": 920000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752102751,
+        "_nanoseconds": 99000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "1Ya0AwtUACXfXpyMqPnJ",
+          "data": {
+            "type": "consumption",
+            "amount": 26,
+            "description": "Valor inicial do Pedido #1752102588720iascg2",
+            "date": {
+              "_seconds": 1752102729,
+              "_nanoseconds": 18000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "els42nPp3jgewnxO54cP",
+    "data": {
+      "customerName": "Ithauana Maria Ferreira Correia",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754530430,
+        "_nanoseconds": 653000000
+      },
+      "updatedAt": {
+        "_seconds": 1755813361,
+        "_nanoseconds": 802000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "9DczeCqSa3qn6cXCG7Ng",
+          "data": {
+            "type": "consumption",
+            "amount": 75,
+            "description": "Valor inicial do Pedido #1754521095717yapurm",
+            "date": {
+              "_seconds": 1754530430,
+              "_nanoseconds": 746000000
+            }
+          }
+        },
+        {
+          "id": "QAem2gO2qmtJtdQI1WXl",
+          "data": {
+            "type": "consumption",
+            "amount": 84,
+            "description": "Consumo do Pedido #3i290r",
+            "date": {
+              "_seconds": 1755813361,
+              "_nanoseconds": 628000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6XqUaE0fxqMUMWo9PlU",
+    "data": {
+      "customerName": "Cliente Balcão",
+      "createdAt": {
+        "_seconds": 1751988320,
+        "_nanoseconds": 47000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1751989310,
+        "_nanoseconds": 734000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "HlK1Efn8bFs5l9gNT5rR",
+          "data": {
+            "type": "consumption",
+            "amount": 7.5,
+            "description": "Valor inicial do Pedido #FISICO-1751988303704",
+            "date": {
+              "_seconds": 1751988320,
+              "_nanoseconds": 97000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "gk1kSJeN5t8peN0v13KZ",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1755870268,
+        "_nanoseconds": 683000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755870515,
+        "_nanoseconds": 103000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "1tzGYXMioNQb9LDc0MQq",
+          "data": {
+            "type": "payment",
+            "amount": 50,
+            "description": "pagamento",
+            "date": {
+              "_seconds": 1755870488,
+              "_nanoseconds": 594000000
+            }
+          }
+        },
+        {
+          "id": "VvhlzlMkaguu5SHhbrME",
+          "data": {
+            "type": "consumption",
+            "amount": 100,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755870268,
+              "_nanoseconds": 764000000
+            }
+          }
+        },
+        {
+          "id": "l36enRKC5p6QjU1SM2ys",
+          "data": {
+            "type": "payment",
+            "amount": 20,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1755870293,
+              "_nanoseconds": 129000000
+            }
+          }
+        },
+        {
+          "id": "sUYA1GoZ6V7xKNf5MHO1",
+          "data": {
+            "type": "consumption",
+            "amount": 150,
+            "description": "Novo consumo",
+            "date": {
+              "_seconds": 1755870505,
+              "_nanoseconds": 834000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "gzTISKd39N8iyo2Y3yOz",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1754530961,
+        "_nanoseconds": 365000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755643357,
+        "_nanoseconds": 998000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hOnZAPughYTGmfRqIZmQ",
+    "data": {
+      "customerName": "Bern",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1757264583,
+        "_nanoseconds": 104000000
+      },
+      "updatedAt": {
+        "_seconds": 1757264583,
+        "_nanoseconds": 104000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "qbgCaNuumPQvQLLpibwm",
+          "data": {
+            "type": "consumption",
+            "amount": 72,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1757264583,
+              "_nanoseconds": 188000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "hP44Pvz2AwsZTkUKMtJ8",
+    "data": {
+      "customerName": "Francisca do bairro Lourival",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1757041015,
+        "_nanoseconds": 15000000
+      },
+      "updatedAt": {
+        "_seconds": 1757041015,
+        "_nanoseconds": 15000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "K2dEXmMumY4KJ8XisIVX",
+          "data": {
+            "type": "consumption",
+            "amount": 60,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1757041015,
+              "_nanoseconds": 105000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "hXYEbjZLJDDdPXHmODUg",
+    "data": {
+      "customerName": "Junin",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753732925,
+        "_nanoseconds": 677000000
+      },
+      "updatedAt": {
+        "_seconds": 1753732925,
+        "_nanoseconds": 677000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "l76WgJhLRXZs4K8HdvMm",
+          "data": {
+            "type": "consumption",
+            "amount": 36,
+            "description": "Valor inicial do Pedido #PF-1753579677464LOCYP6",
+            "date": {
+              "_seconds": 1753732925,
+              "_nanoseconds": 717000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "jWcs0cDUXPKylt1bARIF",
+    "data": {
+      "customerName": "Nanda Pires Gomes",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756011296,
+        "_nanoseconds": 101000000
+      },
+      "updatedAt": {
+        "_seconds": 1756011296,
+        "_nanoseconds": 101000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "Bi3NSc9Ru9lQb2Oa1iA8",
+          "data": {
+            "type": "consumption",
+            "amount": 23,
+            "description": "Valor inicial do Pedido #1755389561074vf8j8n",
+            "date": {
+              "_seconds": 1756011296,
+              "_nanoseconds": 136000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "kQOOagOd51cep9rjqjyO",
+    "data": {
+      "customerName": "Yasmin lorival devi",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754750331,
+        "_nanoseconds": 349000000
+      },
+      "updatedAt": {
+        "_seconds": 1756909005,
+        "_nanoseconds": 509000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "00AXvFTaHiWS4tMXSgap",
+          "data": {
+            "type": "consumption",
+            "amount": 100,
+            "description": "Consumo do Pedido #I019PH",
+            "date": {
+              "_seconds": 1754750343,
+              "_nanoseconds": 378000000
+            }
+          }
+        },
+        {
+          "id": "9IeJMtDimHRT49OUnFJR",
+          "data": {
+            "type": "payment",
+            "amount": 200,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1756909005,
+              "_nanoseconds": 440000000
+            }
+          }
+        },
+        {
+          "id": "x3ZoYbc6d1ENZAGaUZPb",
+          "data": {
+            "type": "consumption",
+            "amount": 100,
+            "description": "Valor inicial do Pedido #PF-1754693167346I019PH",
+            "date": {
+              "_seconds": 1754750331,
+              "_nanoseconds": 439000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "kizl83wlubKuotQkcJrH",
+    "data": {
+      "customerName": "Dilma",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753398189,
+        "_nanoseconds": 787000000
+      },
+      "updatedAt": {
+        "_seconds": 1754617938,
+        "_nanoseconds": 846000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "MteZU5AjxNyBU3ENUEEG",
+          "data": {
+            "type": "payment",
+            "amount": 18,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1754617938,
+              "_nanoseconds": 756000000
+            }
+          }
+        },
+        {
+          "id": "Qy4GhPhmn6ejtesqVKcN",
+          "data": {
+            "type": "consumption",
+            "amount": 18,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1753398189,
+              "_nanoseconds": 827000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "kusGx6vn8CEgGX0DkWUi",
+    "data": {
+      "customerName": "Murilo Junior",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753404198,
+        "_nanoseconds": 180000000
+      },
+      "updatedAt": {
+        "_seconds": 1753404198,
+        "_nanoseconds": 180000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "jqKkCp7p9mPdAi4UXKQK",
+          "data": {
+            "type": "consumption",
+            "amount": 11,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1753404198,
+              "_nanoseconds": 220000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "l8CyM6sYZlfoWjhIYnUv",
+    "data": {
+      "customerName": "Maria Junior",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754530968,
+        "_nanoseconds": 654000000
+      },
+      "updatedAt": {
+        "_seconds": 1754530968,
+        "_nanoseconds": 654000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "jkXyUTpUWhfB1v3qYnWp",
+          "data": {
+            "type": "consumption",
+            "amount": 27,
+            "description": "Valor inicial do Pedido #PF-1753828110809OJ5U3H",
+            "date": {
+              "_seconds": 1754530968,
+              "_nanoseconds": 675000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "lvKpHJvt45c1s3kxZ5XL",
+    "data": {
+      "customerName": "Ze da leide",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754530951,
+        "_nanoseconds": 741000000
+      },
+      "updatedAt": {
+        "_seconds": 1754530951,
+        "_nanoseconds": 741000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "ZncOGNVLRDjnXlz4ayBI",
+          "data": {
+            "type": "consumption",
+            "amount": 35,
+            "description": "Valor inicial do Pedido #1753997108812b3p5sy",
+            "date": {
+              "_seconds": 1754530951,
+              "_nanoseconds": 775000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "mhAf3hMQuV3S67oPzzoW",
+    "data": {
+      "customerName": "Sodinha",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754319282,
+        "_nanoseconds": 353000000
+      },
+      "updatedAt": {
+        "_seconds": 1754319282,
+        "_nanoseconds": 353000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "zgPMPbHAmbyX1TI6UvuA",
+          "data": {
+            "type": "consumption",
+            "amount": 15,
+            "description": "Valor inicial do Pedido #PF-1754258533002OY8SEO",
+            "date": {
+              "_seconds": 1754319282,
+              "_nanoseconds": 446000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "o9uMaCv9zz9NR7b9boEk",
+    "data": {
+      "customerName": "Professor Felipe",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1752821391,
+        "_nanoseconds": 255000000
+      },
+      "updatedAt": {
+        "_seconds": 1752821391,
+        "_nanoseconds": 255000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "74FmnkX6rmlwb8b9uPUA",
+          "data": {
+            "type": "consumption",
+            "amount": 20,
+            "description": "Valor inicial do Pedido #PF-17528213601105ATERO",
+            "date": {
+              "_seconds": 1752821391,
+              "_nanoseconds": 296000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "oI6vxEaLFZPG4EMHogOO",
+    "data": {
+      "customerName": "dddd",
+      "createdAt": {
+        "_seconds": 1752127356,
+        "_nanoseconds": 370000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752184080,
+        "_nanoseconds": 164000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "oSdbyyTiQeAs1L933dFB",
+    "data": {
+      "customerName": "FRANCISCO DAS CHAGAS CARVALHO SILVA",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753578215,
+        "_nanoseconds": 442000000
+      },
+      "updatedAt": {
+        "_seconds": 1754526446,
+        "_nanoseconds": 353000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "V3WpUhMMg20JHTAqpiK9",
+          "data": {
+            "type": "consumption",
+            "amount": 5,
+            "description": "Valor inicial do Pedido #6siNcZu9v9yWJO6ZK9yK",
+            "date": {
+              "_seconds": 1753578215,
+              "_nanoseconds": 482000000
+            }
+          }
+        },
+        {
+          "id": "jGVdSTa9dfGbunrBnkmW",
+          "data": {
+            "type": "consumption",
+            "amount": 12,
+            "description": "Consumo do Pedido #I8RPRQ",
+            "date": {
+              "_seconds": 1754526446,
+              "_nanoseconds": 192000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "p5gnog4EWpa4k63BNkdz",
+    "data": {
+      "customerName": "Lazin",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1752964877,
+        "_nanoseconds": 527000000
+      },
+      "updatedAt": {
+        "_seconds": 1753732959,
+        "_nanoseconds": 304000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "gtNg9WSjFsYZ1On16Qkj",
+          "data": {
+            "type": "consumption",
+            "amount": 26,
+            "description": "Consumo do Pedido #QEY2X5",
+            "date": {
+              "_seconds": 1753732959,
+              "_nanoseconds": 265000000
+            }
+          }
+        },
+        {
+          "id": "tibXXA60Lg3bmPUCurSz",
+          "data": {
+            "type": "consumption",
+            "amount": 15,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1752964877,
+              "_nanoseconds": 613000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "qGvEgkI7Q0aYocXmum9A",
+    "data": {
+      "customerName": "Derick Mackenzie",
+      "createdAt": {
+        "_seconds": 1751989299,
+        "_nanoseconds": 623000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752021636,
+        "_nanoseconds": 313000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "2IyREoohPvSOH04fdQ7R",
+          "data": {
+            "type": "consumption",
+            "amount": 25,
+            "description": "Consumo do Pedido #r33xv3",
+            "date": {
+              "_seconds": 1752021624,
+              "_nanoseconds": 44000000
+            }
+          }
+        },
+        {
+          "id": "KbhJcOrnYDOXrhz7z3Bm",
+          "data": {
+            "type": "consumption",
+            "amount": 25,
+            "description": "Valor inicial do Pedido #17519892402942b5fc0",
+            "date": {
+              "_seconds": 1751989299,
+              "_nanoseconds": 709000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "qhNY3lYzFaksy9a81z4n",
+    "data": {
+      "customerName": "Eduardo Oliveira",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754176863,
+        "_nanoseconds": 642000000
+      },
+      "updatedAt": {
+        "_seconds": 1756468698,
+        "_nanoseconds": 629000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "qmfOFYZuvdlMLjSnep09",
+    "data": {
+      "customerName": "derick mackenzie",
+      "createdAt": {
+        "_seconds": 1752186653,
+        "_nanoseconds": 94000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752201648,
+        "_nanoseconds": 956000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "r3ADrbhnkacKR7v1DaMA",
+    "data": {
+      "customerName": "Nozinha",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756762080,
+        "_nanoseconds": 289000000
+      },
+      "updatedAt": {
+        "_seconds": 1757193942,
+        "_nanoseconds": 130000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "YRYMOny3hpmjdBnAGAIR",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1757193942,
+              "_nanoseconds": 41000000
+            }
+          }
+        },
+        {
+          "id": "budrzhhkJNB0VG5jBIhW",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1756941399,
+              "_nanoseconds": 69000000
+            }
+          }
+        },
+        {
+          "id": "jqFySYGe0A1MVwmxfFc3",
+          "data": {
+            "type": "consumption",
+            "amount": 73,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1756762089,
+              "_nanoseconds": 644000000
+            },
+            "timestamps": {
+              "localTimestamp": {
+                "_seconds": 1756762085,
+                "_nanoseconds": 926000000
+              },
+              "timestampString": "2025-09-01T21:28:05.926Z",
+              "localDateString": "01/09/2025",
+              "localTimeString": "21:28:05",
+              "serverTimestamp": {
+                "_seconds": 1756762089,
+                "_nanoseconds": 644000000
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "ra3BfoTwXd2ZyAi80QkV",
+    "data": {
+      "customerName": "Lenildo filho do Magalhães",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754533156,
+        "_nanoseconds": 746000000
+      },
+      "updatedAt": {
+        "_seconds": 1754618004,
+        "_nanoseconds": 55000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "TLcsegPbGSJUKjqfxKuZ",
+          "data": {
+            "type": "payment",
+            "amount": 12,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1754618004,
+              "_nanoseconds": 11000000
+            }
+          }
+        },
+        {
+          "id": "dzPJrg9Pu2zPXgVP4jTD",
+          "data": {
+            "type": "consumption",
+            "amount": 12,
+            "description": "Valor inicial do Pedido #PF-1754533132678YBRXSK",
+            "date": {
+              "_seconds": 1754533156,
+              "_nanoseconds": 835000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sQ6GpywaggHr6inGp3ka",
+    "data": {
+      "customerName": "ADV. ILANNA",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756940056,
+        "_nanoseconds": 110000000
+      },
+      "updatedAt": {
+        "_seconds": 1756940056,
+        "_nanoseconds": 110000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "RSMmCOw4IMlCsGPPyF1v",
+          "data": {
+            "type": "consumption",
+            "amount": 31,
+            "description": "Valor inicial do Pedido #M-1756940068589JO4RNI",
+            "date": {
+              "_seconds": 1756940056,
+              "_nanoseconds": 149000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sjZQzkH1dDnq4U8KeHFW",
+    "data": {
+      "customerName": "Derick",
+      "createdAt": {
+        "_seconds": 1756467273,
+        "_nanoseconds": 195000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1756467315,
+        "_nanoseconds": 379000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "UNWMzXzA1Hg2iRg46BPl",
+          "data": {
+            "type": "consumption",
+            "amount": 1500,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1756467273,
+              "_nanoseconds": 287000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tIpq4Q6ymJ121SlZFWBx",
+    "data": {
+      "customerName": "Bartiao",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754779094,
+        "_nanoseconds": 625000000
+      },
+      "updatedAt": {
+        "_seconds": 1754779094,
+        "_nanoseconds": 625000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "S277dHUy640YqdMBlVgS",
+          "data": {
+            "type": "consumption",
+            "amount": 77,
+            "description": "Valor inicial do Pedido #PF-1754778757311WIPTO2",
+            "date": {
+              "_seconds": 1754779094,
+              "_nanoseconds": 721000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tujR0TOME4uY2m8D7Rsy",
+    "data": {
+      "customerName": "Elicio",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753926822,
+        "_nanoseconds": 644000000
+      },
+      "updatedAt": {
+        "_seconds": 1753926822,
+        "_nanoseconds": 644000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "i34q58HOc4r3fU5n5QUo",
+          "data": {
+            "type": "consumption",
+            "amount": 23,
+            "description": "Valor inicial do Pedido #PF-1753822983634LM0J1F",
+            "date": {
+              "_seconds": 1753926822,
+              "_nanoseconds": 682000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "u3eKsGaOucMcOBemdDl1",
+    "data": {
+      "customerName": "Dayane filha da Silvana",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755995420,
+        "_nanoseconds": 907000000
+      },
+      "updatedAt": {
+        "_seconds": 1755995420,
+        "_nanoseconds": 907000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "IOcz1pgKIHDp7p1s2TdE",
+          "data": {
+            "type": "consumption",
+            "amount": 100,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755995420,
+              "_nanoseconds": 995000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "uFdjT9AricXyGP1TVyDg",
+    "data": {
+      "customerName": "Francisco Garsom",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1757122595,
+        "_nanoseconds": 221000000
+      },
+      "updatedAt": {
+        "_seconds": 1757122595,
+        "_nanoseconds": 221000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "8ZnWFEQ1UFfORcvrOzEN",
+          "data": {
+            "type": "consumption",
+            "amount": 36,
+            "description": "Valor inicial do Pedido #M-1757117915151Q66TZH",
+            "date": {
+              "_seconds": 1757122595,
+              "_nanoseconds": 313000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "vSy2KAZFligfvWNVlK8V",
+    "data": {
+      "customerName": "Lúcia mulher do Francisco",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756516420,
+        "_nanoseconds": 177000000
+      },
+      "updatedAt": {
+        "_seconds": 1756516420,
+        "_nanoseconds": 177000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "TS7H5n3FkBfO47wZg6ls",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Valor inicial do Pedido #PF-17565127203701HAW1Z",
+            "date": {
+              "_seconds": 1756516420,
+              "_nanoseconds": 215000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "vcXp3hjOUNd36Pkp4hn6",
+    "data": {
+      "customerName": "Gaby Da Esperança",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754773754,
+        "_nanoseconds": 713000000
+      },
+      "updatedAt": {
+        "_seconds": 1754773754,
+        "_nanoseconds": 713000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "UCIO56rNN8AWgtiI7yPz",
+          "data": {
+            "type": "consumption",
+            "amount": 10,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1754773754,
+              "_nanoseconds": 761000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "voUWSixsksmTSOm7pJrf",
+    "data": {
+      "customerName": "Mario Junior",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1752113247,
+        "_nanoseconds": 408000000
+      },
+      "updatedAt": {
+        "_seconds": 1752113247,
+        "_nanoseconds": 408000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "zRMlW3INm7WZ5o7Y6SmO",
+          "data": {
+            "type": "consumption",
+            "amount": 24,
+            "description": "Valor inicial do Pedido #FISICO-1752113240130",
+            "date": {
+              "_seconds": 1752113247,
+              "_nanoseconds": 459000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "wSPwnoE036qFu0HGAvgp",
+    "data": {
+      "customerName": "Caline",
+      "createdAt": {
+        "_seconds": 1754104809,
+        "_nanoseconds": 843000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1755870738,
+        "_nanoseconds": 476000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "RwlISTP23z9O5fc9wGJa",
+          "data": {
+            "type": "payment",
+            "amount": 15,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1754617875,
+              "_nanoseconds": 854000000
+            }
+          }
+        },
+        {
+          "id": "dDWvKxBvg9HwKPx9NRL5",
+          "data": {
+            "type": "consumption",
+            "amount": 15,
+            "description": "Valor inicial do Pedido #1754087614575mlyi62",
+            "date": {
+              "_seconds": 1754104809,
+              "_nanoseconds": 877000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "x8L9YYghRcLQ2x6leIQE",
+    "data": {
+      "customerName": "Nozinha",
+      "createdAt": {
+        "_seconds": 1753496374,
+        "_nanoseconds": 788000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1756760597,
+        "_nanoseconds": 854000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "5UGbMXR52yy2XdlAjSF9",
+          "data": {
+            "type": "consumption",
+            "amount": 50,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755216359,
+              "_nanoseconds": 790000000
+            }
+          }
+        },
+        {
+          "id": "5XSh0u4H9cxxOPKaZnGo",
+          "data": {
+            "type": "consumption",
+            "amount": 70,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1753915119,
+              "_nanoseconds": 91000000
+            }
+          }
+        },
+        {
+          "id": "6Yq9biVZQ4u1D5Kd3Moe",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1754778007,
+              "_nanoseconds": 413000000
+            }
+          }
+        },
+        {
+          "id": "8JNwhzBAb265IplDTb1N",
+          "data": {
+            "type": "consumption",
+            "amount": 50,
+            "description": "Consumo do Pedido #CPPNAG",
+            "date": {
+              "_seconds": 1755982180,
+              "_nanoseconds": 516000000
+            }
+          }
+        },
+        {
+          "id": "9IxMcDmtOKM0l4nh7vld",
+          "data": {
+            "type": "consumption",
+            "amount": 72,
+            "description": "Consumo do Pedido #0J6MVQ",
+            "date": {
+              "_seconds": 1754616849,
+              "_nanoseconds": 864000000
+            }
+          }
+        },
+        {
+          "id": "CaAjiRJflypb2NP2RwtM",
+          "data": {
+            "type": "consumption",
+            "amount": 133.5,
+            "description": "Consumo do Pedido #DZCTiT",
+            "date": {
+              "_seconds": 1756566837,
+              "_nanoseconds": 177000000
+            }
+          }
+        },
+        {
+          "id": "DQW63KksEpG6A0J5m4Wy",
+          "data": {
+            "type": "consumption",
+            "amount": 4,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1753496374,
+              "_nanoseconds": 876000000
+            }
+          }
+        },
+        {
+          "id": "GEcd57ab0MeVsjr2CbBl",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1754697701,
+              "_nanoseconds": 153000000
+            }
+          }
+        },
+        {
+          "id": "IDIReuAISodHE8EylxQf",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1753569221,
+              "_nanoseconds": 631000000
+            }
+          }
+        },
+        {
+          "id": "N3V8BFyBjMzSoDYrJaa7",
+          "data": {
+            "type": "consumption",
+            "amount": 62,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755122635,
+              "_nanoseconds": 692000000
+            }
+          }
+        },
+        {
+          "id": "khL7DVsSypE0h8BLKcDV",
+          "data": {
+            "type": "consumption",
+            "amount": 50,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755485604,
+              "_nanoseconds": 695000000
+            }
+          }
+        },
+        {
+          "id": "uHlwe0XhXk032ydAvZ4j",
+          "data": {
+            "type": "consumption",
+            "amount": 62,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755305033,
+              "_nanoseconds": 808000000
+            }
+          }
+        },
+        {
+          "id": "zJCXbvXi31issLYeCV2h",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Consumo do Pedido #XYITPP",
+            "date": {
+              "_seconds": 1754002377,
+              "_nanoseconds": 598000000
+            }
+          }
+        },
+        {
+          "id": "zwkb2rGqcpadwn73rxZp",
+          "data": {
+            "type": "consumption",
+            "amount": 42,
+            "description": "Consumo do Pedido #WD21R6",
+            "date": {
+              "_seconds": 1756433914,
+              "_nanoseconds": 730000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "xWu5OqP47XPrwDejZJOL",
+    "data": {
+      "customerName": "Ithauana Maria Ferreira Correia",
+      "createdAt": {
+        "_seconds": 1752113410,
+        "_nanoseconds": 302000000
+      },
+      "isActive": false,
+      "updatedAt": {
+        "_seconds": 1752114297,
+        "_nanoseconds": 641000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "Sn97Dn7HnKi1ZYWPqFgd",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Consumo do Pedido #sxf7l1",
+            "date": {
+              "_seconds": 1752114142,
+              "_nanoseconds": 376000000
+            }
+          }
+        },
+        {
+          "id": "yggWBPCl7mmQWehzAQBg",
+          "data": {
+            "type": "consumption",
+            "amount": 52,
+            "description": "Valor inicial do Pedido #1752102470677sxf7l1",
+            "date": {
+              "_seconds": 1752113410,
+              "_nanoseconds": 377000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "xYhyv8ZIcnAD0t4XOksL",
+    "data": {
+      "customerName": "Naty",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1753927331,
+        "_nanoseconds": 838000000
+      },
+      "updatedAt": {
+        "_seconds": 1753927376,
+        "_nanoseconds": 333000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "AEQDQVts50QHEC7KggMo",
+          "data": {
+            "type": "consumption",
+            "amount": 29,
+            "description": "Valor inicial do Pedido #PF-1753921785692R78GSJ",
+            "date": {
+              "_seconds": 1753927331,
+              "_nanoseconds": 873000000
+            }
+          }
+        },
+        {
+          "id": "dOjr8PiiGYJlS9dyclJz",
+          "data": {
+            "type": "payment",
+            "amount": 10,
+            "description": "Pagamento recebido",
+            "date": {
+              "_seconds": 1753927376,
+              "_nanoseconds": 294000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "yRitiwkhvOLYQ3Q6nFjY",
+    "data": {
+      "customerName": "Antoin Calozin",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1756517548,
+        "_nanoseconds": 907000000
+      },
+      "updatedAt": {
+        "_seconds": 1756517548,
+        "_nanoseconds": 907000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "iZ78NyjwFWxXBZoxjDeO",
+          "data": {
+            "type": "consumption",
+            "amount": 38,
+            "description": "Valor inicial do Pedido #PF-17565174100718SKUME",
+            "date": {
+              "_seconds": 1756517548,
+              "_nanoseconds": 934000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "zDfKmZ493Ehtus8vo84w",
+    "data": {
+      "customerName": "Elisângela Patrícia",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755315197,
+        "_nanoseconds": 28000000
+      },
+      "updatedAt": {
+        "_seconds": 1755901003,
+        "_nanoseconds": 98000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "WHr12yFPLyY73MBNYz2k",
+          "data": {
+            "type": "consumption",
+            "amount": 82,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755901002,
+              "_nanoseconds": 928000000
+            }
+          }
+        },
+        {
+          "id": "pJdqqYany4Cc73Olad1n",
+          "data": {
+            "type": "consumption",
+            "amount": 60,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755315197,
+              "_nanoseconds": 69000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "zWCUosfuh7UHKAIgeYBy",
+    "data": {
+      "customerName": "Rafael",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1754105505,
+        "_nanoseconds": 866000000
+      },
+      "updatedAt": {
+        "_seconds": 1755658204,
+        "_nanoseconds": 503000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "4w8mlJPdPttARuZxwAUC",
+          "data": {
+            "type": "consumption",
+            "amount": 135,
+            "description": "Valor inicial do Pedido #PF-1754014674803TDUI9Y",
+            "date": {
+              "_seconds": 1754105505,
+              "_nanoseconds": 949000000
+            }
+          }
+        },
+        {
+          "id": "TgfBCfRMB7zOuieTslkk",
+          "data": {
+            "type": "consumption",
+            "amount": 85,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755658204,
+              "_nanoseconds": 463000000
+            }
+          }
+        },
+        {
+          "id": "aKGJu0LvhZ8t0jXKOWQQ",
+          "data": {
+            "type": "consumption",
+            "amount": 85,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755658203,
+              "_nanoseconds": 412000000
+            }
+          }
+        },
+        {
+          "id": "mLDA7lbcKuRNXGAs9joa",
+          "data": {
+            "type": "consumption",
+            "amount": 85,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755658203,
+              "_nanoseconds": 829000000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "zlXukpl1SwFC6S7jbWJi",
+    "data": {
+      "customerName": "Branquinha",
+      "isActive": true,
+      "createdAt": {
+        "_seconds": 1755223440,
+        "_nanoseconds": 326000000
+      },
+      "updatedAt": {
+        "_seconds": 1756764046,
+        "_nanoseconds": 238000000
+      }
+    },
+    "subcollections": {
+      "history": [
+        {
+          "id": "Wja45rCvsrPInY8t8p2m",
+          "data": {
+            "type": "consumption",
+            "amount": 5,
+            "description": "Consumo do Pedido #A2PK5Y",
+            "date": {
+              "_seconds": 1756764046,
+              "_nanoseconds": 168000000
+            },
+            "timestamps": {
+              "localTimestamp": {
+                "_seconds": 1756764042,
+                "_nanoseconds": 627000000
+              },
+              "timestampString": "2025-09-01T22:00:42.627Z",
+              "localDateString": "01/09/2025",
+              "localTimeString": "22:00:42",
+              "serverTimestamp": {
+                "_seconds": 1756764046,
+                "_nanoseconds": 168000000
+              }
+            }
+          }
+        },
+        {
+          "id": "X2h1LDWXjpdQ5rRX9XkX",
+          "data": {
+            "type": "consumption",
+            "amount": 43,
+            "description": "Consumo do Pedido (via Pedido Físico)",
+            "date": {
+              "_seconds": 1755315292,
+              "_nanoseconds": 300000000
+            }
+          }
+        },
+        {
+          "id": "xrsOh1yaGvP9HDXLYstz",
+          "data": {
+            "type": "consumption",
+            "amount": 80,
+            "description": "Valor inicial",
+            "date": {
+              "_seconds": 1755223440,
+              "_nanoseconds": 369000000
+            }
+          }
+        }
+      ]
+    }
+  }
+]

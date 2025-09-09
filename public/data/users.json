@@ -1,0 +1,260 @@
+[
+  {
+    "id": "0iV7F4l0UdfXag2h6gcqflQgnum2",
+    "data": {
+      "createdAt": {
+        "_seconds": 1756689785,
+        "_nanoseconds": 92000000
+      },
+      "role": "client",
+      "displayName": "Laís Santos",
+      "email": "laissantos4506@gmail.com",
+      "geminiApiCredits": 5
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Ac2p3BxndPYai2hzQJeXZg1Y7sB3",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752678793,
+        "_nanoseconds": 66000000
+      },
+      "geminiApiCredits": 0
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "BQ8Qe2OqcwOzd1o1SBQbSbcFESK2",
+    "data": {
+      "role": "owner",
+      "displayName": "Edienai",
+      "loginCode": "edienai",
+      "email": "mackenziederick14@gmail.com",
+      "pin": "3007"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "DI7tH0Hsx4OZjc6wZmcxtT7Gk4g1",
+    "data": {
+      "role": "waiter",
+      "displayName": "Pombin",
+      "loginCode": "pombin",
+      "pin": "5463",
+      "email": "pombim@gmail.com"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "FW1RjxN4tfYiFeHOoIYgYpNwGM62",
+    "data": {
+      "createdAt": {
+        "_seconds": 1753483337,
+        "_nanoseconds": 792000000
+      },
+      "geminiApiCredits": 5
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Kkub9U0bT8QLBWxuuYqSsb26x2J3",
+    "data": {
+      "createdAt": {
+        "_seconds": 1757028999,
+        "_nanoseconds": 892000000
+      },
+      "geminiApiCredits": 5
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "NrKEZGdHIyYFdmd9WML6UXtOqwq1",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752682676,
+        "_nanoseconds": 741000000
+      },
+      "geminiApiCredits": 2
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "P8p1nOVomsaLYdvGnoMnyPi0Xsp2",
+    "data": {
+      "geminiApiCredits": 5,
+      "createdAt": {
+        "_seconds": 1753739235,
+        "_nanoseconds": 442000000
+      },
+      "role": "client",
+      "displayName": "Derick",
+      "email": "dzndaskdela@gmail.com"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "RFaoVzdtwnW4BxH8v9uVlziFeSo2",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752697360,
+        "_nanoseconds": 337000000
+      },
+      "role": "client",
+      "displayName": "lucas",
+      "email": "mackenziederick144@gmail.com",
+      "geminiApiCredits": 3
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "SANX4WzufwY2Tsw3qbHPunFMT422",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752691280,
+        "_nanoseconds": 562000000
+      },
+      "role": "client",
+      "displayName": "Derick",
+      "email": "derick.mackenzie25@icloud.com",
+      "geminiApiCredits": 4
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "V1C0HLdn9ccTgzZYwI6CSjZIlQK2",
+    "data": {
+      "role": "waiter",
+      "displayName": "Dilma",
+      "loginCode": "dilma",
+      "pin": "7541",
+      "email": "dilma@gmail.com"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "VCKWRM5cl3ddyuPzVOnJOKVhRhH2",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752691844,
+        "_nanoseconds": 742000000
+      },
+      "geminiApiCredits": 0
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Xq7ktAU79nVDW2nMzkFI79c4qYJ2",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752685809,
+        "_nanoseconds": 966000000
+      },
+      "role": "client",
+      "displayName": "Derick",
+      "email": "derick@gmail.com",
+      "geminiApiCredits": 1
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "czYbJn9rZ8ZCJm88yV9fMZnj0Zr1",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752691131,
+        "_nanoseconds": 84000000
+      },
+      "role": "client",
+      "displayName": "sthefannyyorra",
+      "email": "tep123@gmail.com",
+      "geminiApiCredits": 0
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "fnTxKFlYxuewB37waf4qmFlKvp22",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752801495,
+        "_nanoseconds": 887000000
+      },
+      "role": "client",
+      "displayName": "derick",
+      "email": "derickosim12121212@gmail.com",
+      "geminiApiCredits": 2
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "gEpabbNbkIXpI1w23Sg5zIlovw93",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752684750,
+        "_nanoseconds": 211000000
+      },
+      "role": "client",
+      "displayName": "Sthefanny Yorrara",
+      "email": "sthefanny@gmail.com",
+      "geminiApiCredits": 0
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ma304XWyurPgQcyF3pplzh1ML563",
+    "data": {
+      "createdAt": {
+        "_seconds": 1752697211,
+        "_nanoseconds": 875000000
+      },
+      "role": "client",
+      "displayName": "dd",
+      "email": "derickosim123@gmail.com",
+      "geminiApiCredits": 0
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "oQ8DvIzDP0eLTh4t1aP5CEVSoK83",
+    "data": {
+      "role": "waiter",
+      "displayName": "Md Chefe",
+      "loginCode": "mdchefe",
+      "pin": "3506",
+      "email": "mdchefe@gmail.com"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "pc696Vc7uYestqDt8ltUALXlJxh1",
+    "data": {
+      "role": "waiter",
+      "displayName": "José",
+      "loginCode": "josé",
+      "pin": "4714",
+      "email": "jose@gmail.com"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "xmJacJgyntcHw1n0n7vXFQlNzy03",
+    "data": {
+      "createdAt": {
+        "_seconds": 1755467805,
+        "_nanoseconds": 878000000
+      },
+      "geminiApiCredits": 5
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "zeDCGozRCyMuaFIz2H0XeRnkj5p1",
+    "data": {
+      "role": "waiter",
+      "displayName": "Joao Pedro",
+      "loginCode": "joaopedro",
+      "pin": "5987",
+      "email": "jp@gmail.com"
+    },
+    "subcollections": {}
+  }
+]

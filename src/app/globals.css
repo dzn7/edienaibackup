@@ -1,0 +1,380 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a0e1a;
+  --foreground: #f8fafc;
+  --gradient-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --gradient-secondary: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  --gradient-success: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  --gradient-warning: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-poppins), 'Poppins', system-ui, sans-serif;
+  --font-mono: 'Fira Code', monospace;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-poppins), 'Poppins', system-ui, sans-serif;
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Chart.js dark theme overrides */
+.chart-container {
+  background: #1e293b;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+/* Material UI DataGrid dark theme overrides */
+.MuiDataGrid-root {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+  font-family: var(--font-poppins), 'Poppins', sans-serif !important;
+}
+
+.MuiDataGrid-main {
+  background-color: transparent !important;
+}
+
+.MuiDataGrid-virtualScroller {
+  background-color: transparent !important;
+}
+
+.MuiDataGrid-cell {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+  border-color: #475569 !important;
+}
+
+.MuiDataGrid-row {
+  background-color: transparent !important;
+}
+
+.MuiDataGrid-row:nth-of-type(even) {
+  background-color: rgba(30, 41, 59, 0.3) !important;
+}
+
+.MuiDataGrid-row:hover {
+  background-color: rgba(59, 130, 246, 0.2) !important;
+}
+
+.MuiDataGrid-columnHeaders {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+  border-color: #475569 !important;
+  font-family: var(--font-poppins), 'Poppins', sans-serif !important;
+  font-weight: 600 !important;
+}
+
+.MuiDataGrid-columnHeader {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-footerContainer {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+  border-color: #475569 !important;
+}
+
+.MuiDataGrid-toolbarContainer {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiTablePagination-root {
+  color: #f8fafc !important;
+}
+
+.MuiIconButton-root {
+  color: #f8fafc !important;
+}
+
+.MuiInputBase-root {
+  color: #f8fafc !important;
+}
+
+.MuiSelect-select {
+  color: #f8fafc !important;
+}
+
+/* Remover elementos brancos feios */
+.MuiDataGrid-cell:focus {
+  outline: none !important;
+  background-color: transparent !important;
+}
+
+.MuiDataGrid-cell:focus-within {
+  background-color: transparent !important;
+}
+
+.MuiDataGrid-cell--editing {
+  background-color: transparent !important;
+}
+
+.MuiDataGrid-editInputCell {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-editInputCell input {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-filterForm {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-filterFormDeleteIcon {
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-menu {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-menuList {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-menuItem {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-menuItem:hover {
+  background-color: #334155 !important;
+}
+
+.MuiDataGrid-panel {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-panelContent {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-panelHeader {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-panelWrapper {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-sortIcon {
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-columnSeparator {
+  color: #475569 !important;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-columnHeaderTitleContainer {
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-columnHeaderTitleContainerContent {
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-columnHeaderTitleContainerContent .MuiDataGrid-columnHeaderTitle {
+  color: #f8fafc !important;
+}
+
+/* Remover fundos brancos de inputs e selects */
+.MuiInputBase-input {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiSelect-select {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: #475569 !important;
+}
+
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #64748b !important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #3b82f6 !important;
+}
+
+/* Remover TODOS os elementos brancos do Material UI */
+.MuiDataGrid-root * {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root input {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+  border: none !important;
+}
+
+.MuiDataGrid-root input:focus {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+  outline: none !important;
+  border: none !important;
+}
+
+.MuiDataGrid-root input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.MuiDataGrid-root .MuiInputBase-input {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiInputBase-input:focus {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiInputBase-input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.MuiDataGrid-root .MuiSelect-select {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiSelect-select:focus {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiOutlinedInput-notchedOutline {
+  border-color: #475569 !important;
+}
+
+.MuiDataGrid-root .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #64748b !important;
+}
+
+.MuiDataGrid-root .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #3b82f6 !important;
+}
+
+/* Remover fundos brancos de todos os elementos do DataGrid */
+.MuiDataGrid-root .MuiDataGrid-filterForm {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-filterForm input {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-filterForm .MuiInputBase-root {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-filterForm .MuiSelect-select {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+}
+
+/* Remover fundos brancos de menus e dropdowns */
+.MuiDataGrid-root .MuiMenu-paper {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiMenuItem-root {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+.MuiDataGrid-root .MuiMenuItem-root:hover {
+  background-color: #334155 !important;
+  color: #f8fafc !important;
+}
+
+/* Remover fundos brancos de tooltips */
+.MuiDataGrid-root .MuiTooltip-tooltip {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+/* Remover fundos brancos de popovers */
+.MuiDataGrid-root .MuiPopover-paper {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+/* Remover fundos brancos de dialogs */
+.MuiDataGrid-root .MuiDialog-paper {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
+
+/* Remover fundos brancos de todos os inputs */
+.MuiDataGrid-root input[type="text"],
+.MuiDataGrid-root input[type="number"],
+.MuiDataGrid-root input[type="email"],
+.MuiDataGrid-root input[type="password"],
+.MuiDataGrid-root input[type="search"],
+.MuiDataGrid-root textarea,
+.MuiDataGrid-root select {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+  border: 1px solid #475569 !important;
+}
+
+.MuiDataGrid-root input[type="text"]:focus,
+.MuiDataGrid-root input[type="number"]:focus,
+.MuiDataGrid-root input[type="email"]:focus,
+.MuiDataGrid-root input[type="password"]:focus,
+.MuiDataGrid-root input[type="search"]:focus,
+.MuiDataGrid-root textarea:focus,
+.MuiDataGrid-root select:focus {
+  background-color: transparent !important;
+  color: #f8fafc !important;
+  border: 1px solid #3b82f6 !important;
+  outline: none !important;
+}

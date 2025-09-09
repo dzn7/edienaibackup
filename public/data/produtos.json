@@ -1,0 +1,5850 @@
+[
+  {
+    "id": "0gJGg9SNJNrldr3Btnz1",
+    "data": {
+      "nome": "Drink pro",
+      "categoria": "drinks",
+      "codigo": "Nf",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "id": "0gJGg9SNJNrldr3Btnz1",
+      "createdAt": {
+        "_seconds": 1755312332,
+        "_nanoseconds": 405000000
+      },
+      "imagem_url": "/icons/cozumel.png",
+      "preco": 10,
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "updatedAt": {
+        "_seconds": 1755317963,
+        "_nanoseconds": 470000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "1J0ykeMIfvsazzzKg1Y1",
+    "data": {
+      "nome": "Gelo Blue Ice",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/blueice.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "1J0ykeMIfvsazzzKg1Y1",
+      "createdAt": {
+        "_seconds": 1754152787,
+        "_nanoseconds": 446000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152787,
+        "_nanoseconds": 446000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "39u4HbblYlT6QBUfHOQS",
+    "data": {
+      "preco": 16.99,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/vinhocl.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "39u4HbblYlT6QBUfHOQS",
+      "createdAt": {
+        "_seconds": 1754515574,
+        "_nanoseconds": 623000000
+      },
+      "nome": "Vinho Campo Largo Suave",
+      "updatedAt": {
+        "_seconds": 1754515609,
+        "_nanoseconds": 812000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "4YtwiZ9guMIxsqHtOkSo",
+    "data": {
+      "nome": "Pepsi 1L (Pet)",
+      "preco": 5,
+      "categoria": "refrigerantes",
+      "codigo": null,
+      "imagem_url": "/icons/pepsi1l.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "4YtwiZ9guMIxsqHtOkSo",
+      "createdAt": {
+        "_seconds": 1753482673,
+        "_nanoseconds": 629000000
+      },
+      "updatedAt": {
+        "_seconds": 1753482673,
+        "_nanoseconds": 629000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "8hC7ZM8qZb6FVVyO1UXH",
+    "data": {
+      "preco": 20,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/combo3.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "8hC7ZM8qZb6FVVyO1UXH",
+      "createdAt": {
+        "_seconds": 1755140425,
+        "_nanoseconds": 773000000
+      },
+      "nome": "Melancia Gin Combo Mansão Maromba 1L",
+      "updatedAt": {
+        "_seconds": 1755141161,
+        "_nanoseconds": 392000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "9eQW1tN0J3YmJA9Vo5B8",
+    "data": {
+      "nome": "Gin Tanqueray 750ml",
+      "preco": 150,
+      "categoria": "drinks",
+      "codigo": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "9eQW1tN0J3YmJA9Vo5B8",
+      "createdAt": {
+        "_seconds": 1754656201,
+        "_nanoseconds": 137000000
+      },
+      "imagem_url": "/icons/tanqueray.png",
+      "updatedAt": {
+        "_seconds": 1754656268,
+        "_nanoseconds": 319000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Bz2amAshSgfe8YCONzBy",
+    "data": {
+      "nome": "X-Bacon",
+      "preco": 18,
+      "categoria": "hamburguer",
+      "codigo": null,
+      "imagem_url": "/icons/xbacon.png",
+      "descricao": "Pão, Carne, Bacon, Queijo, Ovo, Tomate, Alface\nIMAGEM ILUSTRATIVA",
+      "num_complementos_gratis": 0,
+      "complements": {
+        "bacon_extra": true,
+        "cebola": true
+      },
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "Bz2amAshSgfe8YCONzBy",
+      "createdAt": {
+        "_seconds": 1753406939,
+        "_nanoseconds": 647000000
+      },
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122144,
+        "_nanoseconds": 443000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "CYwLj9QdlmPtuswRLDz9",
+    "data": {
+      "nome": "Balinha TNT (Unidade)",
+      "preco": 0.3,
+      "categoria": "bombons",
+      "codigo": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "CYwLj9QdlmPtuswRLDz9",
+      "createdAt": {
+        "_seconds": 1753482084,
+        "_nanoseconds": 964000000
+      },
+      "imagem_url": "/icons/tnt.png",
+      "updatedAt": {
+        "_seconds": 1753482100,
+        "_nanoseconds": 19000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Fi0KWuKKPyXGwvxQYYnL",
+    "data": {
+      "nome": "Arroz Sepé",
+      "preco": 5,
+      "categoria": "mercado",
+      "codigo": null,
+      "imagem_url": "/icons/arrozsepe.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "Fi0KWuKKPyXGwvxQYYnL",
+      "createdAt": {
+        "_seconds": 1753481825,
+        "_nanoseconds": 404000000
+      },
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1756817583,
+        "_nanoseconds": 320000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Fl4faoyeqPSClwUyLvig",
+    "data": {
+      "nome": "Canudinho Dino Docile (Unidade)",
+      "categoria": "bombons",
+      "codigo": null,
+      "imagem_url": "/icons/canudinho.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "Fl4faoyeqPSClwUyLvig",
+      "createdAt": {
+        "_seconds": 1753482191,
+        "_nanoseconds": 705000000
+      },
+      "preco": 2,
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296237,
+        "_nanoseconds": 613000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "GISUHynMkGl27HABY2Ti",
+    "data": {
+      "nome": "Sundae",
+      "preco": 8,
+      "categoria": "sorvetes_e_picoles",
+      "codigo": null,
+      "imagem_url": "/icons/sundae.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "GISUHynMkGl27HABY2Ti",
+      "createdAt": {
+        "_seconds": 1753568177,
+        "_nanoseconds": 150000000
+      },
+      "updatedAt": {
+        "_seconds": 1753568177,
+        "_nanoseconds": 150000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "HqPPQAyReXikbOLm5gfr",
+    "data": {
+      "nome": "Gelo Melancia",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/melancia.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "HqPPQAyReXikbOLm5gfr",
+      "createdAt": {
+        "_seconds": 1754152901,
+        "_nanoseconds": 930000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152901,
+        "_nanoseconds": 930000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "MN2eo7TCZohlq6TDNOTK",
+    "data": {
+      "nome": "Absolut Vodka Sprite Lata",
+      "preco": 8,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/absolut.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "MN2eo7TCZohlq6TDNOTK",
+      "createdAt": {
+        "_seconds": 1754174625,
+        "_nanoseconds": 970000000
+      },
+      "updatedAt": {
+        "_seconds": 1754174625,
+        "_nanoseconds": 970000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "QY8NyGsardMiHiG1cJVO",
+    "data": {
+      "nome": "Chiclete Brinq Tattoo (Unidade)",
+      "preco": 0.2,
+      "categoria": "bombons",
+      "codigo": null,
+      "imagem_url": "/icons/brinq.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "QY8NyGsardMiHiG1cJVO",
+      "createdAt": {
+        "_seconds": 1753482257,
+        "_nanoseconds": 742000000
+      },
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756942965,
+        "_nanoseconds": 126000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "R19qREWengdMeBzksKhj",
+    "data": {
+      "nome": "Cascão Recheado",
+      "preco": 8,
+      "categoria": "sorvetes_e_picoles",
+      "codigo": null,
+      "imagem_url": "/icons/cascao.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "R19qREWengdMeBzksKhj",
+      "createdAt": {
+        "_seconds": 1753568007,
+        "_nanoseconds": 704000000
+      },
+      "updatedAt": {
+        "_seconds": 1753568007,
+        "_nanoseconds": 704000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "Rb4DmTQxg1bRRrx1LbAl",
+    "data": {
+      "nome": "Gelo Limão",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/limao1.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "Rb4DmTQxg1bRRrx1LbAl",
+      "createdAt": {
+        "_seconds": 1754152884,
+        "_nanoseconds": 994000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152884,
+        "_nanoseconds": 994000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "SEqVlp0h11ZIwWEaJQNm",
+    "data": {
+      "preco": 20,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/combo5.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "SEqVlp0h11ZIwWEaJQNm",
+      "createdAt": {
+        "_seconds": 1755140489,
+        "_nanoseconds": 186000000
+      },
+      "nome": "Whisky Combo Tigrinho Mansão Maromba 1L",
+      "updatedAt": {
+        "_seconds": 1755140901,
+        "_nanoseconds": 187000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "SalGKG5P0e1AYZxYdvWL",
+    "data": {
+      "nome": "Gelo Limão e Sal",
+      "preco": 4,
+      "codigo": null,
+      "imagem_url": "/icons/limaoesal.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "SalGKG5P0e1AYZxYdvWL",
+      "createdAt": {
+        "_seconds": 1754151275,
+        "_nanoseconds": 531000000
+      },
+      "updatedAt": {
+        "_seconds": 1754151275,
+        "_nanoseconds": 531000000
+      },
+      "categoria": "gelos_saborizados"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "SeWJr1xjN2ok8qdD1LC5",
+    "data": {
+      "preco": 20,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/combo4.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "SeWJr1xjN2ok8qdD1LC5",
+      "createdAt": {
+        "_seconds": 1755140459,
+        "_nanoseconds": 211000000
+      },
+      "nome": "Whisky Colors Berry  Mansão Maromba 1L",
+      "updatedAt": {
+        "_seconds": 1755140909,
+        "_nanoseconds": 538000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "TCcEEsdRDr6BifVPMw0S",
+    "data": {
+      "nome": "Black Label",
+      "preco": 230,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/blacklabel.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "TCcEEsdRDr6BifVPMw0S",
+      "createdAt": {
+        "_seconds": 1756605293,
+        "_nanoseconds": 766000000
+      },
+      "updatedAt": {
+        "_seconds": 1756605293,
+        "_nanoseconds": 766000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "TSuxz7JDkQ8cm9vTDBlV",
+    "data": {
+      "nome": "Orloff 1L",
+      "preco": 45,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/orloff.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "TSuxz7JDkQ8cm9vTDBlV",
+      "createdAt": {
+        "_seconds": 1754656154,
+        "_nanoseconds": 627000000
+      },
+      "updatedAt": {
+        "_seconds": 1754656323,
+        "_nanoseconds": 994000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "VP4SGEveDOhO8K1bRPIR",
+    "data": {
+      "nome": "Red Bull 355 ml",
+      "preco": 15,
+      "categoria": "energeticos",
+      "codigo": null,
+      "imagem_url": "/icons/rbull.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "VP4SGEveDOhO8K1bRPIR",
+      "createdAt": {
+        "_seconds": 1753406807,
+        "_nanoseconds": 299000000
+      },
+      "updatedAt": {
+        "_seconds": 1753406807,
+        "_nanoseconds": 299000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "VX57iBBNf60Iccpk5gk7",
+    "data": {
+      "preco": 3,
+      "categoria": "bombons",
+      "codigo": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "VX57iBBNf60Iccpk5gk7",
+      "createdAt": {
+        "_seconds": 1753407560,
+        "_nanoseconds": 437000000
+      },
+      "nome": "Canudinho Dino 26g",
+      "imagem_url": "/icons/canudinho.png",
+      "updatedAt": {
+        "_seconds": 1753482310,
+        "_nanoseconds": 482000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "W7lgOFWBWHYjlyPI1hkR",
+    "data": {
+      "nome": "Skol 600ml",
+      "categoria": "cervejas",
+      "codigo": null,
+      "imagem_url": "/icons/skol.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "W7lgOFWBWHYjlyPI1hkR",
+      "createdAt": {
+        "_seconds": 1753406707,
+        "_nanoseconds": 8000000
+      },
+      "preco": 10,
+      "updatedAt": {
+        "_seconds": 1754267637,
+        "_nanoseconds": 687000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "XweqYlRlHIF7JUjEHOIF",
+    "data": {
+      "nome": "Macarrão Espaguete no sabor 400G",
+      "preco": 4,
+      "categoria": "mercado",
+      "codigo": "Eddde",
+      "imagem_url": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": true,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "XweqYlRlHIF7JUjEHOIF",
+      "createdAt": {
+        "_seconds": 1756853241,
+        "_nanoseconds": 384000000
+      },
+      "updatedAt": {
+        "_seconds": 1756853241,
+        "_nanoseconds": 384000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ZE2SqY3IJb8jdps0Nddb",
+    "data": {
+      "nome": "Bala Gelatinosa Docile Gelatines",
+      "preco": 3,
+      "categoria": "bombons",
+      "codigo": null,
+      "imagem_url": "/icons/docile.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "ZE2SqY3IJb8jdps0Nddb",
+      "createdAt": {
+        "_seconds": 1753481995,
+        "_nanoseconds": 423000000
+      },
+      "updatedAt": {
+        "_seconds": 1753481995,
+        "_nanoseconds": 423000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "ZPcBYneNJSCLff2Y1D3I",
+    "data": {
+      "preco": 20,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/combo2.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "ZPcBYneNJSCLff2Y1D3I",
+      "createdAt": {
+        "_seconds": 1755140399,
+        "_nanoseconds": 822000000
+      },
+      "nome": "Vodka Combo Mansão Maromba 1L",
+      "updatedAt": {
+        "_seconds": 1755140922,
+        "_nanoseconds": 540000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "a2dPFkmYEWMaE7CDupw5",
+    "data": {
+      "nome": "Skol Beats Senses 1L",
+      "preco": 25,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/beats.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "a2dPFkmYEWMaE7CDupw5",
+      "createdAt": {
+        "_seconds": 1754604840,
+        "_nanoseconds": 512000000
+      },
+      "updatedAt": {
+        "_seconds": 1754604840,
+        "_nanoseconds": 512000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bMHpuqw9IHLyaBx96855",
+    "data": {
+      "nome": "Gelo Morango",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/morango.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "bMHpuqw9IHLyaBx96855",
+      "createdAt": {
+        "_seconds": 1754152385,
+        "_nanoseconds": 332000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152530,
+        "_nanoseconds": 474000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom1",
+    "data": {
+      "id": "bombom1",
+      "nome": "Trident",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/bombom1.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom10",
+    "data": {
+      "id": "bombom10",
+      "nome": "Pop Mania",
+      "descricao": null,
+      "preco": "0.50",
+      "imagem_url": "/icons/bombom10.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom11",
+    "data": {
+      "id": "bombom11",
+      "nome": "Gomaks",
+      "descricao": null,
+      "imagem_url": "/icons/bombom11.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM03",
+      "preco": 2,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754593599,
+        "_nanoseconds": 30000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom12",
+    "data": {
+      "id": "bombom12",
+      "nome": "Croc-Choc",
+      "descricao": null,
+      "preco": "0.35",
+      "imagem_url": "/icons/bombom12.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM04",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296243,
+        "_nanoseconds": 475000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom13",
+    "data": {
+      "id": "bombom13",
+      "nome": "Bubbaloo",
+      "descricao": null,
+      "imagem_url": "/icons/bombom13.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM05",
+      "preco": 5,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755520003,
+        "_nanoseconds": 670000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom14",
+    "data": {
+      "id": "bombom14",
+      "nome": "Freegells",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/bombom14.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM06"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom15",
+    "data": {
+      "id": "bombom15",
+      "nome": "Coloreti",
+      "descricao": null,
+      "preco": "1.50",
+      "imagem_url": "/icons/bombom15.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM07",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296248,
+        "_nanoseconds": 829000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom16",
+    "data": {
+      "id": "bombom16",
+      "nome": "Top mania Pinta a Língua",
+      "descricao": null,
+      "preco": "1.00",
+      "imagem_url": "/icons/bombom16.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM08",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296531,
+        "_nanoseconds": 840000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom18",
+    "data": {
+      "id": "bombom18",
+      "nome": "Paçoca",
+      "descricao": null,
+      "preco": "0.50",
+      "imagem_url": "/icons/bombom18.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM09"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom19",
+    "data": {
+      "id": "bombom19",
+      "nome": "Pé de Moleque",
+      "descricao": null,
+      "preco": "0.50",
+      "imagem_url": "/icons/bombom19.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM10"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom2",
+    "data": {
+      "id": "bombom2",
+      "nome": "Halls",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/bombom2.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM11"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom20",
+    "data": {
+      "id": "bombom20",
+      "nome": "Wizzy MM",
+      "descricao": null,
+      "imagem_url": "/icons/bombom20.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM12",
+      "preco": 2,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754593176,
+        "_nanoseconds": 115000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom21",
+    "data": {
+      "id": "bombom21",
+      "nome": "Fini 26g",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/bombom21.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM13"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom22",
+    "data": {
+      "id": "bombom22",
+      "nome": "Amendoim Japonês",
+      "descricao": null,
+      "imagem_url": "/icons/bombom22.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM14",
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "preco": 4,
+      "updatedAt": {
+        "_seconds": 1756942939,
+        "_nanoseconds": 290000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom23",
+    "data": {
+      "id": "bombom23",
+      "nome": "Barra de Chocolate",
+      "descricao": null,
+      "preco": "8.50",
+      "imagem_url": "/icons/bombom23.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM15",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296205,
+        "_nanoseconds": 837000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom24",
+    "data": {
+      "id": "bombom24",
+      "nome": "Trident 25,2 g",
+      "descricao": null,
+      "preco": "7.00",
+      "imagem_url": "/icons/bombom24.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM16",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755640783,
+        "_nanoseconds": 941000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom25",
+    "data": {
+      "id": "bombom25",
+      "nome": "Trident X Senses 28 Unidades",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/bombom25.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM17",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755640779,
+        "_nanoseconds": 816000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom26",
+    "data": {
+      "id": "bombom26",
+      "nome": "Bubbaloo 15g",
+      "descricao": null,
+      "preco": "1.50",
+      "imagem_url": "/icons/bombom26.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM18",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296175,
+        "_nanoseconds": 104000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom27",
+    "data": {
+      "id": "bombom27",
+      "nome": "Tictac",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/bombom27.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM19"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom28",
+    "data": {
+      "id": "bombom28",
+      "nome": "Sonho de Valsa",
+      "descricao": null,
+      "preco": "1.50",
+      "imagem_url": "/icons/bombom28.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM20"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom29",
+    "data": {
+      "id": "bombom29",
+      "nome": "Pirulito Pop Brinq Mini Frutas 6g",
+      "descricao": null,
+      "preco": "0.25",
+      "imagem_url": "/icons/bombom29.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM21",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296388,
+        "_nanoseconds": 860000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom3",
+    "data": {
+      "id": "bombom3",
+      "nome": "Pirulito Neopop",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/bombom3.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM22"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom30",
+    "data": {
+      "id": "bombom30",
+      "nome": "Pirulito Azé mola 13,5g",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/bombom30.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM23",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296393,
+        "_nanoseconds": 457000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom31",
+    "data": {
+      "id": "bombom31",
+      "nome": "Mentos 5 Unidades 8,5g",
+      "descricao": null,
+      "imagem_url": "/icons/bombom31.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM24",
+      "preco": 3,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756942981,
+        "_nanoseconds": 246000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom33",
+    "data": {
+      "id": "bombom33",
+      "nome": "Fini Beijos 15g",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/bombom33.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM25"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom35",
+    "data": {
+      "id": "bombom35",
+      "nome": "Fini Tubes 15g",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/bombom35.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM26"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom36",
+    "data": {
+      "id": "bombom36",
+      "nome": "Oreo de 20G",
+      "descricao": null,
+      "preco": "1.50",
+      "imagem_url": "/icons/bombom36.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM27",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755640768,
+        "_nanoseconds": 157000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom37",
+    "data": {
+      "id": "bombom37",
+      "nome": "Ouro Branco de 20g",
+      "descricao": null,
+      "preco": "1.50",
+      "imagem_url": "/icons/bombom37.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM28",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755640769,
+        "_nanoseconds": 306000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom38",
+    "data": {
+      "id": "bombom38",
+      "descricao": null,
+      "preco": "8.50",
+      "imagem_url": "/icons/bombom38.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM29",
+      "nome": "Bis de 100g",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755520018,
+        "_nanoseconds": 537000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom39",
+    "data": {
+      "id": "bombom39",
+      "nome": "Catavento 18g",
+      "descricao": null,
+      "preco": "4.00",
+      "imagem_url": "/icons/bombom39.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM30",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296230,
+        "_nanoseconds": 741000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom4",
+    "data": {
+      "id": "bombom4",
+      "nome": "Chiclete de bola",
+      "descricao": null,
+      "preco": "0.20",
+      "imagem_url": "/icons/bombom4.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM31",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296226,
+        "_nanoseconds": 992000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom5",
+    "data": {
+      "id": "bombom5",
+      "nome": "Bala Canudinho Tutti Frutti 15g",
+      "descricao": null,
+      "imagem_url": "/icons/bombom5.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM32",
+      "isHidden": false,
+      "preco": 2,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "updatedAt": {
+        "_seconds": 1753407085,
+        "_nanoseconds": 278000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom6",
+    "data": {
+      "id": "bombom6",
+      "nome": "Pirulito + Popping Candy",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/bombom6.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM33"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom7",
+    "data": {
+      "id": "bombom7",
+      "nome": "Balas de Caramelo Recheados",
+      "descricao": null,
+      "imagem_url": "/icons/bombom7.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM34",
+      "isHidden": false,
+      "complements": {},
+      "preco": 0.5,
+      "discountType": "none",
+      "discountValue": 0,
+      "updatedAt": {
+        "_seconds": 1753133655,
+        "_nanoseconds": 962000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom8",
+    "data": {
+      "id": "bombom8",
+      "nome": "Balas Sortidas de Leite",
+      "descricao": null,
+      "preco": "0.10",
+      "imagem_url": "/icons/bombom8.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM35",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296192,
+        "_nanoseconds": 279000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "bombom9",
+    "data": {
+      "id": "bombom9",
+      "nome": "Balas de Hortelã",
+      "descricao": null,
+      "preco": "0.15",
+      "imagem_url": "/icons/bombom9.png",
+      "categoria": "bombons",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "BOM36",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756942952,
+        "_nanoseconds": 203000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cPcuBB4RHXjVGB2SABwE",
+    "data": {
+      "nome": "Gelo Maçã Verde",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/macaverde.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "cPcuBB4RHXjVGB2SABwE",
+      "createdAt": {
+        "_seconds": 1754152816,
+        "_nanoseconds": 901000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152816,
+        "_nanoseconds": 901000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja1",
+    "data": {
+      "id": "cerveja1",
+      "descricao": null,
+      "imagem_url": "/icons/cerv1.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER01",
+      "nome": "Imperio 600 ml",
+      "preco": 10,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754692798,
+        "_nanoseconds": 314000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja10",
+    "data": {
+      "id": "cerveja10",
+      "nome": "Sol",
+      "descricao": null,
+      "preco": "7.00",
+      "imagem_url": "/icons/cerv10.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja11",
+    "data": {
+      "id": "cerveja11",
+      "nome": "Skol Lata",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/cerv11.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER03",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754780976,
+        "_nanoseconds": 933000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja12",
+    "data": {
+      "id": "cerveja12",
+      "nome": "Skol Beats Senses",
+      "descricao": null,
+      "imagem_url": "/icons/cerv12.png",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER04",
+      "preco": 10,
+      "categoria": "drinks",
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754174481,
+        "_nanoseconds": 296000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja13",
+    "data": {
+      "id": "cerveja13",
+      "nome": "Stella Artois Long Neck 330ml",
+      "descricao": null,
+      "imagem_url": "/icons/cerv13.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER05",
+      "isHidden": false,
+      "preco": 8,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "updatedAt": {
+        "_seconds": 1755832322,
+        "_nanoseconds": 741000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja14",
+    "data": {
+      "id": "cerveja14",
+      "nome": "Antarctica Original 600 ML",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/cerv14.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER06",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755296531,
+        "_nanoseconds": 886000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja15",
+    "data": {
+      "id": "cerveja15",
+      "nome": "Ice 51",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/cerv15.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER07",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755640803,
+        "_nanoseconds": 773000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja16",
+    "data": {
+      "id": "cerveja16",
+      "nome": "Corona 330 ml",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/corona.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER08"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja17",
+    "data": {
+      "id": "cerveja17",
+      "nome": "Dose de Campari",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER09",
+      "preco": 5,
+      "categoria": "drinks",
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "imagem_url": "/icons/dosecampari.png",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754174813,
+        "_nanoseconds": 7000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja18",
+    "data": {
+      "id": "cerveja18",
+      "nome": "Budweiser long neck",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/cerv18.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER10"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja2",
+    "data": {
+      "id": "cerveja2",
+      "nome": "Brahma 600",
+      "descricao": null,
+      "imagem_url": "/icons/cerv2.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER11",
+      "preco": 10,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122500,
+        "_nanoseconds": 718000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja20",
+    "data": {
+      "id": "cerveja20",
+      "nome": "Skol 600ml (1 caixa)",
+      "descricao": null,
+      "preco": "240.00",
+      "imagem_url": "/icons/cerv20.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER12",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434480,
+        "_nanoseconds": 401000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja21",
+    "data": {
+      "id": "cerveja21",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER13",
+      "preco": 5,
+      "categoria": "drinks",
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "nome": "Dose Black & White",
+      "discountValue": 0,
+      "imagem_url": "/icons/doseblack.png",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754174838,
+        "_nanoseconds": 152000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja22",
+    "data": {
+      "id": "cerveja22",
+      "nome": "Stella Artois 600ml (1 caixa)",
+      "descricao": null,
+      "preco": "288.00",
+      "imagem_url": "/icons/cerv22.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER14",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434500,
+        "_nanoseconds": 823000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja23",
+    "data": {
+      "id": "cerveja23",
+      "nome": "Heineken Lata Zero",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/cerv23.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER15"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja24",
+    "data": {
+      "id": "cerveja24",
+      "nome": "Meia Caixa Stella 600ml",
+      "descricao": null,
+      "preco": "144.00",
+      "imagem_url": "/icons/cerv24.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER16",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434464,
+        "_nanoseconds": 683000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja25",
+    "data": {
+      "id": "cerveja25",
+      "nome": "Heineken 600ml (1 caixa)",
+      "descricao": null,
+      "preco": "360.00",
+      "imagem_url": "/icons/cerv25.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER17",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434429,
+        "_nanoseconds": 854000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja26",
+    "data": {
+      "id": "cerveja26",
+      "nome": "Spaten 600ml (1 caixa)",
+      "descricao": null,
+      "preco": "240.00",
+      "imagem_url": "/icons/cerv26.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER18",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434480,
+        "_nanoseconds": 456000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja27",
+    "data": {
+      "id": "cerveja27",
+      "nome": "Meia Caixa Skol 600ml",
+      "descricao": null,
+      "preco": "108.00",
+      "imagem_url": "/icons/cerv27.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER19",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434442,
+        "_nanoseconds": 280000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja28",
+    "data": {
+      "id": "cerveja28",
+      "nome": "Budweiser 600ml (1 caixa)",
+      "descricao": null,
+      "preco": "240.00",
+      "imagem_url": "/icons/cerv28.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER20",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754780955,
+        "_nanoseconds": 963000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja29",
+    "data": {
+      "id": "cerveja29",
+      "nome": "Jack Daniels+Coca 350ml",
+      "descricao": null,
+      "preco": "12.00",
+      "imagem_url": "/icons/cerv29.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER21"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja3",
+    "data": {
+      "id": "cerveja3",
+      "nome": "Antarctica 600ml",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/antarctica.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER22"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja31",
+    "data": {
+      "id": "cerveja31",
+      "nome": "Stella Long Neck (1 Caixa)",
+      "descricao": null,
+      "preco": "240.00",
+      "imagem_url": "/icons/cerv31.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER23",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434505,
+        "_nanoseconds": 74000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja4",
+    "data": {
+      "id": "cerveja4",
+      "nome": "Budweiser 600ml",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/cerv4.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER24"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja5",
+    "data": {
+      "id": "cerveja5",
+      "nome": "Spaten 600ml",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/cerv5.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER25",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755741491,
+        "_nanoseconds": 566000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja6",
+    "data": {
+      "id": "cerveja6",
+      "nome": "Heineken Long Neck",
+      "descricao": null,
+      "imagem_url": "/icons/cerv6.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER26",
+      "preco": 8,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755832275,
+        "_nanoseconds": 725000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja7",
+    "data": {
+      "id": "cerveja7",
+      "nome": "Heineken 600ml",
+      "descricao": null,
+      "imagem_url": "/icons/heineken.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER27",
+      "complements": {},
+      "isHidden": false,
+      "discountType": "none",
+      "discountValue": 0,
+      "preco": 13,
+      "precoOriginal": null,
+      "updatedAt": {
+        "_seconds": 1754172816,
+        "_nanoseconds": 185000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja8",
+    "data": {
+      "id": "cerveja8",
+      "nome": "Stella Artois 600ml",
+      "descricao": null,
+      "preco": "12.00",
+      "imagem_url": "/icons/stella.png",
+      "categoria": "cervejas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER28",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1757040961,
+        "_nanoseconds": 629000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "cerveja9",
+    "data": {
+      "id": "cerveja9",
+      "nome": "Skol Beats",
+      "descricao": null,
+      "imagem_url": "/icons/cerv9.png",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "CER29",
+      "preco": 8,
+      "categoria": "drinks",
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754174471,
+        "_nanoseconds": 753000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "desc1",
+    "data": {
+      "id": "desc1",
+      "nome": "Copos Descartáveis (100un)",
+      "descricao": null,
+      "preco": "7.00",
+      "imagem_url": "/icons/desc1.png",
+      "categoria": "descartaveis",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "DES01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "desc2",
+    "data": {
+      "id": "desc2",
+      "nome": "Papel Toalha Familiar",
+      "descricao": null,
+      "preco": "7.00",
+      "imagem_url": "/icons/desc2.png",
+      "categoria": "descartaveis",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "DES02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "desc3",
+    "data": {
+      "id": "desc3",
+      "nome": "Pratos Descartáveis (15cm)",
+      "descricao": null,
+      "preco": "2.50",
+      "imagem_url": "/icons/desc3.png",
+      "categoria": "descartaveis",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "DES03"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "desc4",
+    "data": {
+      "id": "desc4",
+      "nome": "Sacos para Hot Dog",
+      "descricao": null,
+      "preco": "1.50",
+      "imagem_url": "/icons/desc4.png",
+      "categoria": "descartaveis",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "DES04",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754774144,
+        "_nanoseconds": 47000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "desc5",
+    "data": {
+      "id": "desc5",
+      "nome": "Guardanapo",
+      "descricao": null,
+      "preco": "2.50",
+      "imagem_url": "/icons/desc5.png",
+      "categoria": "descartaveis",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "DES05",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434560,
+        "_nanoseconds": 69000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "desc6",
+    "data": {
+      "id": "desc6",
+      "nome": "Pratos descartáveis 21",
+      "descricao": null,
+      "preco": "3.50",
+      "imagem_url": "/icons/desc6.png",
+      "categoria": "descartaveis",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "DES06"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "eKWAUHARtg8yPnudmRNy",
+    "data": {
+      "nome": "Gelo Água de Coco",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/aguacoco.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "eKWAUHARtg8yPnudmRNy",
+      "createdAt": {
+        "_seconds": 1754152759,
+        "_nanoseconds": 626000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152759,
+        "_nanoseconds": 626000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "energ1",
+    "data": {
+      "id": "energ1",
+      "nome": "Monster Energy 473 ml",
+      "descricao": null,
+      "preco": "13.00",
+      "imagem_url": "/icons/energ1.png",
+      "categoria": "energeticos",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "ENE01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "energ2",
+    "data": {
+      "id": "energ2",
+      "nome": "Powerade Laranja",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/energ2.png",
+      "categoria": "energeticos",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "ENE02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "energ3",
+    "data": {
+      "id": "energ3",
+      "nome": "Powerade Mix de Frutas",
+      "descricao": null,
+      "imagem_url": "/icons/energ3.png",
+      "categoria": "energeticos",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "ENE03",
+      "preco": 6,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754434706,
+        "_nanoseconds": 619000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "energ4",
+    "data": {
+      "id": "energ4",
+      "nome": "Vulcano 2L",
+      "descricao": null,
+      "preco": "25.00",
+      "imagem_url": "/icons/energ4.png",
+      "categoria": "energeticos",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "ENE04"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "energ5",
+    "data": {
+      "id": "energ5",
+      "nome": "Dopamina 473 ml",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/energ5.png",
+      "categoria": "energeticos",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "ENE05",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754773830,
+        "_nanoseconds": 239000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "fGXQkrQfPikT0EeDHoGW",
+    "data": {
+      "nome": "Casquinha",
+      "preco": 5,
+      "categoria": "sorvetes_e_picoles",
+      "codigo": null,
+      "imagem_url": "/icons/casquinha.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "fGXQkrQfPikT0EeDHoGW",
+      "createdAt": {
+        "_seconds": 1753568088,
+        "_nanoseconds": 174000000
+      },
+      "updatedAt": {
+        "_seconds": 1753568088,
+        "_nanoseconds": 174000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "fWL1Tr3BYFSM35g8xK2y",
+    "data": {
+      "nome": "Dose Aperol",
+      "preco": 4,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/doseaperol.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "fWL1Tr3BYFSM35g8xK2y",
+      "createdAt": {
+        "_seconds": 1754180974,
+        "_nanoseconds": 904000000
+      },
+      "updatedAt": {
+        "_seconds": 1754180974,
+        "_nanoseconds": 904000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios1",
+    "data": {
+      "id": "frios1",
+      "nome": "Sorvete",
+      "descricao": null,
+      "imagem_url": "/icons/frios1.png",
+      "categoria": "sorvetes_e_picoles",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SOR01",
+      "preco": 5,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754699960,
+        "_nanoseconds": 914000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios10",
+    "data": {
+      "id": "frios10",
+      "nome": "Picolé de açaí",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/frios10.png",
+      "categoria": "sorvetes_e_picoles",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SOR02",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435798,
+        "_nanoseconds": 815000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios11",
+    "data": {
+      "id": "frios11",
+      "nome": "Casquinha com canudo",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/frios11.png\n",
+      "categoria": "sorvetes_e_picoles",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SOR03"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios13",
+    "data": {
+      "id": "frios13",
+      "nome": "Massa para Pastel 1KG",
+      "descricao": null,
+      "preco": "12.00",
+      "imagem_url": "/icons/frios13.png",
+      "categoria": "frios",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "FRI01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios2",
+    "data": {
+      "id": "frios2",
+      "nome": "Sorvete Moreninha (cópia)",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/frios2.png",
+      "categoria": "sorvetes_e_picoles",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SOR04"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios4",
+    "data": {
+      "id": "frios4",
+      "nome": "Batatas Fritas Cortadas Fries 2 kg",
+      "descricao": null,
+      "preco": "40.00",
+      "imagem_url": "/icons/frios4.png",
+      "categoria": "frios",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "FRI02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios5",
+    "data": {
+      "id": "frios5",
+      "nome": "Gelo 1KG",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/frios5.png",
+      "categoria": "frios",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "FRI03"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios6",
+    "data": {
+      "id": "frios6",
+      "nome": "Linguiça Calabresa Dalia (meio kilo)",
+      "descricao": null,
+      "imagem_url": "/icons/frios6.png",
+      "categoria": "frios",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "FRI04",
+      "preco": 25,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754434762,
+        "_nanoseconds": 612000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios7",
+    "data": {
+      "id": "frios7",
+      "nome": "Filé Peito de Frango 1 kg",
+      "descricao": null,
+      "preco": "26.00",
+      "imagem_url": "/icons/frios7.png",
+      "categoria": "frios",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "FRI05",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434772,
+        "_nanoseconds": 500000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios8",
+    "data": {
+      "id": "frios8",
+      "nome": "Queijo Musarella 1Kg",
+      "descricao": null,
+      "preco": "55.00",
+      "imagem_url": "/icons/frios8.png",
+      "categoria": "frios",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "FRI06"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "frios9",
+    "data": {
+      "id": "frios9",
+      "nome": "Toddynho",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/frios9.png",
+      "categoria": "frios",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "FRI07"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "g2P4fmvdk36xrNW2iDvl",
+    "data": {
+      "nome": "Gelo Maracuja",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/maracuja.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "g2P4fmvdk36xrNW2iDvl",
+      "createdAt": {
+        "_seconds": 1754152720,
+        "_nanoseconds": 160000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152720,
+        "_nanoseconds": 160000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer1",
+    "data": {
+      "id": "hamburguer1",
+      "nome": "Misto",
+      "descricao": "Pão, Presunto e Queijo \nIMAGEM ILUSTRATIVA",
+      "preco": "6.00",
+      "imagem_url": "/icons/misto.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HAM01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer10",
+    "data": {
+      "id": "hamburguer10",
+      "nome": "X-Filé",
+      "descricao": "Pão, Carne, Filé, Queijo, Ovo, Tomate, Alface\nIMAGEM ILUSTRATIVA",
+      "preco": "18.00",
+      "imagem_url": "/icons/xfile.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 4,
+      "visible": true,
+      "codigo": "HAM02",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122174,
+        "_nanoseconds": 802000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer11",
+    "data": {
+      "id": "hamburguer11",
+      "nome": "X-Calabresa",
+      "descricao": "Pão, Carne, Calabresa, Queijo, Ovo, Tomate e Alface (imagem ilustrativa)",
+      "preco": "18.00",
+      "imagem_url": "/icons/xcalab.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 4,
+      "visible": true,
+      "codigo": "HAM03",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122153,
+        "_nanoseconds": 227000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer12",
+    "data": {
+      "id": "hamburguer12",
+      "nome": "X-Tudo",
+      "descricao": "Pão, Carne, Bacon, Presunto, Queijo Cheddar, Catupiry, Tomate, Alface \nIMAGEM ILUSTRATIVA",
+      "preco": "20.00",
+      "imagem_url": "/icons/xtud.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 4,
+      "visible": true,
+      "codigo": "HAM04",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122163,
+        "_nanoseconds": 110000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer13",
+    "data": {
+      "id": "hamburguer13",
+      "nome": "X-Tudão",
+      "descricao": "Pão, Duas Carne, Bacon, Presunto, Calabresa, Queijo Cheddar, Catupiry, Tomate, Alface, Maionese \nIMAGEM ILUSTRATIVA",
+      "preco": "25.00",
+      "imagem_url": "/icons/xtudao.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 4,
+      "visible": true,
+      "codigo": "HAM05",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122165,
+        "_nanoseconds": 868000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer2",
+    "data": {
+      "id": "hamburguer2",
+      "nome": "Hamburguer",
+      "descricao": "Pão, Carne, Tomate e Alface \nIMAGEM ILUSTRATIVA",
+      "preco": "8.00",
+      "imagem_url": "/icons/hamburg.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 3,
+      "visible": true,
+      "codigo": "HAM06",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122142,
+        "_nanoseconds": 257000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer3",
+    "data": {
+      "id": "hamburguer3",
+      "nome": "X-burguer",
+      "descricao": "Pão, Carne, Queijo, Tomate, Alface e Molho\nIMAGEM ILUSTRATIVA",
+      "preco": "12.00",
+      "imagem_url": "/icons/xb.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 3,
+      "visible": true,
+      "codigo": "HAM07",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122169,
+        "_nanoseconds": 40000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer4",
+    "data": {
+      "id": "hamburguer4",
+      "nome": "Egg-burguer",
+      "descricao": "Pão, Carne, Ovo, Tomate, Alface e Maionese\nIMAGEM ILUSTRATIVA",
+      "preco": "12.00",
+      "imagem_url": "/icons/egg.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 3,
+      "visible": true,
+      "codigo": "HAM08",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122137,
+        "_nanoseconds": 849000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer5",
+    "data": {
+      "id": "hamburguer5",
+      "nome": "X-salada",
+      "descricao": "Pão, Carne, Queijo, Presunto e Salada \nIMAGEM ILUSTRATIVA",
+      "preco": "12.00",
+      "imagem_url": "/icons/xsala.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 3,
+      "visible": true,
+      "codigo": "HAM09",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122182,
+        "_nanoseconds": 331000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer6",
+    "data": {
+      "id": "hamburguer6",
+      "nome": "X-frango",
+      "descricao": "Pão, Frango, Queijo, Tomate, Alface e Molho",
+      "preco": "12.00",
+      "imagem_url": "/icons/xfrango1.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 3,
+      "visible": true,
+      "codigo": "HAM10",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1756417488,
+        "_nanoseconds": 362000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer7",
+    "data": {
+      "id": "hamburguer7",
+      "nome": "Egg-Frango",
+      "descricao": "Pão, Frango, Ovo, Tomate, Alface, Maionese \nIMAGEM ILUSTRATIVA",
+      "preco": "12.00",
+      "imagem_url": "/icons/egg-frango.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 3,
+      "visible": true,
+      "codigo": "HAM11",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1756417505,
+        "_nanoseconds": 407000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer8",
+    "data": {
+      "id": "hamburguer8",
+      "nome": "Egg x burguer",
+      "descricao": "Pão, Carne, Ovo, Queijo, Tomate, Alface e Maionese\nIMAGEM ILUSTRATIVA",
+      "preco": "15.00",
+      "imagem_url": "/icons/eggxb.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 4,
+      "visible": true,
+      "codigo": "HAM12",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755122137,
+        "_nanoseconds": 740000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hamburguer9",
+    "data": {
+      "id": "hamburguer9",
+      "nome": "Egg x-Frango",
+      "descricao": "Pão, Frango, Queijo, Ovo, Tomate, Alface e Maionese \nIMAGEM ILUSTRATIVA",
+      "preco": "15.00",
+      "imagem_url": "/icons/eggxf.png",
+      "categoria": "hamburguer",
+      "num_complementos_gratis": 4,
+      "visible": true,
+      "codigo": "HAM13",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1756417508,
+        "_nanoseconds": 783000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig1",
+    "data": {
+      "id": "hig1",
+      "nome": "Sabão em Pó (ALA 5 EM 1)",
+      "descricao": null,
+      "preco": "5.50",
+      "imagem_url": "icons/h13.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig10",
+    "data": {
+      "id": "hig10",
+      "nome": "Esponja Multiuso",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "icons/h6.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig11",
+    "data": {
+      "id": "hig11",
+      "nome": "Barbeador Três Lâminas",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "icons/h3.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG03",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754774158,
+        "_nanoseconds": 923000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig12",
+    "data": {
+      "id": "hig12",
+      "nome": "Sabonete Flor de Ypê",
+      "descricao": null,
+      "preco": "2.50",
+      "imagem_url": "icons/h11.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG04",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434885,
+        "_nanoseconds": 34000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig13",
+    "data": {
+      "id": "hig13",
+      "nome": "Escovas de Dente",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "icons/h7.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG05",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755640939,
+        "_nanoseconds": 764000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig14",
+    "data": {
+      "id": "hig14",
+      "nome": "Baygon 217g",
+      "descricao": null,
+      "preco": "13.00",
+      "imagem_url": "/icons/bay.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG06",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755640920,
+        "_nanoseconds": 78000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig15",
+    "data": {
+      "id": "hig15",
+      "nome": "Odorizante Sanitário",
+      "descricao": null,
+      "preco": "4.50",
+      "imagem_url": "icons/h10.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG07",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434896,
+        "_nanoseconds": 855000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig2",
+    "data": {
+      "id": "hig2",
+      "nome": "Esponja de Aço Assolan",
+      "descricao": "Contém 8 unidades",
+      "preco": "2.50",
+      "imagem_url": "icons/h8.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG08",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755640932,
+        "_nanoseconds": 758000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig3",
+    "data": {
+      "id": "hig3",
+      "nome": "Limpol",
+      "descricao": null,
+      "preco": "3.50",
+      "imagem_url": "icons/h9.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG09"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig4",
+    "data": {
+      "id": "hig4",
+      "nome": "Sabão Ypê Neutro Original",
+      "descricao": null,
+      "preco": "3.50",
+      "imagem_url": "icons/h12.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG10"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig5",
+    "data": {
+      "id": "hig5",
+      "descricao": "8 unidades",
+      "imagem_url": "/icons/hig1.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG11",
+      "preco": 7.5,
+      "nome": "Absorvente Noturno com Abas"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig6",
+    "data": {
+      "id": "hig6",
+      "nome": "Absorvente Suave sem Abas",
+      "descricao": "15 unidades",
+      "preco": "5.50",
+      "imagem_url": "icons/h2.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG12"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig7",
+    "data": {
+      "id": "hig7",
+      "nome": "Cotonetes",
+      "descricao": "Contém 75 unidades",
+      "preco": "2.00",
+      "imagem_url": "icons/h4.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG13",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755640927,
+        "_nanoseconds": 416000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig8",
+    "data": {
+      "id": "hig8",
+      "nome": "Desengordurante Bleach",
+      "descricao": null,
+      "preco": "11.00",
+      "imagem_url": "icons/h5.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG14",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755640923,
+        "_nanoseconds": 406000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "hig9",
+    "data": {
+      "id": "hig9",
+      "nome": "Água Sanitária Econômico",
+      "descricao": null,
+      "preco": "4.00",
+      "imagem_url": "icons/h14.png",
+      "categoria": "higiene_e_limpeza",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "HIG15"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "jb6B6kIplhjrML3lw52O",
+    "data": {
+      "nome": "Red Bull 250 ML",
+      "preco": 12,
+      "categoria": "energeticos",
+      "codigo": null,
+      "imagem_url": "/icons/energ6.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "jb6B6kIplhjrML3lw52O",
+      "createdAt": {
+        "_seconds": 1753406523,
+        "_nanoseconds": 332000000
+      },
+      "updatedAt": {
+        "_seconds": 1753406523,
+        "_nanoseconds": 332000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "lvBQXzTNYkvHBzapM7Ui",
+    "data": {
+      "nome": "Dose Red Label",
+      "categoria": "drinks",
+      "codigo": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "lvBQXzTNYkvHBzapM7Ui",
+      "createdAt": {
+        "_seconds": 1754174868,
+        "_nanoseconds": 93000000
+      },
+      "imagem_url": "/icons/dosered123.png",
+      "preco": 10,
+      "updatedAt": {
+        "_seconds": 1754773817,
+        "_nanoseconds": 86000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado1",
+    "data": {
+      "id": "mercado1",
+      "nome": "Amendupã",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/1.png\n",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado11",
+    "data": {
+      "id": "mercado11",
+      "nome": "Biscoito Recheado Itamaraty",
+      "descricao": null,
+      "preco": "3.50",
+      "imagem_url": "/icons/2.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER02",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641025,
+        "_nanoseconds": 564000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado12",
+    "data": {
+      "id": "mercado12",
+      "nome": "Óleo de Cozinha (Sinhá)",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/3.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER03",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641449,
+        "_nanoseconds": 427000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado13",
+    "data": {
+      "id": "mercado13",
+      "nome": "Bis Xtra 45g",
+      "descricao": null,
+      "preco": "4.50",
+      "imagem_url": "/icons/4.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER04",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755640983,
+        "_nanoseconds": 144000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado14",
+    "data": {
+      "id": "mercado14",
+      "nome": "Biscoito Recheado Bom de Bola",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/5.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER05",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434937,
+        "_nanoseconds": 776000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado15",
+    "data": {
+      "id": "mercado15",
+      "nome": "Açucar Olho D'Água 1KG",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/6.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER06",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755640974,
+        "_nanoseconds": 797000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado16",
+    "data": {
+      "id": "mercado16",
+      "nome": "Biscoito Wafer Richester 120g",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/7.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER07",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641029,
+        "_nanoseconds": 509000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado17",
+    "data": {
+      "id": "mercado17",
+      "nome": "Água mineral 510 ML",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/8.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER08"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado18",
+    "data": {
+      "id": "mercado18",
+      "nome": "Lacta Cookies 80g",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/9.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER09",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435181,
+        "_nanoseconds": 249000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado19",
+    "data": {
+      "id": "mercado19",
+      "nome": "Água de Coco Kero-Coco",
+      "descricao": null,
+      "preco": "20.00",
+      "imagem_url": "/icons/10.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER10"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado2",
+    "data": {
+      "id": "mercado2",
+      "nome": "Doritos 37g",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/doritos.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER11",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754774170,
+        "_nanoseconds": 822000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado20",
+    "data": {
+      "id": "mercado20",
+      "nome": "Arroz Qualite Clássico",
+      "descricao": null,
+      "imagem_url": "/icons/11.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER12",
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "preco": 5.5,
+      "updatedAt": {
+        "_seconds": 1756817569,
+        "_nanoseconds": 568000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado21",
+    "data": {
+      "id": "mercado21",
+      "nome": "Nissin (Macarrão instantâneo)",
+      "descricao": null,
+      "imagem_url": "/icons/14.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER13",
+      "preco": 2,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1753479931,
+        "_nanoseconds": 794000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado22",
+    "data": {
+      "id": "mercado22",
+      "nome": "Mini Oreo 35G",
+      "descricao": null,
+      "preco": "3.50",
+      "imagem_url": "/icons/15.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER14",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435195,
+        "_nanoseconds": 594000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado23",
+    "data": {
+      "id": "mercado23",
+      "nome": "Newafer Brigadeiro 100g",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/16.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER15",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435376,
+        "_nanoseconds": 260000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado24",
+    "data": {
+      "id": "mercado24",
+      "nome": "Frisco Uva",
+      "descricao": null,
+      "preco": "1.00",
+      "imagem_url": "/icons/17.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER16"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado25",
+    "data": {
+      "id": "mercado25",
+      "nome": "Isqueiro Bic",
+      "descricao": null,
+      "preco": "6.50",
+      "imagem_url": "/icons/18.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER17"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado26",
+    "data": {
+      "id": "mercado26",
+      "nome": "Black & White",
+      "descricao": null,
+      "preco": "75.00",
+      "imagem_url": "/icons/19.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER18"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado27",
+    "data": {
+      "id": "mercado27",
+      "nome": "Kit de Montilla",
+      "descricao": "Montilla +Coca de 2L + 1Gelo",
+      "preco": "55.00",
+      "imagem_url": "/icons/20.png\n",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER19"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado28",
+    "data": {
+      "id": "mercado28",
+      "nome": "Sal 1KG",
+      "descricao": null,
+      "preco": "2.50",
+      "imagem_url": "/icons/21.png\n",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER20"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado29",
+    "data": {
+      "id": "mercado29",
+      "descricao": null,
+      "imagem_url": "/icons/22.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER21",
+      "preco": 1,
+      "estoqueAtual": null,
+      "nome": "Biscoito Spanto 30g",
+      "estoqueMinimo": null,
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641018,
+        "_nanoseconds": 686000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado3",
+    "data": {
+      "id": "mercado3",
+      "nome": "Cheetos de 40g",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/23.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER22"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado30",
+    "data": {
+      "id": "mercado30",
+      "nome": "Biscoito Spantoo 80g",
+      "descricao": null,
+      "imagem_url": "/icons/24.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER23",
+      "preco": 3,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755641011,
+        "_nanoseconds": 528000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado31",
+    "data": {
+      "id": "mercado31",
+      "nome": "Cola Instatanea Pro 20g",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/25.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER24",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435057,
+        "_nanoseconds": 801000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado32",
+    "data": {
+      "id": "mercado32",
+      "nome": "Coco Unidade",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/26.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER25"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado33",
+    "data": {
+      "id": "mercado33",
+      "nome": "CREME DE LEITE",
+      "descricao": null,
+      "preco": "4.50",
+      "imagem_url": "/icons/27.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER26",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434956,
+        "_nanoseconds": 658000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado34",
+    "data": {
+      "id": "mercado34",
+      "nome": "Leite Condensado Integral Camponesa 395 g",
+      "descricao": null,
+      "preco": "7.75",
+      "imagem_url": "/icons/28.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER27",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435201,
+        "_nanoseconds": 972000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado35",
+    "data": {
+      "id": "mercado35",
+      "nome": "Caneta detectora de notas falsas",
+      "descricao": null,
+      "preco": "15.00",
+      "imagem_url": "/icons/29.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER28"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado36",
+    "data": {
+      "id": "mercado36",
+      "nome": "Sardinha 88 com óleo",
+      "descricao": null,
+      "preco": "6.50",
+      "imagem_url": "/icons/30.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER29",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435468,
+        "_nanoseconds": 236000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado37",
+    "data": {
+      "id": "mercado37",
+      "nome": "Sardinha 88 com Molho de Tomate",
+      "descricao": null,
+      "preco": "6.50",
+      "imagem_url": "/icons/31.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER30",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435472,
+        "_nanoseconds": 107000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado38",
+    "data": {
+      "id": "mercado38",
+      "nome": "Stick Look Wafer",
+      "descricao": null,
+      "preco": "4.00",
+      "imagem_url": "/icons/wafer.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER31"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado39",
+    "data": {
+      "id": "mercado39",
+      "nome": "Fermento biológico",
+      "descricao": null,
+      "preco": "18.00",
+      "imagem_url": "/icons/33.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER32"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado4",
+    "data": {
+      "id": "mercado4",
+      "nome": "Batata Ruffles Original 33g",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/34.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER33"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado40",
+    "data": {
+      "id": "mercado40",
+      "nome": "Coco da praia",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/coco.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER34"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado41",
+    "data": {
+      "id": "mercado41",
+      "nome": "Nescau Pague 9 leve 9",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/36.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER35",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435372,
+        "_nanoseconds": 656000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado42",
+    "data": {
+      "id": "mercado42",
+      "nome": "Hamburgueira Pequena (100un)",
+      "descricao": null,
+      "imagem_url": "/icons/37.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER36",
+      "preco": 35,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754435131,
+        "_nanoseconds": 417000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado43",
+    "data": {
+      "id": "mercado43",
+      "nome": "Wisky Old Parr",
+      "descricao": null,
+      "preco": "200.00",
+      "imagem_url": "/icons/38.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER37"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado44",
+    "data": {
+      "id": "mercado44",
+      "nome": "Azeitona Predilecta 170g",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/39.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER38",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434920,
+        "_nanoseconds": 924000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado45",
+    "data": {
+      "id": "mercado45",
+      "nome": "Red Label",
+      "descricao": null,
+      "preco": "130.00",
+      "imagem_url": "/icons/40.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER39"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado46",
+    "data": {
+      "id": "mercado46",
+      "nome": "Campari",
+      "descricao": null,
+      "preco": "80.00",
+      "imagem_url": "/icons/41.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER40"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado47",
+    "data": {
+      "id": "mercado47",
+      "nome": "Ypióca ouro",
+      "descricao": null,
+      "preco": "30.00",
+      "imagem_url": "/icons/ypi.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER41",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641457,
+        "_nanoseconds": 134000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado48",
+    "data": {
+      "id": "mercado48",
+      "nome": "Club social 106g",
+      "descricao": null,
+      "preco": "2.00",
+      "imagem_url": "/icons/42.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER42"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado49",
+    "data": {
+      "id": "mercado49",
+      "nome": "Ovos",
+      "descricao": null,
+      "preco": "1.00",
+      "imagem_url": "/icons/43.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER43",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641306,
+        "_nanoseconds": 146000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado5",
+    "data": {
+      "id": "mercado5",
+      "nome": "Petas Dona Ana",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/44.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER44",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435383,
+        "_nanoseconds": 980000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado50",
+    "data": {
+      "id": "mercado50",
+      "nome": "Papelito Max",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/45.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER45"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado51",
+    "data": {
+      "id": "mercado51",
+      "nome": "Vodka Skyy 750 ML",
+      "descricao": null,
+      "preco": "38.00",
+      "imagem_url": "/icons/46.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER46"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado52",
+    "data": {
+      "id": "mercado52",
+      "nome": "Azeitonas Verdes Fatiadas",
+      "descricao": null,
+      "preco": "6.50",
+      "imagem_url": "/icons/47.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER47"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado53",
+    "data": {
+      "id": "mercado53",
+      "nome": "Kero coco 330 ML",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/48.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER48",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435166,
+        "_nanoseconds": 65000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado54",
+    "data": {
+      "id": "mercado54",
+      "nome": "Trio barra de cereais",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/49.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER49"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado55",
+    "data": {
+      "id": "mercado55",
+      "nome": "Copos 550 ml",
+      "descricao": null,
+      "imagem_url": "/icons/50.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER50",
+      "preco": 1,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754773448,
+        "_nanoseconds": 391000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado56",
+    "data": {
+      "id": "mercado56",
+      "nome": "Montilla",
+      "descricao": null,
+      "preco": "35.00",
+      "imagem_url": "/icons/51.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER51"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado57",
+    "data": {
+      "id": "mercado57",
+      "nome": "Gás",
+      "descricao": null,
+      "preco": "125.00",
+      "imagem_url": "/icons/52.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER52"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado58",
+    "data": {
+      "id": "mercado58",
+      "nome": "Colgate fio",
+      "descricao": null,
+      "preco": "16.00",
+      "imagem_url": "/icons/53.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER53"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado59",
+    "data": {
+      "id": "mercado59",
+      "nome": "Batata lisa 40 g",
+      "descricao": null,
+      "preco": "4.00",
+      "imagem_url": "/icons/54.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER54",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434944,
+        "_nanoseconds": 945000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado6",
+    "data": {
+      "id": "mercado6",
+      "nome": "Batata FRIKS",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/55.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER55",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434298,
+        "_nanoseconds": 719000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado60",
+    "data": {
+      "id": "mercado60",
+      "nome": "Isopor de cerveja",
+      "descricao": null,
+      "imagem_url": "/icons/56.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER56",
+      "preco": 4.5,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754435158,
+        "_nanoseconds": 429000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado61",
+    "data": {
+      "id": "mercado61",
+      "nome": "D+ KETCHUP",
+      "descricao": null,
+      "preco": "12.00",
+      "imagem_url": "/icons/57.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER57",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435089,
+        "_nanoseconds": 660000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado62",
+    "data": {
+      "id": "mercado62",
+      "nome": "D+ Maionese",
+      "descricao": null,
+      "preco": "12.00",
+      "imagem_url": "/icons/58.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER58",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435093,
+        "_nanoseconds": 652000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado63",
+    "data": {
+      "id": "mercado63",
+      "nome": "Azeitona Verde Palistinha",
+      "descricao": null,
+      "preco": "2.45",
+      "imagem_url": "/icons/59.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER59",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754434924,
+        "_nanoseconds": 651000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado64",
+    "data": {
+      "id": "mercado64",
+      "nome": "Sardinha Pescador 125g",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/60.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER60",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435463,
+        "_nanoseconds": 999000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado67",
+    "data": {
+      "id": "mercado67",
+      "nome": "Fandangos 35g",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/61.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER61"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado68",
+    "data": {
+      "id": "mercado68",
+      "nome": "Amendoins Japonês 145g",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/japa.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER62"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado7",
+    "data": {
+      "id": "mercado7",
+      "nome": "Cajuína Dubéco 500ml",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/62.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER63"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado8",
+    "data": {
+      "id": "mercado8",
+      "nome": "Castanha de Caju",
+      "descricao": null,
+      "preco": "3.50",
+      "imagem_url": "/icons/cast.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER64"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "mercado9",
+    "data": {
+      "id": "mercado9",
+      "descricao": null,
+      "imagem_url": "/icons/63.png",
+      "categoria": "mercado",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "MER65",
+      "preco": 3,
+      "nome": "Amendoim Torrado Com Casca"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "outros1",
+    "data": {
+      "id": "outros1",
+      "nome": "Cigarro (1und)",
+      "descricao": null,
+      "imagem_url": "/icons/64.png",
+      "categoria": "outros_produtos",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "OUT01",
+      "preco": 2,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1753496274,
+        "_nanoseconds": 612000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "outros3",
+    "data": {
+      "id": "outros3",
+      "nome": "Tenda Piramidal 4x6",
+      "descricao": null,
+      "preco": "500.00",
+      "imagem_url": "/icons/tendapiramidal.png",
+      "categoria": "outros_produtos",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "OUT02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "pyOXNPQVQHs0bR5j2bmE",
+    "data": {
+      "nome": "Biscoito Marilan Chocolate",
+      "preco": 3,
+      "categoria": "mercado",
+      "codigo": null,
+      "imagem_url": "/icons/teens.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "pyOXNPQVQHs0bR5j2bmE",
+      "createdAt": {
+        "_seconds": 1754603129,
+        "_nanoseconds": 17000000
+      },
+      "updatedAt": {
+        "_seconds": 1754603129,
+        "_nanoseconds": 17000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "qBdrnIBpQIfIOPOjEFDn",
+    "data": {
+      "preco": 20,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/combo7.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "qBdrnIBpQIfIOPOjEFDn",
+      "createdAt": {
+        "_seconds": 1755140544,
+        "_nanoseconds": 826000000
+      },
+      "nome": "Whisky Maçã verde Mansão Maromba 1L",
+      "updatedAt": {
+        "_seconds": 1755140939,
+        "_nanoseconds": 886000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri1",
+    "data": {
+      "id": "refri1",
+      "nome": "Caçulinha Guaraná 200 mL",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/refri1.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF01"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri10",
+    "data": {
+      "id": "refri10",
+      "nome": "Fanta Uva Lata",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri10.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF02",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1757124565,
+        "_nanoseconds": 189000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri11",
+    "data": {
+      "id": "refri11",
+      "nome": "Fanta Laranja Lata",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri11.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF03",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756133745,
+        "_nanoseconds": 44000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri12",
+    "data": {
+      "id": "refri12",
+      "nome": "Schweppes Lata",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri12.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF04"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri13",
+    "data": {
+      "id": "refri13",
+      "nome": "H2O Água 500ml",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri13.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF05"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri14",
+    "data": {
+      "id": "refri14",
+      "nome": "Guaraná 1L",
+      "descricao": null,
+      "preco": "7.00",
+      "imagem_url": "/icons/refri14.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF06"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri15",
+    "data": {
+      "id": "refri15",
+      "nome": "Sukita de laranja 1L",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri15.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF07",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755210042,
+        "_nanoseconds": 709000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri16",
+    "data": {
+      "id": "refri16",
+      "nome": "Coca Retornável",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/refri16.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF08"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri17",
+    "data": {
+      "id": "refri17",
+      "nome": "Pepsi Retornável",
+      "descricao": null,
+      "imagem_url": "/icons/refri17.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF09",
+      "preco": 8,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1754435710,
+        "_nanoseconds": 375000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri18",
+    "data": {
+      "id": "refri18",
+      "nome": "Fanta Retornável 1L",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/refri18.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF10",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1757124558,
+        "_nanoseconds": 723000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri19",
+    "data": {
+      "id": "refri19",
+      "nome": "Coca Pet 1L",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/refri19.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF11"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri2",
+    "data": {
+      "id": "refri2",
+      "nome": "Caçulinha Coca",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/refri2.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF12",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755641470,
+        "_nanoseconds": 897000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri20",
+    "data": {
+      "id": "refri20",
+      "nome": "Coca-Cola Zero 1,5L",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/refri20.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF13"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri21",
+    "data": {
+      "id": "refri21",
+      "nome": "Coca-Cola 1,5L",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/refri21.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF14"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri22",
+    "data": {
+      "id": "refri22",
+      "descricao": null,
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF15",
+      "preco": 15,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "isHidden": false,
+      "nome": "Coca-Cola 2L",
+      "imagem_url": "/icons/coca2l.png",
+      "updatedAt": {
+        "_seconds": 1753750077,
+        "_nanoseconds": 343000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri23",
+    "data": {
+      "id": "refri23",
+      "nome": "Guaraná 1,5L",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/refri23.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF16"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri24",
+    "data": {
+      "id": "refri24",
+      "nome": "Guaraná Antarctica 2L",
+      "descricao": null,
+      "imagem_url": "/icons/refri24.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF17",
+      "isHidden": false,
+      "preco": 12,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "updatedAt": {
+        "_seconds": 1757124610,
+        "_nanoseconds": 711000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri25",
+    "data": {
+      "id": "refri25",
+      "nome": "Coca-cola Zero 2 L",
+      "descricao": null,
+      "preco": "13.00",
+      "imagem_url": "/icons/refri25.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF18"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri26",
+    "data": {
+      "id": "refri26",
+      "nome": "Água Mineral Com gás",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri26.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF19"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri27",
+    "data": {
+      "id": "refri27",
+      "nome": "Água Mineral Sem Gás",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/refri27.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF20",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755641529,
+        "_nanoseconds": 699000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri28",
+    "data": {
+      "id": "refri28",
+      "nome": "Pepsi Lata 350 ml",
+      "descricao": null,
+      "preco": "4.00",
+      "imagem_url": "/icons/refri28.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF21",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1753405782,
+        "_nanoseconds": 445000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri29",
+    "data": {
+      "id": "refri29",
+      "nome": "Fanta Laranja 1L Pet",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/refri29.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF22",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755641508,
+        "_nanoseconds": 719000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri3",
+    "data": {
+      "id": "refri3",
+      "nome": "Fanta Laranja 250 ml",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/refri3.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF23",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755209967,
+        "_nanoseconds": 83000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri30",
+    "data": {
+      "id": "refri30",
+      "nome": "Guaraná 600ml",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri30.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF24"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri31",
+    "data": {
+      "id": "refri31",
+      "nome": "Pepsi 2l",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/refri31.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF25",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754435700,
+        "_nanoseconds": 976000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri4",
+    "data": {
+      "id": "refri4",
+      "nome": "COCA KS 290 ml",
+      "descricao": null,
+      "preco": "4.00",
+      "imagem_url": "/icons/refri4.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF26",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755641467,
+        "_nanoseconds": 310000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri5",
+    "data": {
+      "id": "refri5",
+      "nome": "Coca Café Plus",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri5.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF27"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri6",
+    "data": {
+      "id": "refri6",
+      "nome": "Coca-Cola Lata",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri6.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF28",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755641489,
+        "_nanoseconds": 435000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri7",
+    "data": {
+      "id": "refri7",
+      "nome": "Coca cola Zero 350 ml",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri7.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF29",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755641483,
+        "_nanoseconds": 224000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri8",
+    "data": {
+      "id": "refri8",
+      "nome": "Guaraná Lata",
+      "descricao": null,
+      "preco": "4.00",
+      "imagem_url": "/icons/refri8.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF30"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "refri9",
+    "data": {
+      "id": "refri9",
+      "nome": "Guaraná Jesus",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/refri9.png",
+      "categoria": "refrigerantes",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "REF31",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755210023,
+        "_nanoseconds": 351000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "rknu6g6vn9krFC1KcVXi",
+    "data": {
+      "nome": "Gelo Laranja",
+      "preco": 4,
+      "categoria": "gelos_saborizados",
+      "codigo": null,
+      "imagem_url": "/icons/laranja1.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "rknu6g6vn9krFC1KcVXi",
+      "createdAt": {
+        "_seconds": 1754152859,
+        "_nanoseconds": 53000000
+      },
+      "updatedAt": {
+        "_seconds": 1754152859,
+        "_nanoseconds": 53000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "rmgObMTLN4P5xcdY00cI",
+    "data": {
+      "nome": "Sorvete Potinho",
+      "preco": 2,
+      "categoria": "sorvetes_e_picoles",
+      "codigo": null,
+      "imagem_url": "/icons/solvete.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "rmgObMTLN4P5xcdY00cI",
+      "createdAt": {
+        "_seconds": 1753667083,
+        "_nanoseconds": 500000000
+      },
+      "updatedAt": {
+        "_seconds": 1753667083,
+        "_nanoseconds": 500000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "sSuwWLN5ISONgqHuSYzx",
+    "data": {
+      "preco": 20,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/combo6.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "sSuwWLN5ISONgqHuSYzx",
+      "createdAt": {
+        "_seconds": 1755140514,
+        "_nanoseconds": 755000000
+      },
+      "nome": "Whisky Coconut Mansão Maromba 1L",
+      "updatedAt": {
+        "_seconds": 1755140914,
+        "_nanoseconds": 8000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado1",
+    "data": {
+      "id": "salgado1",
+      "nome": "Pastel de frango",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/pastelfrango.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL01",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756501835,
+        "_nanoseconds": 243000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado10",
+    "data": {
+      "id": "salgado10",
+      "descricao": null,
+      "imagem_url": "/icons/pastelfrangocatupiryqueijo.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL02",
+      "preco": 10,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "nome": "Pastel de Frango Queijo e Catupiry",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756501828,
+        "_nanoseconds": 72000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado11",
+    "data": {
+      "id": "salgado11",
+      "nome": "Coxinha",
+      "descricao": "frango",
+      "preco": 3,
+      "imagem_url": "/icons/coxinha.png",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "categoria": "salgados",
+      "codigo": "SAL03",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1756936377,
+        "_nanoseconds": 617000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado12",
+    "data": {
+      "id": "salgado12",
+      "nome": "Batata de 10",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/batatafrita10.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL04",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754609800,
+        "_nanoseconds": 162000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado13",
+    "data": {
+      "id": "salgado13",
+      "nome": "Batata de 15",
+      "descricao": null,
+      "preco": "15.00",
+      "imagem_url": "/icons/batatafrita15.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL05",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754609802,
+        "_nanoseconds": 261000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado14",
+    "data": {
+      "id": "salgado14",
+      "nome": "Batata frita 20",
+      "descricao": null,
+      "preco": "20.00",
+      "imagem_url": "/icons/batatafrita20.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL06",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754609805,
+        "_nanoseconds": 129000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado15",
+    "data": {
+      "id": "salgado15",
+      "nome": "Filé com fritas G",
+      "descricao": "Acompanha Molho, Carne, Tomate, Alface, Limão e Batata",
+      "preco": "60.00",
+      "imagem_url": "/icons/filecomfritasg.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL07",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754609807,
+        "_nanoseconds": 433000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado16",
+    "data": {
+      "id": "salgado16",
+      "nome": "Filé com fritas M",
+      "descricao": null,
+      "preco": "30.00",
+      "imagem_url": "/icons/filecomfritasg.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL08",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754612396,
+        "_nanoseconds": 651000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado17",
+    "data": {
+      "id": "salgado17",
+      "descricao": "Filé com Calabresa Acebolada e Farofa",
+      "imagem_url": "/icons/filecalabresa.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL09",
+      "isHidden": false,
+      "preco": 40,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "nome": "Filé com calabresa 40,00",
+      "discountValue": 0,
+      "updatedAt": {
+        "_seconds": 1753486403,
+        "_nanoseconds": 808000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado18",
+    "data": {
+      "id": "salgado18",
+      "nome": "Filé acebolado",
+      "descricao": null,
+      "preco": "25.00",
+      "imagem_url": "/icons/fileacebolado.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL10",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1753481468,
+        "_nanoseconds": 416000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado19",
+    "data": {
+      "id": "salgado19",
+      "descricao": null,
+      "imagem_url": "/icons/calabresacomfritas.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL11",
+      "preco": 30,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "nome": "Calabresa com fritas 30,00",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755129255,
+        "_nanoseconds": 471000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado2",
+    "data": {
+      "id": "salgado2",
+      "descricao": null,
+      "imagem_url": "/icons/pastelfrangoqueijo.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL12",
+      "preco": 6,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "nome": "Pastel Frango com Queijo",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756501828,
+        "_nanoseconds": 761000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado20",
+    "data": {
+      "id": "salgado20",
+      "nome": "Batata com bacon",
+      "descricao": null,
+      "preco": "25.00",
+      "imagem_url": "/icons/batatabacon.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL13",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754609800,
+        "_nanoseconds": 64000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado21",
+    "data": {
+      "id": "salgado21",
+      "nome": "Batata com calabresa",
+      "descricao": null,
+      "preco": "10.00",
+      "imagem_url": "/icons/batatacalabresa.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL14",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754609801,
+        "_nanoseconds": 658000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado22",
+    "data": {
+      "id": "salgado22",
+      "descricao": null,
+      "imagem_url": "/icons/calabresaacebolada.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL15",
+      "preco": 20,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "nome": "Calabresa acebolada 20,00",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1753486372,
+        "_nanoseconds": 923000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado3",
+    "data": {
+      "id": "salgado3",
+      "nome": "Pastel de Queijo",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/pastelqueijo.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL16",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1754436984,
+        "_nanoseconds": 487000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado4",
+    "data": {
+      "id": "salgado4",
+      "nome": "Pastel Presunto com Queijo",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/pastelpresuntoqueijo.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL17",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1755129267,
+        "_nanoseconds": 213000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado5",
+    "data": {
+      "id": "salgado5",
+      "nome": "Pastel de Carne",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/pastelcarne.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL18",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1757023817,
+        "_nanoseconds": 489000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado6",
+    "data": {
+      "id": "salgado6",
+      "nome": "Bomba",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/bomba.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SAL19"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado7",
+    "data": {
+      "id": "salgado7",
+      "descricao": null,
+      "imagem_url": "/icons/pastelfrangocatupiry.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL20",
+      "preco": 8,
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "nome": "Pastel de Frango com Catupiry",
+      "discountValue": 0,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756501831,
+        "_nanoseconds": 838000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado8",
+    "data": {
+      "id": "salgado8",
+      "nome": "Pastel Carne + Queijo",
+      "descricao": null,
+      "imagem_url": "/icons/pq.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL21",
+      "complements": {},
+      "precoOriginal": null,
+      "discountType": "none",
+      "discountValue": 0,
+      "preco": 8,
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1757023817,
+        "_nanoseconds": 34000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "salgado9",
+    "data": {
+      "id": "salgado9",
+      "nome": "Frango Com Duplo Queijo",
+      "descricao": null,
+      "preco": "8.00",
+      "imagem_url": "/icons/pastelfrangoqueijomaisqueijo.png",
+      "categoria": "salgados",
+      "num_complementos_gratis": 1,
+      "visible": true,
+      "codigo": "SAL22",
+      "isHidden": false,
+      "updatedAt": {
+        "_seconds": 1756501824,
+        "_nanoseconds": 966000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco1",
+    "data": {
+      "id": "suco1",
+      "nome": "Suco de Bacuri",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/suco1.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC01",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641654,
+        "_nanoseconds": 612000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco10",
+    "data": {
+      "id": "suco10",
+      "nome": "Toddynho",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/suco10.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC02"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco11",
+    "data": {
+      "id": "suco11",
+      "nome": "Suco Del Valle 1,5L",
+      "descricao": null,
+      "preco": "12.00",
+      "imagem_url": "/icons/suco11.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC03"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco2",
+    "data": {
+      "id": "suco2",
+      "nome": "Suco de Acerola",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/suco2.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC04",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641650,
+        "_nanoseconds": 680000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco3",
+    "data": {
+      "id": "suco3",
+      "nome": "Suco de Goiaba",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/suco3.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC05",
+      "isHidden": true,
+      "updatedAt": {
+        "_seconds": 1755641646,
+        "_nanoseconds": 387000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco4",
+    "data": {
+      "id": "suco4",
+      "nome": "Suco de Caja",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/suco4.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC06"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco5",
+    "data": {
+      "id": "suco5",
+      "nome": "Suco del Valle Laranja 450ml",
+      "descricao": null,
+      "preco": "5.00",
+      "imagem_url": "/icons/suco5.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC07"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco6",
+    "data": {
+      "id": "suco6",
+      "descricao": null,
+      "imagem_url": "/icons/suco6.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC08",
+      "preco": 20,
+      "nome": "Água de Coco"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco7",
+    "data": {
+      "id": "suco7",
+      "nome": "Alegria Suco de Laranja",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/suco7.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC09"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco8",
+    "data": {
+      "id": "suco8",
+      "nome": "Água mineral 510ml",
+      "descricao": null,
+      "preco": "3.00",
+      "imagem_url": "/icons/suco8.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC10"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "suco9",
+    "data": {
+      "id": "suco9",
+      "nome": "Powerade",
+      "descricao": null,
+      "preco": "6.00",
+      "imagem_url": "/icons/suco9.png",
+      "categoria": "sucos_e_vitaminas",
+      "num_complementos_gratis": 0,
+      "visible": true,
+      "codigo": "SUC11"
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "vFGRzVd236rGetsHAcB7",
+    "data": {
+      "nome": "Coca Cola 600ml",
+      "preco": 6,
+      "categoria": "refrigerantes",
+      "codigo": null,
+      "imagem_url": "/icons/coca600.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "vFGRzVd236rGetsHAcB7",
+      "createdAt": {
+        "_seconds": 1753666769,
+        "_nanoseconds": 780000000
+      },
+      "updatedAt": {
+        "_seconds": 1753666769,
+        "_nanoseconds": 780000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "wja6eashm038Z7rJautz",
+    "data": {
+      "nome": "Suco de maracujá",
+      "preco": 6,
+      "categoria": "sucos_e_vitaminas",
+      "codigo": "#)87",
+      "imagem_url": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "wja6eashm038Z7rJautz",
+      "createdAt": {
+        "_seconds": 1757199488,
+        "_nanoseconds": 923000000
+      },
+      "updatedAt": {
+        "_seconds": 1757199488,
+        "_nanoseconds": 923000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "wjkRwCmzDm8gwQv1OVnh",
+    "data": {
+      "preco": 20,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/combo.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "wjkRwCmzDm8gwQv1OVnh",
+      "createdAt": {
+        "_seconds": 1755140342,
+        "_nanoseconds": 472000000
+      },
+      "nome": "Whisky Combo Mansão Maromba 1L",
+      "updatedAt": {
+        "_seconds": 1755140895,
+        "_nanoseconds": 186000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "xS70SHxPrSQBoB5UrLry",
+    "data": {
+      "nome": "Doritos sabor ketchup de 110g",
+      "preco": 13,
+      "categoria": "salgados",
+      "codigo": null,
+      "imagem_url": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "xS70SHxPrSQBoB5UrLry",
+      "createdAt": {
+        "_seconds": 1756000542,
+        "_nanoseconds": 551000000
+      },
+      "updatedAt": {
+        "_seconds": 1756000542,
+        "_nanoseconds": 551000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "xkldQoC3xvIjgQftbH0B",
+    "data": {
+      "nome": "Dose Montilla",
+      "preco": 3,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": "/icons/dosemontilla.png",
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "xkldQoC3xvIjgQftbH0B",
+      "createdAt": {
+        "_seconds": 1754180840,
+        "_nanoseconds": 769000000
+      },
+      "updatedAt": {
+        "_seconds": 1754180840,
+        "_nanoseconds": 769000000
+      }
+    },
+    "subcollections": {}
+  },
+  {
+    "id": "yHldSACcysQvJdwhh2k5",
+    "data": {
+      "nome": "Gin",
+      "preco": 10,
+      "categoria": "drinks",
+      "codigo": null,
+      "imagem_url": null,
+      "descricao": null,
+      "num_complementos_gratis": 0,
+      "complements": {},
+      "isHidden": false,
+      "discountValue": 0,
+      "discountType": "none",
+      "precoOriginal": null,
+      "id": "yHldSACcysQvJdwhh2k5",
+      "createdAt": {
+        "_seconds": 1755654027,
+        "_nanoseconds": 630000000
+      },
+      "updatedAt": {
+        "_seconds": 1755654027,
+        "_nanoseconds": 630000000
+      }
+    },
+    "subcollections": {}
+  }
+]
