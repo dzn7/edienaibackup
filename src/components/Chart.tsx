@@ -28,7 +28,7 @@ ChartJS.register(
 
 interface ChartProps {
   type: 'bar' | 'line' | 'doughnut';
-  data: Record<string, unknown>;
+  data: any;
   title?: string;
   height?: number;
 }
