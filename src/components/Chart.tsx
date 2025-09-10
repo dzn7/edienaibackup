@@ -75,7 +75,7 @@ export const Chart = ({ type, data, title, height = 300 }: ChartProps) => {
 
   const chartData = {
     ...data,
-    datasets: (data.datasets as Record<string, unknown>[])?.map((dataset: Record<string, unknown>) => ({
+    datasets: data.datasets?.map((dataset: any) => ({
       ...dataset,
       backgroundColor: dataset.backgroundColor || [
         'rgba(59, 130, 246, 0.8)',
