@@ -11,6 +11,8 @@ import {
   Tooltip,
   Legend,
   ArcElement,
+  ChartData,
+  ChartOptions,
 } from 'chart.js';
 import { Bar, Line, Doughnut } from 'react-chartjs-2';
 
@@ -43,44 +45,7 @@ interface ChartProps {
 }
 
 export const Chart = ({ type, data, title, height = 300 }: ChartProps) => {
-  const options = {
-    responsive: true,
-    maintainAspectRatio: false,
-    plugins: {
-      legend: {
-        labels: {
-          color: '#f8fafc',
-        },
-      },
-      title: {
-        display: !!title,
-        text: title,
-        color: '#f8fafc',
-        font: {
-          size: 16,
-          weight: 'bold' as const,
-        },
-      },
-    },
-    scales: type !== 'doughnut' ? {
-      x: {
-        ticks: {
-          color: '#94a3b8',
-        },
-        grid: {
-          color: '#334155',
-        },
-      },
-      y: {
-        ticks: {
-          color: '#94a3b8',
-        },
-        grid: {
-          color: '#334155',
-        },
-      },
-    } : undefined,
-  };
+  // Options are defined per chart type below to ensure correct typing
 
   const chartData = {
     ...data,
@@ -108,11 +73,100 @@ export const Chart = ({ type, data, title, height = 300 }: ChartProps) => {
   const renderChart = () => {
     switch (type) {
       case 'bar':
-        return <Bar data={chartData as any} options={options} />;
+        {
+          const options: ChartOptions<'bar'> = {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                labels: {
+                  color: '#f8fafc',
+                },
+              },
+              title: {
+                display: !!title,
+                text: title,
+                color: '#f8fafc',
+                font: {
+                  size: 16,
+                  weight: 'bold',
+                },
+              },
+            },
+            scales: {
+              x: {
+                ticks: { color: '#94a3b8' },
+                grid: { color: '#334155' },
+              },
+              y: {
+                ticks: { color: '#94a3b8' },
+                grid: { color: '#334155' },
+              },
+            },
+          };
+          const dataBar: ChartData<'bar', number[], string> = chartData as ChartData<'bar', number[], string>;
+          return <Bar data={dataBar} options={options} />;
+        }
       case 'line':
-        return <Line data={chartData as any} options={options} />;
+        {
+          const options: ChartOptions<'line'> = {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                labels: {
+                  color: '#f8fafc',
+                },
+              },
+              title: {
+                display: !!title,
+                text: title,
+                color: '#f8fafc',
+                font: {
+                  size: 16,
+                  weight: 'bold',
+                },
+              },
+            },
+            scales: {
+              x: {
+                ticks: { color: '#94a3b8' },
+                grid: { color: '#334155' },
+              },
+              y: {
+                ticks: { color: '#94a3b8' },
+                grid: { color: '#334155' },
+              },
+            },
+          };
+          const dataLine: ChartData<'line', number[], string> = chartData as ChartData<'line', number[], string>;
+          return <Line data={dataLine} options={options} />;
+        }
       case 'doughnut':
-        return <Doughnut data={chartData as any} options={options} />;
+        {
+          const options: ChartOptions<'doughnut'> = {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                labels: {
+                  color: '#f8fafc',
+                },
+              },
+              title: {
+                display: !!title,
+                text: title,
+                color: '#f8fafc',
+                font: {
+                  size: 16,
+                  weight: 'bold',
+                },
+              },
+            },
+          };
+          const dataDoughnut: ChartData<'doughnut', number[], string> = chartData as ChartData<'doughnut', number[], string>;
+          return <Doughnut data={dataDoughnut} options={options} />;
+        }
       default:
         return null;
     }
