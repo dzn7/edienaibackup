@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useCallback } from 'react';
 import { Crediario, Pedido } from '@/types';
 import { 
   connectCrediariosToPedidos, 
@@ -36,7 +36,7 @@ export function useAIConnections({ crediarios, pedidos }: UseAIConnectionsProps)
   const [isLoading, setIsLoading] = useState(false);
 
   // Função para processar conexões
-  const processConnections = async () => {
+  const processConnections = useCallback(async () => {
     if (crediarios.length === 0 || pedidos.length === 0) {
       setConnections([]);
       return;
@@ -56,7 +56,7 @@ export function useAIConnections({ crediarios, pedidos }: UseAIConnectionsProps)
     } finally {
       setIsLoading(false);
     }
-  };
+  }, [crediarios, pedidos]);
 
   // Processar conexões quando os dados mudarem
   useEffect(() => {
