@@ -80,6 +80,19 @@ export interface Pedido {
       type: string;
       address?: string;
     };
+    // Optional order history, used in PedidosTab to render timeline entries
+    history?: Array<{
+      description?: string;
+      action?: string;
+      timestamp?: {
+        _seconds: number;
+        _nanoseconds: number;
+      };
+      date?: {
+        _seconds: number;
+        _nanoseconds: number;
+      };
+    }>;
   };
 }
 
