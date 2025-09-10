@@ -28,7 +28,16 @@ ChartJS.register(
 
 interface ChartProps {
   type: 'bar' | 'line' | 'doughnut';
-  data: any;
+  data: {
+    labels?: string[];
+    datasets?: Array<{
+      label?: string;
+      data: number[];
+      backgroundColor?: string | string[];
+      borderColor?: string | string[];
+      borderWidth?: number;
+    }>;
+  };
   title?: string;
   height?: number;
 }
@@ -75,7 +84,7 @@ export const Chart = ({ type, data, title, height = 300 }: ChartProps) => {
 
   const chartData = {
     ...data,
-    datasets: data.datasets?.map((dataset: any) => ({
+    datasets: (data.datasets || []).map((dataset) => ({
       ...dataset,
       backgroundColor: dataset.backgroundColor || [
         'rgba(59, 130, 246, 0.8)',
@@ -99,11 +108,11 @@ export const Chart = ({ type, data, title, height = 300 }: ChartProps) => {
   const renderChart = () => {
     switch (type) {
       case 'bar':
-        return <Bar data={chartData} options={options} />;
+        return <Bar data={chartData as any} options={options} />;
       case 'line':
-        return <Line data={chartData} options={options} />;
+        return <Line data={chartData as any} options={options} />;
       case 'doughnut':
-        return <Doughnut data={chartData} options={options} />;
+        return <Doughnut data={chartData as any} options={options} />;
       default:
         return null;
     }
