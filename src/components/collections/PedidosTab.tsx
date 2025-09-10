@@ -389,7 +389,13 @@ export const PedidosTab = ({ pedidos }: PedidosTabProps) => {
                   {selectedPedido.data.history.map((entry, index) => (
                     <div key={index} className="flex justify-between items-center p-2 bg-slate-600/30 rounded">
                       <div className="text-sm text-white">{entry.description || entry.action}</div>
-                      <div className="text-sm text-gray-400">{formatDate(entry.timestamp || entry.date)}</div>
+                      <div className="text-sm text-gray-400">
+                        {entry.timestamp
+                          ? formatDate(entry.timestamp)
+                          : entry.date
+                            ? formatDate(entry.date)
+                            : '-'}
+                      </div>
                     </div>
                   ))}
                 </div>
