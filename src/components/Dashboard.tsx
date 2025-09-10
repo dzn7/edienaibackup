@@ -1,3 +1,4 @@
+
 'use client';
 
 import { useState, useMemo } from 'react';
@@ -8,9 +9,7 @@ import {
   Users, 
   TrendingUp, 
   DollarSign,
-  BarChart3,
-  PieChart,
-  Activity
+  BarChart3
 } from 'lucide-react';
 import { MetricsCard } from './MetricsCard';
 import { Chart } from './Chart';

@@ -4,7 +4,7 @@ import { useState, useMemo } from 'react';
 import { DataGrid, GridColDef } from '@mui/x-data-grid';
 import { Button, Chip, TextField, InputAdornment } from '@mui/material';
 import { Search, Download, FileSpreadsheet, Eye, FileText, Filter } from 'lucide-react';
-import { Crediario, ProcessedCrediario } from '@/types';
+import { Crediario, ProcessedCrediario, Pedido } from '@/types';
 import { exportToCSV, exportToXLSX, formatDate, formatCurrency } from '@/utils/export';
 import { Modal } from '../Modal';
 import { generatePDF } from '@/utils/pdfGenerator';
@@ -13,7 +13,7 @@ import { AIConnectionIndicator, AIStatsCard } from '../AIConnectionIndicator';
 
 interface CrediariosTabProps {
   crediarios: Crediario[];
-  pedidos: any[];
+  pedidos: Pedido[];
 }
 
 export const CrediariosTab = ({ crediarios, pedidos }: CrediariosTabProps) => {
@@ -28,7 +28,6 @@ export const CrediariosTab = ({ crediarios, pedidos }: CrediariosTabProps) => {
   // Hook de IA para conectar crediários aos pedidos
   const { 
     connections, 
-    isLoading: aiLoading, 
     stats, 
     insights, 
     getConnectedPedidosForCrediario 
@@ -82,11 +81,6 @@ export const CrediariosTab = ({ crediarios, pedidos }: CrediariosTabProps) => {
     });
   }, [processedCrediarios, searchTerm, statusFilter, balanceFilter]);
 
-  const getBalanceColor = (balance: number) => {
-    if (balance > 0) return 'error'; // Vermelho para saldo positivo (devendo)
-    if (balance < 0) return 'success'; // Verde para saldo negativo (pago a mais)
-    return 'default'; // Cinza para saldo zero
-  };
 
   const getBalanceTextColor = (balance: number) => {
     if (balance > 0) return 'text-red-400'; // Vermelho claro para saldo positivo
@@ -466,7 +460,7 @@ export const CrediariosTab = ({ crediarios, pedidos }: CrediariosTabProps) => {
                   />
                 </div>
                 <div className="space-y-4">
-                  {selectedCrediario.connectedPedidos.map((pedido: any, index: number) => (
+                  {selectedCrediario.connectedPedidos.map((pedido: Pedido, index: number) => (
                     <div key={index} className="bg-slate-600/50 rounded-lg p-4">
                       {/* Cabeçalho do Pedido */}
                       <div className="flex justify-between items-start mb-3">
@@ -494,26 +488,30 @@ export const CrediariosTab = ({ crediarios, pedidos }: CrediariosTabProps) => {
                       <div className="border-t border-slate-500 pt-3">
                         <h5 className="text-sm font-semibold text-white mb-2">Itens do Pedido:</h5>
                         <div className="space-y-2">
-                          {pedido.data.items.map((item: any, itemIndex: number) => (
+                          {pedido.data.items.map((item: Record<string, unknown>, itemIndex: number) => (
                             <div key={itemIndex} className="flex justify-between items-center p-2 bg-slate-500/30 rounded">
                               <div className="flex-1">
-                                <div className="font-medium text-white text-sm">{item.name}</div>
+                                <div className="font-medium text-white text-sm">{item.name as string}</div>
                                 <div className="text-xs text-gray-400">
-                                  Quantidade: {item.quantity} • Preço unitário: {formatCurrency(item.basePrice)}
+                                  Quantidade: {item.quantity as number} • Preço unitário: {formatCurrency(item.basePrice as number)}
                                 </div>
-                                {item.complements && item.complements.length > 0 && (
-                                  <div className="text-xs text-blue-400 mt-1">
-                                    Complementos: {item.complements.map((c: any) => c.name).join(', ')}
-                                  </div>
-                                )}
+                                {(() => {
+                                  const complements = item.complements as Record<string, unknown>[];
+                                  const complementNames = complements?.map((c: Record<string, unknown>) => c.name as string).join(', ') || '';
+                                  return item.complements && Array.isArray(item.complements) && item.complements.length > 0 ? (
+                                    <div className="text-xs text-blue-400 mt-1">
+                                      Complementos: {complementNames}
+                                    </div>
+                                  ) : null;
+                                })()}
                               </div>
                               <div className="text-right">
                                 <div className="font-semibold text-white text-sm">
-                                  {formatCurrency(item.totalItemPrice)}
+                                  {formatCurrency(item.totalItemPrice as number)}
                                 </div>
-                                {item.unitPriceWithComplements !== item.basePrice && (
+                                {(item.unitPriceWithComplements as number) !== (item.basePrice as number) && (
                                   <div className="text-xs text-gray-400">
-                                    + {formatCurrency(item.unitPriceWithComplements - item.basePrice)} complementos
+                                    + {formatCurrency((item.unitPriceWithComplements as number) - (item.basePrice as number))} complementos
                                   </div>
                                 )}
                               </div>
@@ -584,22 +582,26 @@ export const CrediariosTab = ({ crediarios, pedidos }: CrediariosTabProps) => {
                           <div className="border-t border-slate-500 pt-3 mt-3">
                             <h5 className="text-sm font-semibold text-white mb-2">Detalhes do Pedido:</h5>
                             <div className="space-y-2">
-                              {relatedPedido.data.items.map((item: any, itemIndex: number) => (
+                              {relatedPedido.data.items.map((item: Record<string, unknown>, itemIndex: number) => (
                                 <div key={itemIndex} className="flex justify-between items-center p-2 bg-slate-500/30 rounded text-sm">
                                   <div className="flex-1">
-                                    <div className="text-white">{item.name}</div>
+                                    <div className="text-white">{item.name as string}</div>
                                     <div className="text-xs text-gray-400">
-                                      Qtd: {item.quantity} • Unit: {formatCurrency(item.basePrice)}
+                                      Qtd: {item.quantity as number} • Unit: {formatCurrency(item.basePrice as number)}
                                     </div>
-                                    {item.complements && item.complements.length > 0 && (
-                                      <div className="text-xs text-blue-400">
-                                        + {item.complements.map((c: any) => c.name).join(', ')}
-                                      </div>
-                                    )}
+                                    {(() => {
+                                      const complements = item.complements as Record<string, unknown>[];
+                                      const complementNames = complements?.map((c: Record<string, unknown>) => c.name as string).join(', ') || '';
+                                      return item.complements && Array.isArray(item.complements) && item.complements.length > 0 ? (
+                                        <div className="text-xs text-blue-400">
+                                          + {complementNames}
+                                        </div>
+                                      ) : null;
+                                    })()}
                                   </div>
                                   <div className="text-right">
                                     <div className="text-white font-medium">
-                                      {formatCurrency(item.totalItemPrice)}
+                                      {formatCurrency(item.totalItemPrice as number)}
                                     </div>
                                   </div>
                                 </div>
@@ -607,7 +609,7 @@ export const CrediariosTab = ({ crediarios, pedidos }: CrediariosTabProps) => {
                             </div>
                             <div className="flex justify-between items-center mt-2 pt-2 border-t border-slate-500">
                               <div className="text-sm text-gray-300">
-                                Total do Pedido: {formatCurrency((relatedPedido.data as any).total || relatedPedido.data.totalAmount || 0)}
+                                Total do Pedido: {formatCurrency((relatedPedido.data as Record<string, unknown>).total as number || relatedPedido.data.totalAmount || 0)}
                               </div>
                               <div className="text-xs text-gray-400">
                                 {formatDate(relatedPedido.data.sentAt)}

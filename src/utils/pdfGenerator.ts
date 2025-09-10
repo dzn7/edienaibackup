@@ -41,7 +41,7 @@ export const generatePDF = async (elementId: string, filename: string) => {
   }
 };
 
-export const generateTablePDF = async (data: any[], columns: any[], title: string, filename: string) => {
+export const generateTablePDF = async (data: Record<string, unknown>[], columns: Record<string, unknown>[], title: string, filename: string) => {
   const pdf = new jsPDF('p', 'mm', 'a4');
   
   // Title

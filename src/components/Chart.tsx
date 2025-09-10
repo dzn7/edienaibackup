@@ -28,7 +28,7 @@ ChartJS.register(
 
 interface ChartProps {
   type: 'bar' | 'line' | 'doughnut';
-  data: any;
+  data: Record<string, unknown>;
   title?: string;
   height?: number;
 }
@@ -75,7 +75,7 @@ export const Chart = ({ type, data, title, height = 300 }: ChartProps) => {
 
   const chartData = {
     ...data,
-    datasets: data.datasets?.map((dataset: any) => ({
+    datasets: data.datasets?.map((dataset: Record<string, unknown>) => ({
       ...dataset,
       backgroundColor: dataset.backgroundColor || [
         'rgba(59, 130, 246, 0.8)',

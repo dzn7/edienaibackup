@@ -61,7 +61,7 @@ export function useAIConnections({ crediarios, pedidos }: UseAIConnectionsProps)
   // Processar conexões quando os dados mudarem
   useEffect(() => {
     processConnections();
-  }, [crediarios, pedidos]);
+  }, [crediarios, pedidos, processConnections]);
 
   // Estatísticas das conexões
   const stats = useMemo(() => {
@@ -70,8 +70,8 @@ export function useAIConnections({ crediarios, pedidos }: UseAIConnectionsProps)
 
   // Insights de IA
   const insights = useMemo(() => {
-    return getAIInsights(connections, crediarios, pedidos);
-  }, [connections, crediarios, pedidos]);
+    return getAIInsights(connections, crediarios);
+  }, [connections, crediarios]);
 
   // Função para obter pedidos conectados a um crediário
   const getConnectedPedidosForCrediario = (crediarioId: string): Pedido[] => {

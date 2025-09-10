@@ -3,7 +3,7 @@
 import { useState, useMemo } from 'react';
 import { DataGrid, GridColDef } from '@mui/x-data-grid';
 import { Button, Chip, TextField, InputAdornment } from '@mui/material';
-import { Search, Download, FileSpreadsheet, Package } from 'lucide-react';
+import { Search, Download, FileSpreadsheet } from 'lucide-react';
 import { Produto } from '@/types';
 import { exportToCSV, exportToXLSX, formatCurrency } from '@/utils/export';
 

@@ -63,7 +63,7 @@ export interface Pedido {
       quantity: number;
       basePrice: number;
       unitPriceWithComplements: number;
-      complements: any[];
+      complements: Record<string, unknown>[];
       totalItemPrice: number;
     }>;
     totalAmount: number;
@@ -152,7 +152,7 @@ export interface RealtimeOrder {
     orderId: string;
     customerName: string;
     status: string;
-    items: any[];
+    items: Record<string, unknown>[];
     totalAmount: number;
     createdAt: {
       _seconds: number;

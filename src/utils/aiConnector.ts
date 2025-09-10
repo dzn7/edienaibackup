@@ -1,15 +1,5 @@
 import { Crediario, Pedido } from '@/types';
 
-interface ConnectionResult {
-  crediario: Crediario;
-  connectedPedidos: Pedido[];
-  confidence: number;
-  matchDetails: {
-    nameMatch: number;
-    valueMatch: number;
-    dateMatch: number;
-  };
-}
 
 interface AIConnection {
   crediarioId: string;
@@ -84,7 +74,7 @@ function calculateValueSimilarity(crediarioValue: number, pedidoValue: number): 
 }
 
 // Função para calcular similaridade de data
-function calculateDateSimilarity(crediarioDate: any, pedidoDate: any): number {
+function calculateDateSimilarity(crediarioDate: Record<string, unknown>, pedidoDate: Record<string, unknown>): number {
   try {
     const crediarioTime = crediarioDate._seconds ? crediarioDate._seconds * 1000 : new Date(crediarioDate).getTime();
     const pedidoTime = pedidoDate._seconds ? pedidoDate._seconds * 1000 : new Date(pedidoDate).getTime();
@@ -98,7 +88,7 @@ function calculateDateSimilarity(crediarioDate: any, pedidoDate: any): number {
     if (diffDays <= 180) return 0.4;
     
     return 0.2;
-  } catch (error) {
+  } catch {
     return 0.0;
   }
 }
@@ -112,7 +102,7 @@ export function connectCrediariosToPedidos(crediarios: Crediario[], pedidos: Ped
     const crediarioValue = crediario.totalConsumption || 0;
     const crediarioDate = crediario.data.createdAt;
     
-    const potentialMatches: { pedido: Pedido; score: number; details: any }[] = [];
+    const potentialMatches: { pedido: Pedido; score: number; details: Record<string, unknown> }[] = [];
     
     for (const pedido of pedidos) {
       const pedidoName = normalizeName(pedido.data.customerName);
@@ -200,7 +190,7 @@ export function getConnectionStats(connections: AIConnection[]): {
 }
 
 // Função para obter insights de IA
-export function getAIInsights(connections: AIConnection[], crediarios: Crediario[], pedidos: Pedido[]): {
+export function getAIInsights(connections: AIConnection[], crediarios: Crediario[]): {
   insights: string[];
   recommendations: string[];
 } {
