@@ -179,6 +179,7 @@ export const PedidosTab = ({ pedidos }: PedidosTabProps) => {
             value={statusFilter}
             onChange={(e) => setStatusFilter(e.target.value)}
             className="px-4 py-2 bg-slate-700 border border-slate-600 rounded-lg text-white"
+            aria-label="Filtrar por status"
           >
             <option value="all">Todos os Status</option>
             {uniqueStatuses.map(status => (
@@ -220,28 +221,31 @@ export const PedidosTab = ({ pedidos }: PedidosTabProps) => {
         {showFilters && (
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 p-4 bg-slate-700/50 rounded-lg">
             <div>
-              <label className="block text-sm font-medium text-gray-300 mb-2">Data Inicial</label>
+              <label htmlFor="date-from" className="block text-sm font-medium text-gray-300 mb-2">Data Inicial</label>
               <input
                 type="date"
                 value={dateFrom}
                 onChange={(e) => setDateFrom(e.target.value)}
+                id="date-from"
                 className="w-full px-3 py-2 bg-slate-600 border border-slate-500 rounded-lg text-white"
               />
             </div>
             <div>
-              <label className="block text-sm font-medium text-gray-300 mb-2">Data Final</label>
+              <label htmlFor="date-to" className="block text-sm font-medium text-gray-300 mb-2">Data Final</label>
               <input
                 type="date"
                 value={dateTo}
                 onChange={(e) => setDateTo(e.target.value)}
+                id="date-to"
                 className="w-full px-3 py-2 bg-slate-600 border border-slate-500 rounded-lg text-white"
               />
             </div>
             <div>
-              <label className="block text-sm font-medium text-gray-300 mb-2">Método de Pagamento</label>
+              <label htmlFor="payment-method" className="block text-sm font-medium text-gray-300 mb-2">Método de Pagamento</label>
               <select
                 value={paymentMethodFilter}
                 onChange={(e) => setPaymentMethodFilter(e.target.value)}
+                id="payment-method"
                 className="w-full px-3 py-2 bg-slate-600 border border-slate-500 rounded-lg text-white"
               >
                 <option value="all">Todos</option>

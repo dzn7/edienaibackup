@@ -41,7 +41,14 @@ export const generatePDF = async (elementId: string, filename: string) => {
   }
 };
 
-export const generateTablePDF = async (data: Record<string, unknown>[], columns: Record<string, unknown>[], title: string, filename: string) => {
+type TableColumn = { headerName: string; field: string };
+
+export const generateTablePDF = async (
+  data: Record<string, unknown>[],
+  columns: TableColumn[],
+  title: string,
+  filename: string
+) => {
   const pdf = new jsPDF('p', 'mm', 'a4');
   
   // Title
@@ -72,7 +79,7 @@ export const generateTablePDF = async (data: Record<string, unknown>[], columns:
     const y = startY + ((rowIndex + 1) * rowHeight);
     
     columns.forEach((col, colIndex) => {
-      const value = row[col.field] || '-';
+      const value = (row as Record<string, unknown>)[col.field] ?? '-';
       const text = typeof value === 'string' ? value : String(value);
       pdf.text(text.substring(0, 20), 20 + (colIndex * colWidth), y);
     });
