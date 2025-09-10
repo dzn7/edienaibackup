@@ -1,7 +1,7 @@
 import { Crediario, Pedido } from '@/types';
 
 
-interface AIConnection {
+export interface AIConnection {
   crediarioId: string;
   pedidoIds: string[];
   confidence: number;
@@ -73,11 +73,22 @@ function calculateValueSimilarity(crediarioValue: number, pedidoValue: number): 
   return Math.max(0, similarity);
 }
 
+// Tipagem para Timestamps vindos do Firestore serializados, ou valores comuns
+type FirestoreTimestamp = { _seconds: number; _nanoseconds: number } | string | number | Date;
+
+function toMillis(input: FirestoreTimestamp): number {
+  if (typeof input === 'number') return input;
+  if (typeof input === 'string') return new Date(input).getTime();
+  if (input instanceof Date) return input.getTime();
+  // Firestore-like object
+  return input._seconds * 1000;
+}
+
 // Função para calcular similaridade de data
-function calculateDateSimilarity(crediarioDate: Record<string, unknown>, pedidoDate: Record<string, unknown>): number {
+function calculateDateSimilarity(crediarioDate: FirestoreTimestamp, pedidoDate: FirestoreTimestamp): number {
   try {
-    const crediarioTime = crediarioDate._seconds ? crediarioDate._seconds * 1000 : new Date(crediarioDate).getTime();
-    const pedidoTime = pedidoDate._seconds ? pedidoDate._seconds * 1000 : new Date(pedidoDate).getTime();
+    const crediarioTime = toMillis(crediarioDate);
+    const pedidoTime = toMillis(pedidoDate);
     
     const diffDays = Math.abs(crediarioTime - pedidoTime) / (1000 * 60 * 60 * 24);
     
@@ -99,14 +110,20 @@ export function connectCrediariosToPedidos(crediarios: Crediario[], pedidos: Ped
   
   for (const crediario of crediarios) {
     const crediarioName = normalizeName(crediario.data.customerName);
-    const crediarioValue = crediario.totalConsumption || 0;
+    // Aproximação do valor do crediário: somar lançamentos de consumo no histórico
+    const crediarioValue = Array.isArray(crediario.subcollections?.history)
+      ? crediario.subcollections.history
+          .filter((h) => h?.data?.type === 'consumption')
+          .reduce((sum, h) => sum + (typeof h.data.amount === 'number' ? h.data.amount : 0), 0)
+      : 0;
     const crediarioDate = crediario.data.createdAt;
     
-    const potentialMatches: { pedido: Pedido; score: number; details: Record<string, unknown> }[] = [];
+    const potentialMatches: { pedido: Pedido; score: number; details: { nameMatch: number; valueMatch: number; dateMatch: number } }[] = [];
     
     for (const pedido of pedidos) {
       const pedidoName = normalizeName(pedido.data.customerName);
-      const pedidoValue = pedido.data.total || 0;
+      const pedidoValue = (typeof pedido.data.total === 'number' ? pedido.data.total : undefined) ??
+        (typeof pedido.data.totalAmount === 'number' ? pedido.data.totalAmount : 0);
       const pedidoDate = pedido.data.sentAt;
       
       // Calcular similaridades
